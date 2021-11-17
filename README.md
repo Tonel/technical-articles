@@ -1,4 +1,5 @@
-# Medium
+# Articles by Antonello Zanini
+## Medium
 
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://medium.com/swlh/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
 -   [Defining JPA/Hibernate Entities in Kotlin](https://medium.com/swlh/defining-jpa-hibernate-entities-in-kotlin-1ff8ee470805)
@@ -80,7 +81,7 @@
 -   [How To Create a WhatsApp Click-to-Chat CTA Link](https://bettermarketing.pub/how-to-create-a-whatsapp-click-to-chat-cta-link-3f56d6e6fb33)
 -   [A Stock Picking Inspired Method to Choose the Right Publications on Medium](https://medium.com/illumination/a-complete-guide-on-how-to-choose-the-right-publications-a1a9a93507fb)
 -   [The 3 Rules That Helped Me Reach 100k Views on Medium with Technical Articles](https://levelup.gitconnected.com/the-3-rules-that-helped-me-reach-100k-views-on-medium-with-technical-articles-f43807b030cf)
-# Auth0
+## Auth0
 
 -   [Mapping JPA Entities into DTOs in Spring Boot Using MapStruct](https://auth0.com/blog/how-to-automatically-map-jpa-entities-into-dtos-in-spring-boot-using-mapstruct/)
 -   [What is Caching and How It Works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
@@ -88,18 +89,18 @@
 -   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
 -   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
 
-# LogRocket
+## LogRocket
 
 -   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
 -   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
 -   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
 
-# SitePoint
+## SitePoint
 
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 
-# IMG.LY
+## IMG.LY
 
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
 -   [How To Resize an Image With JavaScript](https://img.ly/blog/how-to-resize-an-image-with-javascript/)
@@ -108,7 +109,7 @@
 -   [How To Apply Custom Image Filters Using HTML5 Canvas in JavaScript](https://img.ly/blog/how-to-apply-filters-in-javascript/)
 -   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
 
-# DatoCMS
+## DatoCMS
 
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
 -   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
