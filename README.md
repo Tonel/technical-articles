@@ -50,6 +50,7 @@
 -   [Auto-Versioning JavaScript and CSS Files in PHP](https://codeburst.io/auto-versioning-javascript-and-css-files-in-php-892d05c82d58)
 -   [5 Rules for Your Personal and Company’s Cybersecurity](https://levelup.gitconnected.com/5-rules-for-your-personal-and-companys-cybersecurity-4cad3d2b82c2)
 -   [Best Websites To Make Money With Technical Writing for Developers](https://betterprogramming.pub/best-websites-to-make-money-with-technical-writing-for-developers-bd4de3e54aab)
+-   [Will Google’s QUIC Protocol Replace TCP?](https://levelup.gitconnected.com/will-googles-quic-protocol-replace-tcp-6ed991a0ca1e)
 
 ## Auth0
 
