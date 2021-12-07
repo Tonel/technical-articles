@@ -51,6 +51,7 @@
 -   [5 Rules for Your Personal and Company’s Cybersecurity](https://levelup.gitconnected.com/5-rules-for-your-personal-and-companys-cybersecurity-4cad3d2b82c2)
 -   [Best Websites To Make Money With Technical Writing for Developers](https://betterprogramming.pub/best-websites-to-make-money-with-technical-writing-for-developers-bd4de3e54aab)
 -   [Will Google’s QUIC Protocol Replace TCP?](https://levelup.gitconnected.com/will-googles-quic-protocol-replace-tcp-6ed991a0ca1e)
+-   [How to Make Next.js Image Optimization Work on AWS Elastic Beanstalk](https://javascript.plainenglish.io/how-to-make-next-js-image-optimization-work-on-aws-elastic-beanstalk-2776ea255eff)
 
 ## Auth0
 
