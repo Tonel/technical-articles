@@ -66,6 +66,7 @@
 -   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
 -   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
 -   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
+-   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
 
 ## SitePoint
 
@@ -80,6 +81,7 @@
 -   [How To Draw on an Image with JavaScript](https://img.ly/blog/how-to-draw-on-an-image-with-javascript/)
 -   [How To Apply Custom Image Filters Using HTML5 Canvas in JavaScript](https://img.ly/blog/how-to-apply-filters-in-javascript/)
 -   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
+-   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
 
 ## DatoCMS
 
