@@ -60,6 +60,7 @@
 -   [Spring Boot Caching 101](https://auth0.com/blog/spring-boot-caching-101/)
 -   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
 -   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
+-   [How To Deal With document.write() in React and Next.js](https://levelup.gitconnected.com/how-to-deal-with-document-write-in-react-and-next-js-31f0c1215e43)
 
 ## LogRocket
 
