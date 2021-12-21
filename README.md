@@ -52,6 +52,7 @@
 -   [Best Websites To Make Money With Technical Writing for Developers](https://betterprogramming.pub/best-websites-to-make-money-with-technical-writing-for-developers-bd4de3e54aab)
 -   [Will Google’s QUIC Protocol Replace TCP?](https://levelup.gitconnected.com/will-googles-quic-protocol-replace-tcp-6ed991a0ca1e)
 -   [How to Make Next.js Image Optimization Work on AWS Elastic Beanstalk](https://javascript.plainenglish.io/how-to-make-next-js-image-optimization-work-on-aws-elastic-beanstalk-2776ea255eff)
+-   [How To Automatically Get Props Types in Next.js and TypeScript](https://javascript.plainenglish.io/how-to-automatically-get-props-types-in-next-js-and-typescript-4c223e962617)
 
 ## Auth0
 
