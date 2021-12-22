@@ -53,6 +53,7 @@
 -   [Will Google’s QUIC Protocol Replace TCP?](https://levelup.gitconnected.com/will-googles-quic-protocol-replace-tcp-6ed991a0ca1e)
 -   [How to Make Next.js Image Optimization Work on AWS Elastic Beanstalk](https://javascript.plainenglish.io/how-to-make-next-js-image-optimization-work-on-aws-elastic-beanstalk-2776ea255eff)
 -   [How To Automatically Get Props Types in Next.js and TypeScript](https://javascript.plainenglish.io/how-to-automatically-get-props-types-in-next-js-and-typescript-4c223e962617)
+-   [How to Deploy Next.js on Multiple Servers](https://levelup.gitconnected.com/how-to-deploy-next-js-on-multiple-servers-3b493d4ce0e9)
 
 ## Auth0
 
@@ -93,3 +94,4 @@
 -   [How To Build an Ecommerce with Next.js and Snipcart](https://www.datocms.com/blog/how-to-build-an-ecommerce-nextjs-snipcart-tutorial)
 -   [What You Should Know About the Next.js Image Component](https://www.datocms.com/blog/nextjs-images)
 -   [Dealing with SEO in Next.js](https://www.datocms.com/blog/dealing-with-nextjs-seo)
+-   [How To Build an Ecommerce Application in React With Snipcart](https://www.datocms.com/blog/react-ecommerce-tutorial)
