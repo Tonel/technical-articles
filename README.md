@@ -77,6 +77,10 @@
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 -   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 
+## Arctype
+
+-   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
+
 ## IMG.LY
 
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
