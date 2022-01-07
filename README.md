@@ -54,6 +54,7 @@
 -   [How to Make Next.js Image Optimization Work on AWS Elastic Beanstalk](https://javascript.plainenglish.io/how-to-make-next-js-image-optimization-work-on-aws-elastic-beanstalk-2776ea255eff)
 -   [How To Automatically Get Props Types in Next.js and TypeScript](https://javascript.plainenglish.io/how-to-automatically-get-props-types-in-next-js-and-typescript-4c223e962617)
 -   [How to Deploy Next.js on Multiple Servers](https://levelup.gitconnected.com/how-to-deploy-next-js-on-multiple-servers-3b493d4ce0e9)
+-   [Using the HTML style Tag to Style a React Component](https://levelup.gitconnected.com/using-the-html-style-tag-to-style-a-react-component-b3203e8eb0d9)
 
 ## Auth0
 
