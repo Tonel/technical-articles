@@ -57,6 +57,7 @@
 -   [Using the HTML style Tag to Style a React Component](https://levelup.gitconnected.com/using-the-html-style-tag-to-style-a-react-component-b3203e8eb0d9)
 -   [How To Quickly Define an Efficient SQL Index for GROUP BY Queries](https://levelup.gitconnected.com/how-to-quickly-define-an-efficient-sql-index-for-group-by-queries-b8ba0c42bd07)
 -   [How To Send Multiple SMS With Twilio in Spring Boot](https://levelup.gitconnected.com/how-to-send-multiple-sms-with-twilio-in-spring-boot-702cf12d565f)
+-   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
 
 ## Auth0
 
