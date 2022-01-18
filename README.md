@@ -103,3 +103,4 @@
 -   [What You Should Know About the Next.js Image Component](https://www.datocms.com/blog/nextjs-images)
 -   [Dealing with SEO in Next.js](https://www.datocms.com/blog/dealing-with-nextjs-seo)
 -   [How To Build an Ecommerce Application in React With Snipcart](https://www.datocms.com/blog/react-ecommerce-tutorial)
+-   [Next.js vs Remix: Top 5 Differences](https://www.datocms.com/blog/next-js-vs-remix-top-5-differences)
