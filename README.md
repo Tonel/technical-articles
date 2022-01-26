@@ -94,6 +94,7 @@
 -   [How To Apply Custom Image Filters Using HTML5 Canvas in JavaScript](https://img.ly/blog/how-to-apply-filters-in-javascript/)
 -   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
 -   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
+-   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
 
 ## DatoCMS
 
