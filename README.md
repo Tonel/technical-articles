@@ -80,6 +80,7 @@
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 -   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
+-   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
 
 ## Arctype
 
