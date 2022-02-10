@@ -74,6 +74,7 @@
 -   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
 -   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
 -   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
+-   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
 
 ## SitePoint
 
