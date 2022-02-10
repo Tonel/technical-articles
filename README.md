@@ -96,6 +96,7 @@
 -   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
 -   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
 -   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
+-   [How To Scale, Crop, Flip, and Filter an Image in CSS](https://img.ly/blog/how-to-scale-crop-flip-and-filter-an-image-in-css/)
 
 ## DatoCMS
 
