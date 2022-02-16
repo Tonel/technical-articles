@@ -87,6 +87,7 @@
 ## Arctype
 
 -   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
+-   [How to fix a sequence when it goes out of sync in Postgres](https://arctype.com/blog/postgres-sequence/)
 
 ## IMG.LY
 
