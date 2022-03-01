@@ -112,3 +112,5 @@
 -   [How To Build an Ecommerce Application in React With Snipcart](https://www.datocms.com/blog/react-ecommerce-tutorial)
 -   [Next.js vs Remix: Top 5 Differences](https://www.datocms.com/blog/next-js-vs-remix-top-5-differences)
 -   [Best React Frameworks to Go Jamstack](https://www.datocms.com/blog/best-jamstack-react-frameworks)
+-   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
+-   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
