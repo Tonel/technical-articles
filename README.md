@@ -100,6 +100,7 @@
 -   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
 -   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
 -   [How To Scale, Crop, Flip, and Filter an Image in CSS](https://img.ly/blog/how-to-scale-crop-flip-and-filter-an-image-in-css/)
+-   [How To Add a Sticker to a Texture With Three.js](https://img.ly/blog/how-to-add-a-sticker-to-a-texture-with-three-js/)
 
 ## DatoCMS
 
