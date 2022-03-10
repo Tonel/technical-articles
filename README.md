@@ -59,6 +59,7 @@
 -   [How To Send Multiple SMS With Twilio in Spring Boot](https://levelup.gitconnected.com/how-to-send-multiple-sms-with-twilio-in-spring-boot-702cf12d565f)
 -   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
+-   [Partitioning a Billion-Row Table of Sports Data Using Data Context](https://towardsdatascience.com/partitioning-a-billion-row-table-of-sports-data-using-data-context-6eb94bb9f18a)
 
 ## Auth0
 
@@ -101,6 +102,7 @@
 -   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
 -   [How To Scale, Crop, Flip, and Filter an Image in CSS](https://img.ly/blog/how-to-scale-crop-flip-and-filter-an-image-in-css/)
 -   [How To Add a Sticker to a Texture With Three.js](https://img.ly/blog/how-to-add-a-sticker-to-a-texture-with-three-js/)
+-   [How To Resize and Compress an Image in JavaScript for Upload](https://img.ly/blog/how-to-compress-an-image-before-uploading-it-in-javascript/)
 
 ## DatoCMS
 
