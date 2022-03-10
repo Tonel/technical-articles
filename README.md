@@ -56,6 +56,7 @@
 -   [How to Deploy Next.js on Multiple Servers](https://levelup.gitconnected.com/how-to-deploy-next-js-on-multiple-servers-3b493d4ce0e9)
 -   [Using the HTML style Tag to Style a React Component](https://levelup.gitconnected.com/using-the-html-style-tag-to-style-a-react-component-b3203e8eb0d9)
 -   [How To Quickly Define an Efficient SQL Index for GROUP BY Queries](https://levelup.gitconnected.com/how-to-quickly-define-an-efficient-sql-index-for-group-by-queries-b8ba0c42bd07)
+-   [How To Deal With document.write() in React and Next.js](https://levelup.gitconnected.com/how-to-deal-with-document-write-in-react-and-next-js-31f0c1215e43)
 -   [How To Send Multiple SMS With Twilio in Spring Boot](https://levelup.gitconnected.com/how-to-send-multiple-sms-with-twilio-in-spring-boot-702cf12d565f)
 -   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
@@ -68,7 +69,6 @@
 -   [Spring Boot Caching 101](https://auth0.com/blog/spring-boot-caching-101/)
 -   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
 -   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
--   [How To Deal With document.write() in React and Next.js](https://levelup.gitconnected.com/how-to-deal-with-document-write-in-react-and-next-js-31f0c1215e43)
 
 ## LogRocket
 
