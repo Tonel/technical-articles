@@ -61,6 +61,7 @@
 -   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
 -   [Partitioning a Billion-Row Table of Sports Data Using Data Context](https://towardsdatascience.com/partitioning-a-billion-row-table-of-sports-data-using-data-context-6eb94bb9f18a)
+-   [How To Pass a Variable to Your Translation String With i18next](https://betterprogramming.pub/how-to-pass-a-variable-to-your-translation-string-with-i18next-b07614c33514)
 
 ## Auth0
 
