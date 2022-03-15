@@ -118,3 +118,6 @@
 -   [Best React Frameworks to Go Jamstack](https://www.datocms.com/blog/best-jamstack-react-frameworks)
 -   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
 -   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
+
+## Toro Cloud
+- [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
