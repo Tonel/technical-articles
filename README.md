@@ -119,5 +119,9 @@
 -   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
 -   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
 
+## Draft.dev
+### Pieces
+-   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
+
 ## Toro Cloud
-- [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
+-   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
