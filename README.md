@@ -63,6 +63,7 @@
 -   [Partitioning a Billion-Row Table of Sports Data Using Data Context](https://towardsdatascience.com/partitioning-a-billion-row-table-of-sports-data-using-data-context-6eb94bb9f18a)
 -   [How To Pass a Variable to Your Translation String With i18next](https://betterprogramming.pub/how-to-pass-a-variable-to-your-translation-string-with-i18next-b07614c33514)
 -   [5 Mistakes I Made in My Early Days as a Web Developer](https://betterprogramming.pub/5-mistakes-i-made-in-my-early-days-as-a-web-developer-26d9a6707c51)
+-   [How To Build a Loyal Fanbase For Your Startup](https://levelup.gitconnected.com/how-to-build-a-loyal-fanbase-for-your-startup-2614207c7002)
 
 ## Auth0
 
