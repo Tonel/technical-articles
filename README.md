@@ -108,6 +108,7 @@
 -   [How To Add a Sticker to a Texture With Three.js](https://img.ly/blog/how-to-add-a-sticker-to-a-texture-with-three-js/)
 -   [How To Resize and Compress an Image in JavaScript for Upload](https://img.ly/blog/how-to-compress-an-image-before-uploading-it-in-javascript/)
 -   [How To Add Overlays to a Video in React Native](https://img.ly/blog/how-to-add-overlays-to-a-video-in-react-native/)
+-   [How To Apply Image Filters in WebGL](https://img.ly/blog/how-to-add-image-filters-in-webgl/)
 
 ## DatoCMS
 
