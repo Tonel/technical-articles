@@ -124,6 +124,7 @@
 -   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
 -   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
 -   [What Composable Architecture Is and How To Implement It](https://www.datocms.com/blog/what-is-composable-architecture-and-how-to-implement-it)
+-   [How To Choose the Right Enterprise CMS for Your Organization](https://www.datocms.com/blog/how-to-choose-the-right-enterprise-cms-for-your-organization)
 
 ## Cantiere Creativo
 - [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
