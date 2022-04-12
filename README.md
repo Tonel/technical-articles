@@ -64,6 +64,7 @@
 -   [How To Pass a Variable to Your Translation String With i18next](https://betterprogramming.pub/how-to-pass-a-variable-to-your-translation-string-with-i18next-b07614c33514)
 -   [5 Mistakes I Made in My Early Days as a Web Developer](https://betterprogramming.pub/5-mistakes-i-made-in-my-early-days-as-a-web-developer-26d9a6707c51)
 -   [How To Build a Loyal Fanbase For Your Startup](https://levelup.gitconnected.com/how-to-build-a-loyal-fanbase-for-your-startup-2614207c7002)
+-   [Email Syntax Validation and Existence Verification in PHP](https://betterprogramming.pub/email-syntax-validation-and-existence-verification-in-php-5f7fdad768dd)
 
 ## Auth0
 
