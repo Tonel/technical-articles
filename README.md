@@ -29,9 +29,7 @@
 -   [Start Using Optional Chaining and Nullish Coalescing in React](https://javascript.plainenglish.io/start-using-optional-chaining-and-nullish-coalescing-in-react-322bdf24b78c)
 -   [Building a Rotating IP and User-Agent Web Scraping Script in PHP](https://medium.com/better-programming/building-a-rotating-ip-and-user-agent-web-scraping-script-in-php-277bde659d20)
 -   [How to Build an API To Perform Web Scraping in Spring Boot](https://codeburst.io/how-to-build-an-api-to-perform-web-scraping-in-spring-boot-e8bfaaa4622e)
--   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
 -   [3 Reasons to Download a Website Before Scraping It](https://levelup.gitconnected.com/3-reasons-to-download-a-website-before-scraping-it-ed3d390ba728)
--   [How To Scrape Data from Google Maps with Octoparse](https://levelup.gitconnected.com/how-to-scrape-data-from-google-maps-with-octoparse-4c2f7e47dfe8)
 -   [Why You Should Avoid Dynamic URLs](https://codeburst.io/why-you-should-avoid-dynamic-urls-f429bcf16733)
 -   [5 Reasons Why Software Developers Should Write Technical Articles](https://betterprogramming.pub/5-reasons-why-software-developers-should-write-technical-articles-5d75775d0e63)
 -   [Configuring a Subdomain in Apache2](https://codeburst.io/configuring-a-subdomain-in-apache2-f7a8b316b42c)
@@ -59,7 +57,6 @@
 -   [How To Deal With document.write() in React and Next.js](https://levelup.gitconnected.com/how-to-deal-with-document-write-in-react-and-next-js-31f0c1215e43)
 -   [How To Send Multiple SMS With Twilio in Spring Boot](https://levelup.gitconnected.com/how-to-send-multiple-sms-with-twilio-in-spring-boot-702cf12d565f)
 -   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
--   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
 -   [Partitioning a Billion-Row Table of Sports Data Using Data Context](https://towardsdatascience.com/partitioning-a-billion-row-table-of-sports-data-using-data-context-6eb94bb9f18a)
 -   [How To Pass a Variable to Your Translation String With i18next](https://betterprogramming.pub/how-to-pass-a-variable-to-your-translation-string-with-i18next-b07614c33514)
 -   [5 Mistakes I Made in My Early Days as a Web Developer](https://betterprogramming.pub/5-mistakes-i-made-in-my-early-days-as-a-web-developer-26d9a6707c51)
@@ -88,6 +85,11 @@
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 -   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 -   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
+
+## Octoparse
+-   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
+-   [How To Scrape Data from Google Maps with Octoparse](https://levelup.gitconnected.com/how-to-scrape-data-from-google-maps-with-octoparse-4c2f7e47dfe8)
+-   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
 
 ## Arctype
 
@@ -126,12 +128,14 @@
 -   [What Composable Architecture Is and How To Implement It](https://www.datocms.com/blog/what-is-composable-architecture-and-how-to-implement-it)
 -   [How To Choose the Right Enterprise CMS for Your Organization](https://www.datocms.com/blog/how-to-choose-the-right-enterprise-cms-for-your-organization)
 
+## Toro Cloud
+-   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
+
 ## Cantiere Creativo
 - [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
+- [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
 
 ## Draft.dev
 ### Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
 
-## Toro Cloud
--   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
