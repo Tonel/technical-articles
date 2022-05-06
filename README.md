@@ -78,6 +78,7 @@
 -   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
 -   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
 -   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
+-   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
 
 ## SitePoint
 
@@ -132,8 +133,8 @@
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
 
 ## Cantiere Creativo
-- [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
-- [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
+-   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
+-   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
 
 ## Draft.dev
 ### Pieces
