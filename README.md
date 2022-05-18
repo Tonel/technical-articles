@@ -91,6 +91,7 @@
 -   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
 -   [How To Scrape Data from Google Maps with Octoparse](https://levelup.gitconnected.com/how-to-scrape-data-from-google-maps-with-octoparse-4c2f7e47dfe8)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
+-   [How To Scrape Amazon Product Data Without Coding](https://levelup.gitconnected.com/how-to-scrape-amazon-product-data-without-coding-4e484da2d6be)
 
 ## Arctype
 
