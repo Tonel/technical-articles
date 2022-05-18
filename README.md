@@ -114,6 +114,7 @@
 -   [How To Resize and Compress an Image in JavaScript for Upload](https://img.ly/blog/how-to-compress-an-image-before-uploading-it-in-javascript/)
 -   [How To Add Overlays to a Video in React Native](https://img.ly/blog/how-to-add-overlays-to-a-video-in-react-native/)
 -   [How To Apply Image Filters in WebGL](https://img.ly/blog/how-to-add-image-filters-in-webgl/)
+-   [How To Generate an NFT Art Collection With React Using CE.SDK](https://img.ly/blog/how-to-generate-an-nft-art-collection-with-react-using-ce-sdk/)
 
 ## DatoCMS
 
