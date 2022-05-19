@@ -138,7 +138,7 @@
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
 -   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
-
+-   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
 ## Draft.dev
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
 
