@@ -131,6 +131,7 @@
 -   [What Composable Architecture Is and How To Implement It](https://www.datocms.com/blog/what-is-composable-architecture-and-how-to-implement-it)
 -   [How To Choose the Right Enterprise CMS for Your Organization](https://www.datocms.com/blog/how-to-choose-the-right-enterprise-cms-for-your-organization)
 -   [How To Build a Landing Page in Next.js](https://www.datocms.com/blog/landing-page-builder)
+-   [How To Perform A/B Testing in Next.js](https://www.datocms.com/blog/next-js-ab-testing)
 
 ## Toro Cloud
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
