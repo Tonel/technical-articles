@@ -98,6 +98,7 @@
 -   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
 -   [How to fix a sequence when it goes out of sync in Postgres](https://arctype.com/blog/postgres-sequence/)
 -   [Partitioning a billion-row table of soccer data using data context](https://arctype.com/blog/partition-tables-sql/)
+-   [Improving performance in a hierarchical SQL table structure with column propagation](https://arctype.com/blog/sql-hierarchy/)
 
 ## IMG.LY
 
