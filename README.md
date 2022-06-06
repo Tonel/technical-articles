@@ -62,6 +62,7 @@
 -   [5 Mistakes I Made in My Early Days as a Web Developer](https://betterprogramming.pub/5-mistakes-i-made-in-my-early-days-as-a-web-developer-26d9a6707c51)
 -   [How To Build a Loyal Fanbase For Your Startup](https://levelup.gitconnected.com/how-to-build-a-loyal-fanbase-for-your-startup-2614207c7002)
 -   [Email Syntax Validation and Existence Verification in PHP](https://betterprogramming.pub/email-syntax-validation-and-existence-verification-in-php-5f7fdad768dd)
+-   [How To Improve Performance in a Hierarchical SQL Table Structure With Column Propagation](https://towardsdatascience.com/how-to-improve-performance-in-a-hierarchical-sql-table-structure-with-column-propagation-3b8cacdc87a9)
 
 ## Auth0
 
