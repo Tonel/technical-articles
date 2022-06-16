@@ -147,6 +147,10 @@
 ## Draft.dev
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
 
+## Prisma
+-   [5 Steps to Start Selling Online](https://prismasoftwares.com/2022/06/10/5-steps-to-start-selling-online/)
+-   [How AI can support you during calls](https://prismasoftwares.com/2022/06/11/how-ai-can-support-you-duringcalls/)
+
 ## Listly
 -   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
 -   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
