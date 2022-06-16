@@ -143,6 +143,7 @@
 -   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
 -   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
 -   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
+-   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
 
 ## Draft.dev
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
