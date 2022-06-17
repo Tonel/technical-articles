@@ -150,7 +150,7 @@
 
 ## Prisma
 -   [5 Steps to Start Selling Online](https://prismasoftwares.com/e-commerce/5-steps-to-start-selling-online/)
--   [How AI can support you during calls](https://prismasoftwares.com/e-commerce/how-ai-can-support-you-duringcalls/)
+-   [How AI Can Support You During Calls](https://prismasoftwares.com/e-commerce/how-ai-can-support-you-duringcalls/)
 
 ## Listly
 -   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
