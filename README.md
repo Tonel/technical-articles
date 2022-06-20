@@ -63,6 +63,7 @@
 -   [How To Build a Loyal Fanbase For Your Startup](https://levelup.gitconnected.com/how-to-build-a-loyal-fanbase-for-your-startup-2614207c7002)
 -   [Email Syntax Validation and Existence Verification in PHP](https://betterprogramming.pub/email-syntax-validation-and-existence-verification-in-php-5f7fdad768dd)
 -   [How To Improve Performance in a Hierarchical SQL Table Structure With Column Propagation](https://towardsdatascience.com/how-to-improve-performance-in-a-hierarchical-sql-table-structure-with-column-propagation-3b8cacdc87a9)
+-   [How AI Can Support You During Calls](https://levelup.gitconnected.com/how-ai-can-support-you-during-calls-1ef002d3c29d)
 
 ## Auth0
 
