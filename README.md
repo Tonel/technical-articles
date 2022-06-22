@@ -147,8 +147,10 @@
 -   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
 -   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
 
-## Draft.dev
+## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
+
+## Strapi
 -   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
 
 ## Prisma
