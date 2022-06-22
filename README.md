@@ -149,6 +149,7 @@
 
 ## Draft.dev
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
+-   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
 
 ## Prisma
 -   [5 Steps to Start Selling Online](https://prismasoftwares.com/e-commerce/5-steps-to-start-selling-online/)
