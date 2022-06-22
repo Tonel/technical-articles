@@ -118,6 +118,7 @@
 -   [How To Add Overlays to a Video in React Native](https://img.ly/blog/how-to-add-overlays-to-a-video-in-react-native/)
 -   [How To Apply Image Filters in WebGL](https://img.ly/blog/how-to-add-image-filters-in-webgl/)
 -   [How To Generate an NFT Art Collection With React Using CE.SDK](https://img.ly/blog/how-to-generate-an-nft-art-collection-with-react-using-ce-sdk/)
+-   [Content Moderation for User-Generated Designs with CE.SDK and Sightengine](https://img.ly/blog/content-moderation-for-user-generated-designs-with-ce-sdk-and-sightengine/)
 
 ## DatoCMS
 
