@@ -64,6 +64,7 @@
 -   [Email Syntax Validation and Existence Verification in PHP](https://betterprogramming.pub/email-syntax-validation-and-existence-verification-in-php-5f7fdad768dd)
 -   [How To Improve Performance in a Hierarchical SQL Table Structure With Column Propagation](https://towardsdatascience.com/how-to-improve-performance-in-a-hierarchical-sql-table-structure-with-column-propagation-3b8cacdc87a9)
 -   [How AI Can Support You During Calls](https://levelup.gitconnected.com/how-ai-can-support-you-during-calls-1ef002d3c29d)
+-   [What You Need to Know About Generated Columns in MySQL](https://towardsdatascience.com/what-you-need-to-know-about-generated-columns-in-mysql-23871b376d66)
 
 ## Auth0
 
