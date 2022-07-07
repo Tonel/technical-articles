@@ -82,6 +82,7 @@
 -   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
 -   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
 -   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
+-   [Type casting in Kotlin: Unsafe vs. safe](https://blog.logrocket.com/type-casting-kotlin-unsafe-vs-safe/)
 
 ## SitePoint
 
@@ -91,6 +92,7 @@
 -   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
 
 ## Octoparse
+
 -   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
 -   [How To Scrape Data from Google Maps with Octoparse](https://levelup.gitconnected.com/how-to-scrape-data-from-google-maps-with-octoparse-4c2f7e47dfe8)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
