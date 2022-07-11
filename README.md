@@ -142,6 +142,7 @@
 -   [How To Build a Landing Page in Next.js](https://www.datocms.com/blog/landing-page-builder)
 -   [How To Perform A/B Testing in Next.js](https://www.datocms.com/blog/next-js-ab-testing)
 -   [Why Your Mobile CMS Should Be Headless](https://www.datocms.com/blog/why-your-mobile-cms-should-be-headless)
+-   [Why a Headless eCommerce CMS is the Future of eCommerce](https://www.datocms.com/blog/headless-ecommerce-cms-future-of-ecommerce)
 
 ## Toro Cloud
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
