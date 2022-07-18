@@ -143,6 +143,7 @@
 -   [How To Perform A/B Testing in Next.js](https://www.datocms.com/blog/next-js-ab-testing)
 -   [Why Your Mobile CMS Should Be Headless](https://www.datocms.com/blog/why-your-mobile-cms-should-be-headless)
 -   [Why a Headless eCommerce CMS is the Future of eCommerce](https://www.datocms.com/blog/headless-ecommerce-cms-future-of-ecommerce)
+-   [Headless CMS vs DXP: An In-Depth Comparison](https://www.datocms.com/blog/headless-cms-vs-dxp-an-in-depth-comparison)
 
 ## Toro Cloud
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
@@ -167,3 +168,6 @@
 ## Listly
 -   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
 -   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
+
+## Reflect
+-   [Interacting with native alerts using Selenium WebDriver](https://reflect.run/articles/interacting-with-native-alerts-using-selenium-webdriver/)
