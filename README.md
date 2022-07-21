@@ -155,6 +155,7 @@
 -   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
 -   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
 -   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
+-   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
