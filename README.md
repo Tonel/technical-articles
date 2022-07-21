@@ -66,6 +66,7 @@
 -   [How AI Can Support You During Calls](https://levelup.gitconnected.com/how-ai-can-support-you-during-calls-1ef002d3c29d)
 -   [What You Need to Know About Generated Columns in MySQL](https://towardsdatascience.com/what-you-need-to-know-about-generated-columns-in-mysql-23871b376d66)
 -   [How to Handle the Mouse Hover Event in React](https://javascript.plainenglish.io/how-to-handle-the-mouse-hover-event-in-react-32bad58f1a9)
+-   [3 Best Practices To Design a Multi-Language Database](https://betterprogramming.pub/3-best-practices-to-design-a-multi-language-database-80377ca33d15)
 
 ## Auth0
 
