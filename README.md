@@ -67,6 +67,7 @@
 -   [What You Need to Know About Generated Columns in MySQL](https://towardsdatascience.com/what-you-need-to-know-about-generated-columns-in-mysql-23871b376d66)
 -   [How to Handle the Mouse Hover Event in React](https://javascript.plainenglish.io/how-to-handle-the-mouse-hover-event-in-react-32bad58f1a9)
 -   [3 Best Practices To Design a Multi-Language Database](https://betterprogramming.pub/3-best-practices-to-design-a-multi-language-database-80377ca33d15)
+-   [5 UI and UX Mistakes I Made in My Early Days as a Web Developer](https://levelup.gitconnected.com/5-ui-and-ux-mistakes-i-made-in-my-early-days-as-a-web-developer-a2b450147615)
 
 ## Auth0
 
@@ -108,6 +109,7 @@
 -   [Improving performance in a hierarchical SQL table structure with column propagation](https://arctype.com/blog/sql-hierarchy/)
 -   [A Complete Guide to Generated Columns in MySQL](https://arctype.com/blog/mysql-generated-columns-guide/)
 -   [How To Design a Multi-Language Database](https://arctype.com/blog/international-db-design/)
+-   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
 
 ## IMG.LY
 
