@@ -69,6 +69,7 @@
 -   [3 Best Practices To Design a Multi-Language Database](https://betterprogramming.pub/3-best-practices-to-design-a-multi-language-database-80377ca33d15)
 -   [5 UI and UX Mistakes I Made in My Early Days as a Web Developer](https://levelup.gitconnected.com/5-ui-and-ux-mistakes-i-made-in-my-early-days-as-a-web-developer-a2b450147615)
 -   [What Is the Next.js Equivalent for Angular?](https://betterprogramming.pub/what-is-the-next-js-equivalent-for-angular-2ed7efe902d6)
+-   [How To Enable String Similarity Features in PostgreSQL](https://levelup.gitconnected.com/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
 
 ## Auth0
 
