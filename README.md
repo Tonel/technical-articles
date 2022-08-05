@@ -181,3 +181,6 @@
 -   [Interacting with native alerts using Selenium WebDriver](https://reflect.run/articles/interacting-with-native-alerts-using-selenium-webdriver/)
 -   [What is the Next.js equivalent for Angular?](https://reflect.run/articles/what-is-the-nextjs-equivalent-for-angular/)
 -   [Everything you need to know about NoSuchElementException in Selenium](https://reflect.run/articles/everything-you-need-to-know-about-nosuchelementexception-in-selenium/)
+
+## CanvasXpress
+-   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
