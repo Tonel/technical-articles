@@ -88,6 +88,7 @@
 -   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
 -   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
 -   [Type casting in Kotlin: Unsafe vs. safe](https://blog.logrocket.com/type-casting-kotlin-unsafe-vs-safe/)
+-   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
 
 ## SitePoint
 
