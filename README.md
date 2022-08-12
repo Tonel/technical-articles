@@ -70,6 +70,7 @@
 -   [5 UI and UX Mistakes I Made in My Early Days as a Web Developer](https://levelup.gitconnected.com/5-ui-and-ux-mistakes-i-made-in-my-early-days-as-a-web-developer-a2b450147615)
 -   [What Is the Next.js Equivalent for Angular?](https://betterprogramming.pub/what-is-the-next-js-equivalent-for-angular-2ed7efe902d6)
 -   [How To Enable String Similarity Features in PostgreSQL](https://levelup.gitconnected.com/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
+-   [How To Read a JSON File and Return Its Content in a Spring Boot API](https://betterprogramming.pub/how-to-read-a-json-file-and-return-its-content-in-a-spring-boot-api-1f69e552f7af)
 
 ## Auth0
 
