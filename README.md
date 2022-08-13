@@ -188,3 +188,6 @@
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
+
+## ZenRows
+-   [Web Scraping with PHP: a Step-By-Step Tutorial](https://www.zenrows.com/blog/web-scraping-php)
