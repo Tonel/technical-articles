@@ -71,6 +71,7 @@
 -   [What Is the Next.js Equivalent for Angular?](https://betterprogramming.pub/what-is-the-next-js-equivalent-for-angular-2ed7efe902d6)
 -   [How To Enable String Similarity Features in PostgreSQL](https://levelup.gitconnected.com/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
 -   [How To Read a JSON File and Return Its Content in a Spring Boot API](https://betterprogramming.pub/how-to-read-a-json-file-and-return-its-content-in-a-spring-boot-api-1f69e552f7af)
+-   [Web Scraping with PHP: a Step-By-Step Tutorial](https://betterprogramming.pub/a-step-by-step-tutorial-to-web-scraping-in-php-fc57a926d468)
 
 ## Auth0
 
