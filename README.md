@@ -186,6 +186,7 @@
 -   [What is the Next.js equivalent for Angular?](https://reflect.run/articles/what-is-the-nextjs-equivalent-for-angular/)
 -   [Everything you need to know about NoSuchElementException in Selenium](https://reflect.run/articles/everything-you-need-to-know-about-nosuchelementexception-in-selenium/)
 -   [Testing email workflows with Selenium](https://reflect.run/articles/testing-email-workflows-with-selenium/)
+-   [How to test SMS workflows in Selenium](https://reflect.run/articles/how-to-test-sms-workflows-in-selenium/)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
