@@ -72,7 +72,6 @@
 -   [How To Enable String Similarity Features in PostgreSQL](https://levelup.gitconnected.com/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
 -   [How To Read a JSON File and Return Its Content in a Spring Boot API](https://betterprogramming.pub/how-to-read-a-json-file-and-return-its-content-in-a-spring-boot-api-1f69e552f7af)
 -   [Web Scraping with PHP: a Step-By-Step Tutorial](https://betterprogramming.pub/a-step-by-step-tutorial-to-web-scraping-in-php-fc57a926d468)
--   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
 
 ## Auth0
 
@@ -181,6 +180,7 @@
 ## Listly
 -   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
 -   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
+-   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
 
 ## Reflect
 -   [Interacting with native alerts using Selenium WebDriver](https://reflect.run/articles/interacting-with-native-alerts-using-selenium-webdriver/)
