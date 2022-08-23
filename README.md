@@ -167,6 +167,7 @@
 -   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
 -   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
 -   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
+-   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
