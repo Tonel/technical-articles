@@ -75,6 +75,7 @@
 -   [How To Fix Error 413 in Apps Behind Nginx on AWS Elastic Beanstalk](https://betterprogramming.pub/how-to-fix-error-413-in-apps-behind-nginx-on-aws-elastic-beanstalk-c68a1ef2c331)
 -   [How to Fix “413 Request Entity Too Large” Error in Node.js](https://javascript.plainenglish.io/how-to-fix-413-request-entity-too-large-error-in-node-js-226c0070e4f4)
 -   [How To Filter Requests and Resources in Chrome DevTools](https://betterprogramming.pub/how-to-filter-requests-and-resources-in-chrome-devtools-491976d85ad1)
+-   [You Can Now Create a Secure DuckDuckGo Email Account](https://levelup.gitconnected.com/you-can-now-create-a-secure-duckduckgo-email-account-c266d812b3e4)
 
 ## Auth0
 
