@@ -98,6 +98,7 @@
 -   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
 -   [Type casting in Kotlin: Unsafe vs. safe](https://blog.logrocket.com/type-casting-kotlin-unsafe-vs-safe/)
 -   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
+-   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
 
 ## SitePoint
 
