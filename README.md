@@ -78,6 +78,7 @@
 -   [You Can Now Create a Secure DuckDuckGo Email Account](https://levelup.gitconnected.com/you-can-now-create-a-secure-duckduckgo-email-account-c266d812b3e4)
 -   [https://javascript.plainenglish.io/deal-with-maximum-call-stack-size-exceeded-error-in-javascript-45c035161a78](https://javascript.plainenglish.io/deal-with-maximum-call-stack-size-exceeded-error-in-javascript-45c035161a78)
 -   [How To Connect to an AWS Elastic Beanstalk Instance via SSH](https://betterprogramming.pub/how-to-connect-to-an-aws-elastic-beanstalk-instance-via-ssh-ccae869d050)
+-   [How To Enable Hot Reloading for .env Files in Next.js](https://betterprogramming.pub/how-to-enable-hot-reloading-for-env-files-in-next-js-1e9ef3d1dc87)
 
 ## Auth0
 
