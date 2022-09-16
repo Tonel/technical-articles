@@ -79,6 +79,8 @@
 -   [Deal With “Maximum Call Stack Size Exceeded” Error in JavaScript](https://javascript.plainenglish.io/deal-with-maximum-call-stack-size-exceeded-error-in-javascript-45c035161a78)
 -   [How To Connect to an AWS Elastic Beanstalk Instance via SSH](https://betterprogramming.pub/how-to-connect-to-an-aws-elastic-beanstalk-instance-via-ssh-ccae869d050)
 -   [How To Enable Hot Reloading for .env Files in Next.js](https://betterprogramming.pub/how-to-enable-hot-reloading-for-env-files-in-next-js-1e9ef3d1dc87)
+-   [How To Deal With Custom .env Files in Next.js](https://levelup.gitconnected.com/how-to-deal-with-custom-env-files-in-next-js-98d8c5b7899a)
+-   [How To Deal With Custom .env Files in React](https://levelup.gitconnected.com/how-to-deal-with-custom-env-files-in-react-148afda1ffb)
 
 ## Auth0
 
