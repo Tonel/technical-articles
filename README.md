@@ -206,10 +206,5 @@
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
 
-## ZenRows
--   [Web Scraping with PHP: a Step-By-Step Tutorial](https://www.zenrows.com/blog/web-scraping-php)
--   [JavaScript Web Crawler with Node.js: A Step-By-Step Tutorial](https://www.zenrows.com/blog/javascript-web-crawler-nodejs)
--   [Web Scraping With jQuery: A Complete Tutorial](https://www.zenrows.com/blog/jquery-web-scraping#what-is-client-side-scraping)
-
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
