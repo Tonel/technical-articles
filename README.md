@@ -166,6 +166,7 @@
 -   [Why a Headless eCommerce CMS is the Future of eCommerce](https://www.datocms.com/blog/headless-ecommerce-cms-future-of-ecommerce)
 -   [Headless CMS vs DXP: An In-Depth Comparison](https://www.datocms.com/blog/headless-cms-vs-dxp-an-in-depth-comparison)
 -   [Why You Need a Headless CMS for MACH Architecture](https://www.datocms.com/blog/why-you-need-a-headless-cms-for-mach-architecture)
+-   [How To Generate TypeScript Types From GraphQL](https://www.datocms.com/blog/how-to-generate-typescript-types-from-graphql)
 
 ## Toro Cloud
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
