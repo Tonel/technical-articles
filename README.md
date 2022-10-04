@@ -203,6 +203,7 @@
 -   [How to test SMS workflows in Selenium](https://reflect.run/articles/how-to-test-sms-workflows-in-selenium/)
 -   [Visual testing in Playwright](https://reflect.run/articles/visual-testing-in-playwright/)
 -   [How to automatically generate social share images for your blog](https://reflect.run/articles/how-to-automatically-generate-social-share-images/)
+-   [How to test drag-and-drop interactions in Playwright](https://reflect.run/articles/how-to-test-drag-and-drop-interactions-in-playwright/)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
