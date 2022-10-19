@@ -82,6 +82,7 @@
 -   [How To Deal With Custom .env Files in Next.js](https://levelup.gitconnected.com/how-to-deal-with-custom-env-files-in-next-js-98d8c5b7899a)
 -   [How To Deal With Custom .env Files in React](https://levelup.gitconnected.com/how-to-deal-with-custom-env-files-in-react-148afda1ffb)
 -   [How To Deploy a React Application on Dokku](https://levelup.gitconnected.com/how-to-deploy-a-react-application-on-dokku-afd8ed8887fa)
+-   [Returning CSV Content From an API in Node.js](https://betterprogramming.pub/returning-csv-content-from-an-api-in-node-js-3dafe19208e5)
 
 ## Auth0
 
