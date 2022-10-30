@@ -83,6 +83,7 @@
 -   [How To Deal With Custom .env Files in React](https://levelup.gitconnected.com/how-to-deal-with-custom-env-files-in-react-148afda1ffb)
 -   [How To Deploy a React Application on Dokku](https://levelup.gitconnected.com/how-to-deploy-a-react-application-on-dokku-afd8ed8887fa)
 -   [Returning CSV Content From an API in Node.js](https://betterprogramming.pub/returning-csv-content-from-an-api-in-node-js-3dafe19208e5)
+-   [The 3 Basic Laws of Software Engineering](https://levelup.gitconnected.com/the-3-basic-laws-of-software-engineering-3816b1b3d9b3)
 
 ## Auth0
 
