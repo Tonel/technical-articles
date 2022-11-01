@@ -84,6 +84,7 @@
 -   [How To Deploy a React Application on Dokku](https://levelup.gitconnected.com/how-to-deploy-a-react-application-on-dokku-afd8ed8887fa)
 -   [Returning CSV Content From an API in Node.js](https://betterprogramming.pub/returning-csv-content-from-an-api-in-node-js-3dafe19208e5)
 -   [The 3 Basic Laws of Software Engineering](https://levelup.gitconnected.com/the-3-basic-laws-of-software-engineering-3816b1b3d9b3)
+-   [How To Perform JOIN Queries With JPA Criteria API](https://levelup.gitconnected.com/how-to-perform-join-queries-with-jpa-criteria-api-9ccfe5c7a4ab)
 
 ## Auth0
 
