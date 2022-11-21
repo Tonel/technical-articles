@@ -86,6 +86,7 @@
 -   [The 3 Basic Laws of Software Engineering](https://levelup.gitconnected.com/the-3-basic-laws-of-software-engineering-3816b1b3d9b3)
 -   [How To Perform JOIN Queries With JPA Criteria API](https://levelup.gitconnected.com/how-to-perform-join-queries-with-jpa-criteria-api-9ccfe5c7a4ab)
 -   [How To Test CRUD RESTful APIs With the API Tester Mobile App](https://levelup.gitconnected.com/how-to-test-crud-restful-apis-with-the-api-tester-mobile-app-4f33b5153958)
+-   [How to Set Up Prettier in IntelliJ IDEA](https://levelup.gitconnected.com/how-to-set-up-prettier-in-intellij-idea-a9560a06f4bd)
 
 ## Auth0
 
