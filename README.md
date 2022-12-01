@@ -216,6 +216,7 @@
 -   [How to test drag-and-drop interactions in Playwright](https://reflect.run/articles/how-to-test-drag-and-drop-interactions-in-playwright/)
 -   [How to fix an InvalidSelectorException in Selenium](https://reflect.run/articles/fixing-invalidselectorexception-in-selenium/)
 -   [How to deal with StaleElementReferenceException in Selenium](https://reflect.run/articles/how-to-deal-with-staleelementreferenceexception-in-selenium/)
+-   [Testing drag-and-drop workflows in Cypress](https://reflect.run/articles/testing-drag-and-drop-workflows-using-cypress/)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
