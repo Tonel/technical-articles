@@ -87,6 +87,7 @@
 -   [How To Perform JOIN Queries With JPA Criteria API](https://levelup.gitconnected.com/how-to-perform-join-queries-with-jpa-criteria-api-9ccfe5c7a4ab)
 -   [How to Set Up Prettier in IntelliJ IDEA](https://levelup.gitconnected.com/how-to-set-up-prettier-in-intellij-idea-a9560a06f4bd)
 -   [Check Out React Pokedom — A Library To Catch Pokémon in React](https://betterprogramming.pub/check-out-react-pokedom-a-library-to-catch-pok%C3%A9mon-alongside-dom-events-eb1c4f391e3c)
+-   [Why Should a Data-Driven Company Be GDPR Compliant?](https://towardsdatascience.com/why-should-a-data-driven-company-be-gdpr-compliant-3778b7df1663)
 
 ## Auth0
 
