@@ -232,6 +232,7 @@
 
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
+-   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
 
 ## Tina
