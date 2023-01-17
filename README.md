@@ -154,6 +154,7 @@
 -   [Content Moderation for User-Generated Designs with CE.SDK and Sightengine](https://img.ly/blog/content-moderation-for-user-generated-designs-with-ce-sdk-and-sightengine/)
 -   [How To Build a Canva Clone with CE.SDK](https://img.ly/blog/how-to-build-a-canva-clone-with-ce-sdk/)
 -   [Automatic Design Generation with React](https://img.ly/docs/cesdk/samples/automatic-design-generation-react/)
+-   [How To Build a Video Editor With Wasm in React](https://img.ly/blog/how-to-build-a-video-editor-with-wasm-in-react/)
 
 ## DatoCMS
 
