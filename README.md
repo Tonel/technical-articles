@@ -230,6 +230,7 @@
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
+-   [How To Deal With a Database With Billions of Records](https://www.dbvis.com/thetable/how-to-deal-with-a-database-with-billions-of-records/)
 
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
