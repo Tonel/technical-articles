@@ -239,3 +239,6 @@
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
+
+## Twilio
+-   [How To Send Multiple SMS Using Spring Boot and Kotlin](https://www.twilio.com/blog/java-spring-boot-kotlin-send-multiple-sms)
