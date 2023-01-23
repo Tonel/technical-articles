@@ -179,6 +179,7 @@
 -   [How To Generate TypeScript Types From GraphQL](https://www.datocms.com/blog/how-to-generate-typescript-types-from-graphql)
 -   [How To Add Algolia InstantSearch to Your Next.js App](https://www.datocms.com/blog/algolia-nextjs-how-to-add-algolia-instantsearch)
 -   [How Next.js Preview Mode Works: An In-depth Guide](https://www.datocms.com/blog/how-next-js-preview-mode-works-an-in-depth-guide)
+-   [How DatoCMS Supports Next.js Conf](https://www.datocms.com/blog/how-datocms-supports-next-js-conf)
 
 ## Toro Cloud
 -   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
