@@ -234,6 +234,7 @@
 -   [How To Deal With a Database With Billions of Records](https://www.dbvis.com/thetable/how-to-deal-with-a-database-with-billions-of-records/)
 -   [SQL Triggers: What They Are and How to Use Them](https://www.dbvis.com/thetable/sql-triggers-what-they-are-and-how-to-use-them/)
 -   [Stored Procedures in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/stored-procedures-in-sql-a-complete-tutorial/)
+-   [How To Create a Table Like Another Table in MySQL](https://www.dbvis.com/thetable/how-to-create-a-table-like-another-table-in-mysql/)
 
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
