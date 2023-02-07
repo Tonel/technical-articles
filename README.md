@@ -88,6 +88,7 @@
 -   [How to Set Up Prettier in IntelliJ IDEA](https://levelup.gitconnected.com/how-to-set-up-prettier-in-intellij-idea-a9560a06f4bd)
 -   [Check Out React Pokedom — A Library To Catch Pokémon in React](https://betterprogramming.pub/check-out-react-pokedom-a-library-to-catch-pok%C3%A9mon-alongside-dom-events-eb1c4f391e3c)
 -   [Why Should a Data-Driven Company Be GDPR Compliant?](https://towardsdatascience.com/why-should-a-data-driven-company-be-gdpr-compliant-3778b7df1663)
+-   [How to Disable the Right-Click Menu in React](https://javascript.plainenglish.io/how-to-disable-the-right-click-menu-in-react-f600a79f133b)
 
 ## Auth0
 
