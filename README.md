@@ -98,6 +98,7 @@
 -   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
 -   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
 -   [How To Implement Custom Error Responses in Express](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
+-   [Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
 
 ## LogRocket
 
