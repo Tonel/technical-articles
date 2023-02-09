@@ -258,3 +258,6 @@
 
 ## OpenReplay
 -   [How To Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
+
+## AppSignal
+-   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
