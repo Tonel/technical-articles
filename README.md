@@ -90,6 +90,7 @@
 -   [Why Should a Data-Driven Company Be GDPR Compliant?](https://towardsdatascience.com/why-should-a-data-driven-company-be-gdpr-compliant-3778b7df1663)
 -   [How to Disable the Right-Click Menu in React](https://javascript.plainenglish.io/how-to-disable-the-right-click-menu-in-react-f600a79f133b)
 -   [How To Use a SOCKS Proxy in Axios](https://medium.com/gitconnected/how-to-use-a-socks-proxy-in-axios-6c0355a2e013)
+-   [How To Upload and Download a File With FTP/FTPS/SFTP in Node.js](https://levelup.gitconnected.com/how-to-upload-and-download-a-file-with-ftp-ftps-sftp-in-node-js-b50e196841f1)
 
 ## Auth0
 
