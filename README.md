@@ -198,6 +198,7 @@
 -   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
 -   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
 -   [Come eseguire Test A/B con Next.js](https://www.cantierecreativo.net/blog/come-eseguire-test-a-b-con-next-js/)
+-   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/come-creare-un-blog-multilingua-in-next-js/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
