@@ -241,6 +241,8 @@
 -   [SQL Triggers: What They Are and How to Use Them](https://www.dbvis.com/thetable/sql-triggers-what-they-are-and-how-to-use-them/)
 -   [Stored Procedures in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/stored-procedures-in-sql-a-complete-tutorial/)
 -   [How To Create a Table Like Another Table in MySQL](https://www.dbvis.com/thetable/how-to-create-a-table-like-another-table-in-mysql/)
+-   [Database Transactions 101: The Essential Guide](https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/)
+-   [The Complete Guide to SQL Subqueries](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/)
 
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
