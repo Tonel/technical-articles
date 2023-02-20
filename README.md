@@ -247,6 +247,7 @@
 -   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
+-   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
