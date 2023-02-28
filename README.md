@@ -93,6 +93,7 @@
 -   [How To Upload and Download a File With FTP/FTPS/SFTP in Node.js](https://levelup.gitconnected.com/how-to-upload-and-download-a-file-with-ftp-ftps-sftp-in-node-js-b50e196841f1)
 -   [How To Mark a File as Executable in a Git Repo](https://levelup.gitconnected.com/how-to-mark-a-file-as-executable-in-a-git-repo-80ee532f4366)
 -   [Check Out LinkedIn Maven Plugin — A Plugin to Become a Java Influencer](https://levelup.gitconnected.com/check-out-linkedin-maven-plugin-a-plugin-to-become-a-java-influencer-598bd3fb8da7)
+-   [How to Append JavaScript Data to a FormData](https://javascript.plainenglish.io/how-to-append-javascript-data-to-a-formdata-5d9405bd944e)
 
 ## Auth0
 
