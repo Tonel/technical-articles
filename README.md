@@ -256,6 +256,7 @@
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
 -   [Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
+-   [Why You Need an API Layer in Your Spring Boot App and How to Implement It](https://semaphoreci.com/blog/api-layer-spring-boot)
 
 ## SitePoint
 
