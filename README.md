@@ -1,4 +1,131 @@
 # Technical Articles by Antonello Zanini
+
+## Airplane
+-   [Top 5 PostgreSQL GUI tools](https://www.airplane.dev/blog/top-5-postgresql-gui-tools)
+
+## Apostrophe
+-   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
+
+## AppSignal
+-   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
+
+## Arctype
+
+-   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
+-   [How to fix a sequence when it goes out of sync in Postgres](https://arctype.com/blog/postgres-sequence/)
+-   [Partitioning a billion-row table of soccer data using data context](https://arctype.com/blog/partition-tables-sql/)
+-   [Improving performance in a hierarchical SQL table structure with column propagation](https://arctype.com/blog/sql-hierarchy/)
+-   [A Complete Guide to Generated Columns in MySQL](https://arctype.com/blog/mysql-generated-columns-guide/)
+-   [How To Design a Multi-Language Database](https://arctype.com/blog/international-db-design/)
+-   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
+
+## Auth0
+
+-   [Mapping JPA Entities into DTOs in Spring Boot Using MapStruct](https://auth0.com/blog/how-to-automatically-map-jpa-entities-into-dtos-in-spring-boot-using-mapstruct/)
+-   [What is Caching and How It Works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
+-   [Spring Boot Caching 101](https://auth0.com/blog/spring-boot-caching-101/)
+-   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
+-   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
+-   [How To Implement Custom Error Responses in Express](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
+-   [Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
+
+
+## Bright Data
+-   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
+-   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
+-   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
+-   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
+-   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
+
+## Cantiere Creativo
+-   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
+-   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
+-   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
+-   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
+-   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
+-   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
+-   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
+-   [Come eseguire Test A/B con Next.js](https://www.cantierecreativo.net/blog/come-eseguire-test-a-b-con-next-js/)
+-   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/come-creare-un-blog-multilingua-in-next-js/)
+
+## CanvasXpress
+-   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
+
+## DatoCMS
+
+-   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
+-   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
+-   [How To Build an Ecommerce with Next.js and Snipcart](https://www.datocms.com/blog/how-to-build-an-ecommerce-nextjs-snipcart-tutorial)
+-   [What You Should Know About the Next.js Image Component](https://www.datocms.com/blog/nextjs-images)
+-   [Dealing with SEO in Next.js](https://www.datocms.com/blog/dealing-with-nextjs-seo)
+-   [How To Build an Ecommerce Application in React With Snipcart](https://www.datocms.com/blog/react-ecommerce-tutorial)
+-   [Next.js vs Remix: Top 5 Differences](https://www.datocms.com/blog/next-js-vs-remix-top-5-differences)
+-   [Best React Frameworks to Go Jamstack](https://www.datocms.com/blog/best-jamstack-react-frameworks)
+-   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
+-   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
+-   [What Composable Architecture Is and How To Implement It](https://www.datocms.com/blog/what-is-composable-architecture-and-how-to-implement-it)
+-   [How To Choose the Right Enterprise CMS for Your Organization](https://www.datocms.com/blog/how-to-choose-the-right-enterprise-cms-for-your-organization)
+-   [How To Build a Landing Page in Next.js](https://www.datocms.com/blog/landing-page-builder)
+-   [How To Perform A/B Testing in Next.js](https://www.datocms.com/blog/next-js-ab-testing)
+-   [Why Your Mobile CMS Should Be Headless](https://www.datocms.com/blog/why-your-mobile-cms-should-be-headless)
+-   [Why a Headless eCommerce CMS is the Future of eCommerce](https://www.datocms.com/blog/headless-ecommerce-cms-future-of-ecommerce)
+-   [Headless CMS vs DXP: An In-Depth Comparison](https://www.datocms.com/blog/headless-cms-vs-dxp-an-in-depth-comparison)
+-   [Why You Need a Headless CMS for MACH Architecture](https://www.datocms.com/blog/why-you-need-a-headless-cms-for-mach-architecture)
+-   [How To Generate TypeScript Types From GraphQL](https://www.datocms.com/blog/how-to-generate-typescript-types-from-graphql)
+-   [How To Add Algolia InstantSearch to Your Next.js App](https://www.datocms.com/blog/algolia-nextjs-how-to-add-algolia-instantsearch)
+-   [How Next.js Preview Mode Works: An In-depth Guide](https://www.datocms.com/blog/how-next-js-preview-mode-works-an-in-depth-guide)
+-   [How DatoCMS Supports Next.js Conf](https://www.datocms.com/blog/how-datocms-supports-next-js-conf)
+
+
+## DbVisualizer
+-   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
+-   [How To Deal With a Database With Billions of Records](https://www.dbvis.com/thetable/how-to-deal-with-a-database-with-billions-of-records/)
+-   [SQL Triggers: What They Are and How to Use Them](https://www.dbvis.com/thetable/sql-triggers-what-they-are-and-how-to-use-them/)
+-   [Stored Procedures in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/stored-procedures-in-sql-a-complete-tutorial/)
+-   [How To Create a Table Like Another Table in MySQL](https://www.dbvis.com/thetable/how-to-create-a-table-like-another-table-in-mysql/)
+-   [Database Transactions 101: The Essential Guide](https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/)
+-   [The Complete Guide to SQL Subqueries](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/)
+
+## IMG.LY
+
+-   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
+-   [How To Resize an Image With JavaScript](https://img.ly/blog/how-to-resize-an-image-with-javascript/)
+-   [How To Resize an Image in React](https://img.ly/blog/how-to-resize-an-image-in-react/)
+-   [How To Draw on an Image with JavaScript](https://img.ly/blog/how-to-draw-on-an-image-with-javascript/)
+-   [How To Apply Custom Image Filters Using HTML5 Canvas in JavaScript](https://img.ly/blog/how-to-apply-filters-in-javascript/)
+-   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
+-   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
+-   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
+-   [How To Scale, Crop, Flip, and Filter an Image in CSS](https://img.ly/blog/how-to-scale-crop-flip-and-filter-an-image-in-css/)
+-   [How To Add a Sticker to a Texture With Three.js](https://img.ly/blog/how-to-add-a-sticker-to-a-texture-with-three-js/)
+-   [How To Resize and Compress an Image in JavaScript for Upload](https://img.ly/blog/how-to-compress-an-image-before-uploading-it-in-javascript/)
+-   [How To Add Overlays to a Video in React Native](https://img.ly/blog/how-to-add-overlays-to-a-video-in-react-native/)
+-   [How To Apply Image Filters in WebGL](https://img.ly/blog/how-to-add-image-filters-in-webgl/)
+-   [How To Generate an NFT Art Collection With React Using CE.SDK](https://img.ly/blog/how-to-generate-an-nft-art-collection-with-react-using-ce-sdk/)
+-   [Content Moderation for User-Generated Designs with CE.SDK and Sightengine](https://img.ly/blog/content-moderation-for-user-generated-designs-with-ce-sdk-and-sightengine/)
+-   [How To Build a Canva Clone with CE.SDK](https://img.ly/blog/how-to-build-a-canva-clone-with-ce-sdk/)
+-   [Automatic Design Generation with React](https://img.ly/docs/cesdk/samples/automatic-design-generation-react/)
+-   [How To Build a Video Editor With Wasm in React](https://img.ly/blog/how-to-build-a-video-editor-with-wasm-in-react/)
+
+## Listly
+-   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
+-   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
+-   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
+
+## LogRocket
+
+-   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
+-   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
+-   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
+-   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
+-   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
+-   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
+-   [Type casting in Kotlin: Unsafe vs. safe](https://blog.logrocket.com/type-casting-kotlin-unsafe-vs-safe/)
+-   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
+-   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [Sealed classes vs. sealed interfaces](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
+-   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
+
+
 ## Medium
 
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://medium.com/swlh/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
@@ -94,36 +221,7 @@
 -   [How To Mark a File as Executable in a Git Repo](https://levelup.gitconnected.com/how-to-mark-a-file-as-executable-in-a-git-repo-80ee532f4366)
 -   [Check Out LinkedIn Maven Plugin — A Plugin to Become a Java Influencer](https://levelup.gitconnected.com/check-out-linkedin-maven-plugin-a-plugin-to-become-a-java-influencer-598bd3fb8da7)
 -   [How to Append JavaScript Data to a FormData](https://javascript.plainenglish.io/how-to-append-javascript-data-to-a-formdata-5d9405bd944e)
-
-## Auth0
-
--   [Mapping JPA Entities into DTOs in Spring Boot Using MapStruct](https://auth0.com/blog/how-to-automatically-map-jpa-entities-into-dtos-in-spring-boot-using-mapstruct/)
--   [What is Caching and How It Works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
--   [Spring Boot Caching 101](https://auth0.com/blog/spring-boot-caching-101/)
--   [A Complete Guide to Lombok](https://auth0.com/blog/a-complete-guide-to-lombok/)
--   [Get Started with Custom Error Handling in Spring Boot (Java)](https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/)
--   [How To Implement Custom Error Responses in Express](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
--   [Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
-
-## LogRocket
-
--   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
--   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
--   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
--   [A complete guide to null safety in Kotlin](https://blog.logrocket.com/complete-guide-null-safety-kotlin/)
--   [Everything you need to know about Kotlin extensions](https://blog.logrocket.com/everything-you-need-to-know-about-kotlin-extensions/)
--   [Multipart uploads with S3 in Node.js and React](https://blog.logrocket.com/multipart-uploads-s3-node-js-react/)
--   [Type casting in Kotlin: Unsafe vs. safe](https://blog.logrocket.com/type-casting-kotlin-unsafe-vs-safe/)
--   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
--   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [Sealed classes vs. sealed interfaces](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
--   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
-
-## SitePoint
-
--   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
--   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
--   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
--   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
+-   [How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js](https://levelup.gitconnected.com/how-to-fix-the-err-ossl-evp-unsupported-error-in-node-js-197082f42185)
 
 ## Octoparse
 
@@ -132,90 +230,15 @@
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
 -   [How To Scrape Amazon Product Data Without Coding](https://levelup.gitconnected.com/how-to-scrape-amazon-product-data-without-coding-4e484da2d6be)
 
-## Arctype
-
--   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
--   [How to fix a sequence when it goes out of sync in Postgres](https://arctype.com/blog/postgres-sequence/)
--   [Partitioning a billion-row table of soccer data using data context](https://arctype.com/blog/partition-tables-sql/)
--   [Improving performance in a hierarchical SQL table structure with column propagation](https://arctype.com/blog/sql-hierarchy/)
--   [A Complete Guide to Generated Columns in MySQL](https://arctype.com/blog/mysql-generated-columns-guide/)
--   [How To Design a Multi-Language Database](https://arctype.com/blog/international-db-design/)
--   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
-
-## IMG.LY
-
--   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
--   [How To Resize an Image With JavaScript](https://img.ly/blog/how-to-resize-an-image-with-javascript/)
--   [How To Resize an Image in React](https://img.ly/blog/how-to-resize-an-image-in-react/)
--   [How To Draw on an Image with JavaScript](https://img.ly/blog/how-to-draw-on-an-image-with-javascript/)
--   [How To Apply Custom Image Filters Using HTML5 Canvas in JavaScript](https://img.ly/blog/how-to-apply-filters-in-javascript/)
--   [How To Pixelate an Image in JavaScript](https://img.ly/blog/how-to-pixelate-an-image-in-javascript/)
--   [How To Add a Watermark to an Image in JavaScript](https://img.ly/blog/how-to-add-watermark-javascript/)
--   [How To Manipulate an Image With Jimp in React](https://img.ly/blog/how-to-manipulate-an-image-with-jimp-in-react/)
--   [How To Scale, Crop, Flip, and Filter an Image in CSS](https://img.ly/blog/how-to-scale-crop-flip-and-filter-an-image-in-css/)
--   [How To Add a Sticker to a Texture With Three.js](https://img.ly/blog/how-to-add-a-sticker-to-a-texture-with-three-js/)
--   [How To Resize and Compress an Image in JavaScript for Upload](https://img.ly/blog/how-to-compress-an-image-before-uploading-it-in-javascript/)
--   [How To Add Overlays to a Video in React Native](https://img.ly/blog/how-to-add-overlays-to-a-video-in-react-native/)
--   [How To Apply Image Filters in WebGL](https://img.ly/blog/how-to-add-image-filters-in-webgl/)
--   [How To Generate an NFT Art Collection With React Using CE.SDK](https://img.ly/blog/how-to-generate-an-nft-art-collection-with-react-using-ce-sdk/)
--   [Content Moderation for User-Generated Designs with CE.SDK and Sightengine](https://img.ly/blog/content-moderation-for-user-generated-designs-with-ce-sdk-and-sightengine/)
--   [How To Build a Canva Clone with CE.SDK](https://img.ly/blog/how-to-build-a-canva-clone-with-ce-sdk/)
--   [Automatic Design Generation with React](https://img.ly/docs/cesdk/samples/automatic-design-generation-react/)
--   [How To Build a Video Editor With Wasm in React](https://img.ly/blog/how-to-build-a-video-editor-with-wasm-in-react/)
-
-## DatoCMS
-
--   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
--   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
--   [How To Build an Ecommerce with Next.js and Snipcart](https://www.datocms.com/blog/how-to-build-an-ecommerce-nextjs-snipcart-tutorial)
--   [What You Should Know About the Next.js Image Component](https://www.datocms.com/blog/nextjs-images)
--   [Dealing with SEO in Next.js](https://www.datocms.com/blog/dealing-with-nextjs-seo)
--   [How To Build an Ecommerce Application in React With Snipcart](https://www.datocms.com/blog/react-ecommerce-tutorial)
--   [Next.js vs Remix: Top 5 Differences](https://www.datocms.com/blog/next-js-vs-remix-top-5-differences)
--   [Best React Frameworks to Go Jamstack](https://www.datocms.com/blog/best-jamstack-react-frameworks)
--   [Why You Need an Omnichannel CMS](https://www.datocms.com/blog/omnichannel-cms)
--   [Headless CMS vs Traditional CMS: Which Is the Best for You?](https://www.datocms.com/blog/headless-cms-vs-traditional-cms-which-is-the-best-for-you)
--   [What Composable Architecture Is and How To Implement It](https://www.datocms.com/blog/what-is-composable-architecture-and-how-to-implement-it)
--   [How To Choose the Right Enterprise CMS for Your Organization](https://www.datocms.com/blog/how-to-choose-the-right-enterprise-cms-for-your-organization)
--   [How To Build a Landing Page in Next.js](https://www.datocms.com/blog/landing-page-builder)
--   [How To Perform A/B Testing in Next.js](https://www.datocms.com/blog/next-js-ab-testing)
--   [Why Your Mobile CMS Should Be Headless](https://www.datocms.com/blog/why-your-mobile-cms-should-be-headless)
--   [Why a Headless eCommerce CMS is the Future of eCommerce](https://www.datocms.com/blog/headless-ecommerce-cms-future-of-ecommerce)
--   [Headless CMS vs DXP: An In-Depth Comparison](https://www.datocms.com/blog/headless-cms-vs-dxp-an-in-depth-comparison)
--   [Why You Need a Headless CMS for MACH Architecture](https://www.datocms.com/blog/why-you-need-a-headless-cms-for-mach-architecture)
--   [How To Generate TypeScript Types From GraphQL](https://www.datocms.com/blog/how-to-generate-typescript-types-from-graphql)
--   [How To Add Algolia InstantSearch to Your Next.js App](https://www.datocms.com/blog/algolia-nextjs-how-to-add-algolia-instantsearch)
--   [How Next.js Preview Mode Works: An In-depth Guide](https://www.datocms.com/blog/how-next-js-preview-mode-works-an-in-depth-guide)
--   [How DatoCMS Supports Next.js Conf](https://www.datocms.com/blog/how-datocms-supports-next-js-conf)
-
-## Toro Cloud
--   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
-
-## Cantiere Creativo
--   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
--   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
--   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
--   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
--   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
--   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
--   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
--   [Come eseguire Test A/B con Next.js](https://www.cantierecreativo.net/blog/come-eseguire-test-a-b-con-next-js/)
--   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/come-creare-un-blog-multilingua-in-next-js/)
+## OpenReplay
+-   [How To Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
 
-## Strapi
--   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
-
 ## Prisma
 -   [5 Steps to Start Selling Online](https://prismasoftwares.com/e-commerce/5-steps-to-start-selling-online/)
 -   [How AI Can Support You During Calls](https://prismasoftwares.com/e-commerce/how-ai-can-support-you-duringcalls/)
-
-## Listly
--   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
--   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
--   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
 
 ## Reflect
 -   [Interacting with native alerts using Selenium WebDriver](https://reflect.run/articles/interacting-with-native-alerts-using-selenium-webdriver/)
@@ -230,43 +253,26 @@
 -   [How to deal with StaleElementReferenceException in Selenium](https://reflect.run/articles/how-to-deal-with-staleelementreferenceexception-in-selenium/)
 -   [Testing drag-and-drop workflows in Cypress](https://reflect.run/articles/testing-drag-and-drop-workflows-using-cypress/)
 
-## CanvasXpress
--   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
-
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
 -   [Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
 
-## DbVisualizer
--   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
--   [How To Deal With a Database With Billions of Records](https://www.dbvis.com/thetable/how-to-deal-with-a-database-with-billions-of-records/)
--   [SQL Triggers: What They Are and How to Use Them](https://www.dbvis.com/thetable/sql-triggers-what-they-are-and-how-to-use-them/)
--   [Stored Procedures in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/stored-procedures-in-sql-a-complete-tutorial/)
--   [How To Create a Table Like Another Table in MySQL](https://www.dbvis.com/thetable/how-to-create-a-table-like-another-table-in-mysql/)
--   [Database Transactions 101: The Essential Guide](https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/)
--   [The Complete Guide to SQL Subqueries](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/)
+## SitePoint
 
-## Bright Data
--   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
--   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
--   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
--   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
--   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
+-   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
+-   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
+-   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
+-   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
+
+
+## Strapi
+-   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
 
+## Toro Cloud
+-   [How to Design and Mock an API Visually](https://developer.torocloud.com/kb/how-to-design-and-mock-an-api-visually)
+
 ## Twilio
 -   [How To Send Multiple SMS Using Spring Boot and Kotlin](https://www.twilio.com/blog/java-spring-boot-kotlin-send-multiple-sms)
-
-## Airplane
--   [Top 5 PostgreSQL GUI tools](https://www.airplane.dev/blog/top-5-postgresql-gui-tools)
-
-## Apostrophe
--   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
-
-## OpenReplay
--   [How To Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
-
-## AppSignal
--   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
