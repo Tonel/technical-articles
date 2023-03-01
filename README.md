@@ -75,6 +75,7 @@
 -   [How To Add Algolia InstantSearch to Your Next.js App](https://www.datocms.com/blog/algolia-nextjs-how-to-add-algolia-instantsearch)
 -   [How Next.js Preview Mode Works: An In-depth Guide](https://www.datocms.com/blog/how-next-js-preview-mode-works-an-in-depth-guide)
 -   [How DatoCMS Supports Next.js Conf](https://www.datocms.com/blog/how-datocms-supports-next-js-conf)
+-   [How to Build a Blog With Nuxt and a Headless CMS](https://www.datocms.com/blog/how-to-build-a-nuxt-blog)
 
 
 ## DbVisualizer
