@@ -221,6 +221,7 @@
 -   [Check Out LinkedIn Maven Plugin — A Plugin to Become a Java Influencer](https://levelup.gitconnected.com/check-out-linkedin-maven-plugin-a-plugin-to-become-a-java-influencer-598bd3fb8da7)
 -   [How to Append JavaScript Data to a FormData](https://javascript.plainenglish.io/how-to-append-javascript-data-to-a-formdata-5d9405bd944e)
 -   [How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js](https://levelup.gitconnected.com/how-to-fix-the-err-ossl-evp-unsupported-error-in-node-js-197082f42185)
+-   [How to Deal With Cheerio’s load() Function Deprecation](https://javascript.plainenglish.io/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
 
 ## Octoparse
 
