@@ -5,6 +5,7 @@
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
+-   [Drupal vs. Apostrophe: A Complete CMS Comparison](https://apostrophecms.com/compare-cms-solutions/drupal)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
