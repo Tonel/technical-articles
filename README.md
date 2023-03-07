@@ -85,6 +85,9 @@
 -   [Database Transactions 101: The Essential Guide](https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/)
 -   [The Complete Guide to SQL Subqueries](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/)
 
+## Earthly
+-   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
+
 ## IMG.LY
 
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
@@ -123,7 +126,6 @@
 -   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
 -   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [Sealed classes vs. sealed interfaces](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
 -   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
-
 
 ## Medium
 
