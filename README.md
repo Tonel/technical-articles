@@ -127,6 +127,7 @@
 -   [How to extend the Express Request object in TypeScript](https://blog.logrocket.com/extend-express-request-object-typescript/)
 -   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [Sealed classes vs. sealed interfaces](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
 -   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
+-   [Using Helmet in Node.js to secure your application](https://blog.logrocket.com/using-helmet-node-js-secure-application/)
 
 ## Medium
 
