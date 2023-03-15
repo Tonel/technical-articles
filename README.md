@@ -9,6 +9,7 @@
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
+-   [How to Build an Error Handling Layer in Node.js](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)
 
 ## Arctype
 
