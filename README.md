@@ -38,6 +38,7 @@
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
+-   [How To Parse JSON in Python](https://brightdata.com/blog/why-brightdata/parse-json-data-with-python)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
@@ -49,6 +50,7 @@
 -   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
 -   [Come eseguire Test A/B con Next.js](https://www.cantierecreativo.net/blog/come-eseguire-test-a-b-con-next-js/)
 -   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/come-creare-un-blog-multilingua-in-next-js/)
+-   [Come costruire un e-commerce con Next.js e Snipcart](https://www.cantierecreativo.net/blog/e-commerce-con-next-js-e-snipcart/)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
