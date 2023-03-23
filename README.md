@@ -231,6 +231,7 @@
 -   [How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js](https://levelup.gitconnected.com/how-to-fix-the-err-ossl-evp-unsupported-error-in-node-js-197082f42185)
 -   [How to Deal With Cheerio’s load() Function Deprecation](https://javascript.plainenglish.io/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
 -   [How To Fix the npm "Conflicting Peer Dependency" Error](https://medium.com/gitconnected/how-to-fix-the-npm-conflicting-peer-dependency-error-fe5527f629a4)
+-   [How To Parse HTML With Regex](https://towardsdatascience.com/how-to-parse-html-with-regex-6b9c0980382f)
 
 ## Octoparse
 
