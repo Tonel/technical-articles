@@ -261,6 +261,7 @@
 -   [How to fix an InvalidSelectorException in Selenium](https://reflect.run/articles/fixing-invalidselectorexception-in-selenium/)
 -   [How to deal with StaleElementReferenceException in Selenium](https://reflect.run/articles/how-to-deal-with-staleelementreferenceexception-in-selenium/)
 -   [Testing drag-and-drop workflows in Cypress](https://reflect.run/articles/testing-drag-and-drop-workflows-using-cypress/)
+-   [Testing emails using Cypress](https://reflect.run/articles/testing-emails-using-cypress/)
 
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
