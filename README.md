@@ -231,6 +231,7 @@
 -   [How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js](https://levelup.gitconnected.com/how-to-fix-the-err-ossl-evp-unsupported-error-in-node-js-197082f42185)
 -   [How to Deal With Cheerio’s load() Function Deprecation](https://javascript.plainenglish.io/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
 -   [How To Fix the npm "Conflicting Peer Dependency" Error](https://medium.com/gitconnected/how-to-fix-the-npm-conflicting-peer-dependency-error-fe5527f629a4)
+-   [The Best Site to Find Paid Opportunities for Technical Writers](https://javascript.plainenglish.io/the-best-site-to-find-paid-opportunities-for-technical-writers-1521b3049b52)
 
 ## Octoparse
 
