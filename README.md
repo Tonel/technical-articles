@@ -6,13 +6,13 @@
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
 -   [Drupal vs. Apostrophe: A Complete CMS Comparison](https://apostrophecms.com/compare-cms-solutions/drupal)
+-   [How to Build a Blog with the Apostrophe Blog Module](https://apostrophecms.com/blog/how-to-build-a-blog-apostrophe)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
 -   [How to Build an Error Handling Layer in Node.js](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)
 
 ## Arctype
-
 -   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
 -   [How to fix a sequence when it goes out of sync in Postgres](https://arctype.com/blog/postgres-sequence/)
 -   [Partitioning a billion-row table of soccer data using data context](https://arctype.com/blog/partition-tables-sql/)
@@ -22,7 +22,6 @@
 -   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
 
 ## Auth0
-
 -   [Mapping JPA Entities into DTOs in Spring Boot Using MapStruct](https://auth0.com/blog/how-to-automatically-map-jpa-entities-into-dtos-in-spring-boot-using-mapstruct/)
 -   [What is Caching and How It Works](https://auth0.com/blog/what-is-caching-and-how-it-works/)
 -   [Spring Boot Caching 101](https://auth0.com/blog/spring-boot-caching-101/)
