@@ -88,6 +88,7 @@
 -   [How To Create a Table Like Another Table in MySQL](https://www.dbvis.com/thetable/how-to-create-a-table-like-another-table-in-mysql/)
 -   [Database Transactions 101: The Essential Guide](https://www.dbvis.com/thetable/database-transactions-101-the-essential-guide/)
 -   [The Complete Guide to SQL Subqueries](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/)
+-   [BLOB Data Type: Everything You Can Do With It](https://www.dbvis.com/thetable/blob-data-type-everything-you-can-do-with-it/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
