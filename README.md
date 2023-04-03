@@ -232,6 +232,8 @@
 -   [How to Deal With Cheerio’s load() Function Deprecation](https://javascript.plainenglish.io/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
 -   [How To Fix the npm "Conflicting Peer Dependency" Error](https://medium.com/gitconnected/how-to-fix-the-npm-conflicting-peer-dependency-error-fe5527f629a4)
 -   [How To Parse HTML With Regex](https://towardsdatascience.com/how-to-parse-html-with-regex-6b9c0980382f)
+-   [What Is Software Instrumentation and How It Works](https://levelup.gitconnected.com/what-is-software-instrumentation-and-how-it-works-1df138edc5cd)
+-   [Dealing With the ‘“next/font” requires SWC’ Error in Next.js](https://levelup.gitconnected.com/dealing-with-the-next-font-requires-swc-error-in-next-js-a3c2f159343e)
 
 ## Octoparse
 
