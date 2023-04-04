@@ -266,6 +266,11 @@
 -   [How to deal with StaleElementReferenceException in Selenium](https://reflect.run/articles/how-to-deal-with-staleelementreferenceexception-in-selenium/)
 -   [Testing drag-and-drop workflows in Cypress](https://reflect.run/articles/testing-drag-and-drop-workflows-using-cypress/)
 -   [Testing emails using Cypress](https://reflect.run/articles/testing-emails-using-cypress/)
+-   [Installing ChromeDriver and Python Selenium](https://reflect.run/articles/installing-chromedriver-and-python-selenium/) (only [Alternative to WebDrivers: Reflect](https://reflect.run/articles/installing-chromedriver-and-python-selenium/#alternative-to-webdrivers-reflect))
+-   [How to save and restore state in Cypress tests](https://reflect.run/articles/how-to-save-and-restore-state-in-cypress-tests/) (only [State management made easy with Reflect](https://reflect.run/articles/how-to-save-and-restore-state-in-cypress-tests/#state-management-made-easy-with-reflect))
+-   [How to save and load cookies in Selenium WebDriver](https://reflect.run/articles/how-to-save-and-load-cookies-in-selenium-webdriver/) (only [Dealing with cookies has never been easier with Reflect](https://reflect.run/articles/how-to-save-and-load-cookies-in-selenium-webdriver/#dealing-with-cookies-has-never-been-easier-with-reflect))
+-   [Fixing Cypress cross-origin errors](https://reflect.run/articles/fixing-cypress-cross-origin-errors/) (only [Cross-domain testing made easy with Reflect](https://reflect.run/articles/fixing-cypress-cross-origin-errors/#cross-domain-testing-made-easy-with-reflect))
+-   [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) (only [Test Shadow DOM elements with no code in Reflect](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/#test-shadow-dom-elements-with-no-code-in-reflect))
 
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
@@ -279,7 +284,6 @@
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 -   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 -   [5 Pitfalls of Using Micro Frontends and How to Avoid Them](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
-
 
 ## Strapi
 -   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
