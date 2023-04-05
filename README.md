@@ -54,8 +54,10 @@
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
 
-## DatoCMS
+## Codemotion
+-   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
 
+## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
 -   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
 -   [How To Build an Ecommerce with Next.js and Snipcart](https://www.datocms.com/blog/how-to-build-an-ecommerce-nextjs-snipcart-tutorial)
@@ -94,7 +96,6 @@
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
 
 ## IMG.LY
-
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
 -   [How To Resize an Image With JavaScript](https://img.ly/blog/how-to-resize-an-image-with-javascript/)
 -   [How To Resize an Image in React](https://img.ly/blog/how-to-resize-an-image-in-react/)
@@ -120,7 +121,6 @@
 -   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
 
 ## LogRocket
-
 -   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
 -   [A complete guide to enum classes in Kotlin](https://blog.logrocket.com/kotlin-enum-classes-complete-guide/)
 -   [How to integrate a Braintree payment system in React](https://blog.logrocket.com/integrate-braintree-payment-system-react/)
@@ -134,7 +134,6 @@
 -   [Using Helmet in Node.js to secure your application](https://blog.logrocket.com/using-helmet-node-js-secure-application/)
 
 ## Medium
-
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://medium.com/swlh/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
 -   [Defining JPA/Hibernate Entities in Kotlin](https://medium.com/swlh/defining-jpa-hibernate-entities-in-kotlin-1ff8ee470805)
 -   [Avoiding Boilerplate Code With MapStruct, Spring Boot and Kotlin](https://medium.com/swlh/avoiding-boilerplate-code-with-mapstruct-spring-boot-and-kotlin-50bf5848dc7c)
@@ -237,7 +236,6 @@
 -   [How to Use the tsconfig.json “paths” Option in Node.js](https://javascript.plainenglish.io/how-to-use-the-tsconfig-json-paths-option-in-node-js-24ccb94b4506)
 
 ## Octoparse
-
 -   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
 -   [How To Scrape Data from Google Maps with Octoparse](https://levelup.gitconnected.com/how-to-scrape-data-from-google-maps-with-octoparse-4c2f7e47dfe8)
 -   [You Do Not Need to Code for Data Collection](https://levelup.gitconnected.com/you-do-not-need-to-code-for-data-collection-445acfdd5830)
@@ -279,7 +277,6 @@
 -   [Building an Error Handling Layer in React](https://semaphoreci.com/blog/error-handling-layer-react)
 
 ## SitePoint
-
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
 -   [How to Create Responsive React Components with React Textfit](https://www.sitepoint.com/responsive-react-components-textfit/)
 -   [5 Reasons You Should Adopt a Micro Frontend Architecture](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
