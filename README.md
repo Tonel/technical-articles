@@ -234,6 +234,7 @@
 -   [What Is Software Instrumentation and How It Works](https://levelup.gitconnected.com/what-is-software-instrumentation-and-how-it-works-1df138edc5cd)
 -   [Dealing With the ‘“next/font” requires SWC’ Error in Next.js](https://levelup.gitconnected.com/dealing-with-the-next-font-requires-swc-error-in-next-js-a3c2f159343e)
 -   [How to Use the tsconfig.json “paths” Option in Node.js](https://javascript.plainenglish.io/how-to-use-the-tsconfig-json-paths-option-in-node-js-24ccb94b4506)
+-   [How To Deal With the "Remote Host Identification Has Changed" Message With GitHub](https://levelup.gitconnected.com/how-to-deal-with-the-remote-host-identification-has-changed-message-with-github-1dea015dae8d)
 
 ## Octoparse
 -   [Web Scraping Made Simple with Octoparse](https://levelup.gitconnected.com/web-scraping-made-simple-with-octoparse-9a966d888414)
