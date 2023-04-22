@@ -81,6 +81,7 @@
 -   [How Next.js Preview Mode Works: An In-depth Guide](https://www.datocms.com/blog/how-next-js-preview-mode-works-an-in-depth-guide)
 -   [How DatoCMS Supports Next.js Conf](https://www.datocms.com/blog/how-datocms-supports-next-js-conf)
 -   [How To Build a Blog With Nuxt and a Headless CMS](https://www.datocms.com/blog/how-to-build-a-nuxt-blog)
+-   [How to Build a Blog in Svelte With a Headless CMS](https://www.datocms.com/blog/how-to-build-a-svelte-blog-with-a-headless-cms)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
