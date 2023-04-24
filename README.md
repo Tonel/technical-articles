@@ -30,7 +30,6 @@
 -   [How To Implement Custom Error Responses in Express](https://auth0.com/blog/how-to-implement-custom-error-responses-in-expressjs/)
 -   [Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
 
-
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
 -   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
@@ -38,6 +37,7 @@
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
 -   [How To Parse JSON in Python](https://brightdata.com/blog/why-brightdata/parse-json-data-with-python)
+-   [Web Scraping in Go: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-go)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
