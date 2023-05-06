@@ -38,6 +38,7 @@
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
 -   [How To Parse JSON in Python](https://brightdata.com/blog/why-brightdata/parse-json-data-with-python)
 -   [Web Scraping in Go: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-go)
+-   [Web Scraping with Ruby: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-with-ruby)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
