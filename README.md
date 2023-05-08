@@ -58,6 +58,7 @@
 
 ## Codemotion
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
+-   [How to Create a Multilingual Site in Next.js With next-i18next](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
