@@ -33,6 +33,7 @@
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
 -   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
+-   [Web Scraping With Python – Step-By-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-with-python)
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
