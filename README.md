@@ -7,6 +7,7 @@
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
 -   [Drupal vs. Apostrophe: A Complete CMS Comparison](https://apostrophecms.com/compare-cms-solutions/drupal)
 -   [How to Build a Blog with the Apostrophe Blog Module](https://apostrophecms.com/blog/how-to-build-a-blog-apostrophe)
+-   [Digging into Apostrophe's Image Widget Tool](https://apostrophecms.com/blog/image-widget-tool)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
