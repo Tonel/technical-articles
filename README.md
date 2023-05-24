@@ -256,6 +256,7 @@
 -   [Best Web Scraping Libraries for Spring Boot](https://levelup.gitconnected.com/best-web-scraping-libraries-for-spring-boot-1f60ca1f7544)
 -   [How to Disable the Error Overlay in React in Development Mode](https://levelup.gitconnected.com/how-to-disable-the-error-overlay-in-react-in-development-mode-406c95c2b3bc)
 -   [What Data to Track in Sentry and Similar Application Monitoring Tools](https://levelup.gitconnected.com/what-data-to-track-in-sentry-and-similar-application-monitoring-tools-47eb4562c453)
+-   [How to Set Up Playwright in Python](https://python.plainenglish.io/how-to-set-up-playwright-in-python-79bc6c34113e)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
