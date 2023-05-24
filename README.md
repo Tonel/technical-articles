@@ -255,7 +255,8 @@
 -   [Best Web Scraping Libraries for R](https://levelup.gitconnected.com/best-web-scraping-libraries-for-r-ef9be20dfa1c)
 -   [Best Web Scraping Libraries for Spring Boot](https://levelup.gitconnected.com/best-web-scraping-libraries-for-spring-boot-1f60ca1f7544)
 -   [How to Disable the Error Overlay in React in Development Mode](https://levelup.gitconnected.com/how-to-disable-the-error-overlay-in-react-in-development-mode-406c95c2b3bc)
-
+-   [What Data to Track in Sentry and Similar Application Monitoring Tools](https://levelup.gitconnected.com/what-data-to-track-in-sentry-and-similar-application-monitoring-tools-47eb4562c453)
+      
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
 
