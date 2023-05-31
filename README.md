@@ -149,6 +149,7 @@
 -   [Guide to using sealed classes in Kotlin](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/) (only [What is a sealed interface?](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#what-is-sealed-interface) and [Sealed classes vs. sealed interfaces](https://blog.logrocket.com/guide-using-sealed-classes-kotlin/#sealed-classes-vs-sealed-interfaces))
 -   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
 -   [Using Helmet in Node.js to secure your application](https://blog.logrocket.com/using-helmet-node-js-secure-application/)
+-   [Building type-safe forms in React with react-ts-form](https://blog.logrocket.com/building-type-safe-forms-react-ts-form/)
 
 ## Medium
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://medium.com/swlh/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
