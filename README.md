@@ -44,6 +44,7 @@
 -   [How To Parse JSON in Python](https://brightdata.com/blog/why-brightdata/parse-json-data-with-python)
 -   [Web Scraping in Go: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-go)
 -   [Web Scraping with Ruby: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-with-ruby)
+-   [How To Scrape Yahoo Finance in Python](https://brightdata.com/blog/how-tos/scrape-yahoo-finance-guide)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
