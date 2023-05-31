@@ -109,6 +109,7 @@
 -   [The Ultimate Guide to Generated Columns](https://www.dbvis.com/thetable/the-ultimate-guide-to-generated-columns/)
 -   [How To List Databases in PostgreSQL](https://www.dbvis.com/thetable/postgres-list-databases/)
 -   [Understanding PostgreSQL Data Integrity](https://www.dbvis.com/thetable/understanding-postgresql-data-integrity/)
+-   [Storing Unstructured Data With Hstore in PostgreSQL](https://www.dbvis.com/thetable/storing-unstructured-data-with-hstore-in-postgresql/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
