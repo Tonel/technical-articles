@@ -262,6 +262,7 @@
 -   [What Data to Track in Sentry and Similar Application Monitoring Tools](https://levelup.gitconnected.com/what-data-to-track-in-sentry-and-similar-application-monitoring-tools-47eb4562c453)
 -   [How to Set Up Playwright in Python](https://python.plainenglish.io/how-to-set-up-playwright-in-python-79bc6c34113e)
 -   [How to Allow Only Specific User Agents in Next.js](https://javascript.plainenglish.io/how-to-allow-only-specific-user-agents-in-next-js-f17ed550916c)
+-   [How To Fix the “Source Parse Failed For Route” Error in Next.js](https://levelup.gitconnected.com/how-to-fix-the-source-parse-failed-for-route-error-in-next-js-c6a3484b0b1b)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
