@@ -277,6 +277,7 @@
 ## OpenReplay
 -   [How To Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
 -   [How To Cancel Requests In Axios](https://blog.openreplay.com/how-to-cancel-requests-in-axios/)
+-   [Security: How To Deal With CSP In React](https://blog.openreplay.com/security--how-to-deal-with-csp-in-react/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
