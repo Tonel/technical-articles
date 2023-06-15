@@ -46,6 +46,7 @@
 -   [Web Scraping in Go: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-go)
 -   [Web Scraping with Ruby: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-with-ruby)
 -   [How To Scrape Yahoo Finance in Python](https://brightdata.com/blog/how-tos/scrape-yahoo-finance-guide)
+-   [How To Scrape eBay in Python For Price Monitoring](https://brightdata.com/blog/how-tos/how-to-scrape-ebay-in-python)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
