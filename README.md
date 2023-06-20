@@ -265,6 +265,8 @@
 -   [How to Set Up Playwright in Python](https://python.plainenglish.io/how-to-set-up-playwright-in-python-79bc6c34113e)
 -   [How to Allow Only Specific User Agents in Next.js](https://javascript.plainenglish.io/how-to-allow-only-specific-user-agents-in-next-js-f17ed550916c)
 -   [How To Fix the “Source Parse Failed For Route” Error in Next.js](https://levelup.gitconnected.com/how-to-fix-the-source-parse-failed-for-route-error-in-next-js-c6a3484b0b1b)
+-   [Dealing With the “TS2322 ‘DefaultTFuncReturn’ is not assignable to type xyz” Error in i18next](https://levelup.gitconnected.com/dealing-with-the-ts2322-defaulttfuncreturn-is-not-assignable-to-type-xyz-error-in-i18next-3aec5653e9a7)
+-   [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://levelup.gitconnected.com/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-90cc0e1ddd26)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
