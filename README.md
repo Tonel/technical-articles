@@ -323,6 +323,9 @@
 ## Strapi
 -   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
 
+## testRigor
+-   [How To Simplify Your Automated Testing With AI: A Beginner’s Guide](https://levelup.gitconnected.com/how-to-simplify-your-automated-testing-with-ai-a-beginners-guide-f79e90eac2b4)
+
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
 
