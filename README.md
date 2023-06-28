@@ -48,6 +48,7 @@
 -   [How To Scrape Yahoo Finance in Python](https://brightdata.com/blog/how-tos/scrape-yahoo-finance-guide)
 -   [How To Scrape eBay in Python For Price Monitoring](https://brightdata.com/blog/how-tos/how-to-scrape-ebay-in-python)
 -   [How To Scrape YouTube in Python](https://brightdata.com/blog/how-tos/how-to-scrape-youtube-in-python)
+-   [How To Choose the Best Proxy Provider](https://brightdata.com/blog/proxy-101/choose-best-proxy-provider)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
