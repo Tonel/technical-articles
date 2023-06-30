@@ -49,6 +49,7 @@
 -   [How To Scrape eBay in Python For Price Monitoring](https://brightdata.com/blog/how-tos/how-to-scrape-ebay-in-python)
 -   [How To Scrape YouTube in Python](https://brightdata.com/blog/how-tos/how-to-scrape-youtube-in-python)
 -   [How To Choose the Best Proxy Provider](https://brightdata.com/blog/proxy-101/choose-best-proxy-provider)
+-   [How To Choose the Best Web Scraping Service: A Complete Guide](https://brightdata.com/blog/web-data/best-web-scraping-services-guide)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
@@ -157,6 +158,7 @@
 -   [ArrayList vs. LinkedList for Kotlin data structure](https://blog.logrocket.com/arraylist-vs-linkedlist-kotlin-data-structure/)
 -   [Using Helmet in Node.js to secure your application](https://blog.logrocket.com/using-helmet-node-js-secure-application/)
 -   [Building type-safe forms in React with react-ts-form](https://blog.logrocket.com/building-type-safe-forms-react-ts-form/)
+-   [Using CORS in Next.js to handle cross-origin requests](https://blog.logrocket.com/using-cors-next-js-handle-cross-origin-requests/)
 
 ## Medium
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://medium.com/swlh/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
