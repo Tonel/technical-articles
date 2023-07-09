@@ -273,6 +273,7 @@
 -   [How To Fix the “Source Parse Failed For Route” Error in Next.js](https://levelup.gitconnected.com/how-to-fix-the-source-parse-failed-for-route-error-in-next-js-c6a3484b0b1b)
 -   [Dealing With the “TS2322 ‘DefaultTFuncReturn’ is not assignable to type xyz” Error in i18next](https://levelup.gitconnected.com/dealing-with-the-ts2322-defaulttfuncreturn-is-not-assignable-to-type-xyz-error-in-i18next-3aec5653e9a7)
 -   [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://levelup.gitconnected.com/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-90cc0e1ddd26)
+-   [How To Deal With The ConnectionAcquireTimeoutError in Sequelize](https://levelup.gitconnected.com/how-to-deal-with-the-connectionacquiretimeouterror-in-sequelize-d8bb246f4fb5)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
