@@ -274,6 +274,7 @@
 -   [Dealing With the “TS2322 ‘DefaultTFuncReturn’ is not assignable to type xyz” Error in i18next](https://levelup.gitconnected.com/dealing-with-the-ts2322-defaulttfuncreturn-is-not-assignable-to-type-xyz-error-in-i18next-3aec5653e9a7)
 -   [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://levelup.gitconnected.com/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-90cc0e1ddd26)
 -   [How To Deal With The ConnectionAcquireTimeoutError in Sequelize](https://levelup.gitconnected.com/how-to-deal-with-the-connectionacquiretimeouterror-in-sequelize-d8bb246f4fb5)
+-   [Are Programming Languages Real Languages?](https://levelup.gitconnected.com/are-programming-languages-real-languages-c6147fc8ff7d)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
