@@ -66,6 +66,7 @@
 -   [Come costruire un e-commerce con Next.js e Snipcart](https://www.cantierecreativo.net/blog/e-commerce-con-next-js-e-snipcart/)
 -   [Cos’è un’impresa componibile e come costruirla](https://www.cantierecreativo.net/blog/cos-e-un-impresa-componibile-e-come-costruirla/)
 -   [Cos’è un’applicazione componibile e perchè è il futuro del software](https://www.cantierecreativo.net/blog/cos-e-un-applicazione-componibile/)
+-   [Che cos’è un e-commerce componibile e perché adottarlo](https://www.cantierecreativo.net/blog/che-cos-e-un-e-commerce-componibile-e-perche-adottarlo/)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://levelup.gitconnected.com/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
