@@ -53,6 +53,7 @@
 -   [How To Choose the Best Web Scraping Service: A Complete Guide](https://brightdata.com/blog/web-data/best-web-scraping-services-guide)
 -   [What Is Proxy Server and How To Choose the Best Provider](https://brightdata.com/blog/proxy-101/best-proxy-servers-providers)
 -   [How To Scrape Reddit in Python Guide](https://brightdata.com/blog/web-data/how-to-scrape-reddit-python)
+-   [How To Scrape Yelp in Python](https://brightdata.com/blog/how-tos/how-to-scrape-yelp-guide)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
