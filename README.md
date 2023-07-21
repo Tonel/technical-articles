@@ -79,6 +79,12 @@
 
 ## Codemotion (IT)
 -   [Come creare un sito multilingua in Next.js con next-i18next](https://www.codemotion.com/magazine/it/frontend-it/sito-multilingua-in-next-js/)
+-   [Perché le aziende stanno aprendo posizioni per Developer Experience](https://www.codemotion.com/magazine/it/carriere-tech/perche-le-aziende-stanno-aprendo-posizioni-per-developer-experience/) [Translation only]
+-   [Come scrivere un curriculum da sviluppatore web che lascia una grande prima impressione](https://www.codemotion.com/magazine/it/dev-life-it/come-scrivere-un-curriculum-da-sviluppatore-web-che-lascia-una-grande-prima-impressione/) [Translation only]
+-   [Come trovare progetti open source interessanti](https://www.codemotion.com/magazine/it/open-source/come-trovare-progetti-open-source-interessanti/) [Translation only]
+-   [I framework Python più in voga del momento](https://www.codemotion.com/magazine/it/linguaggi-programmazione/i-framework-python-piu-in-voga-del-momento/) [Translation only]
+-   [5 framework JavaScript da seguire nel 2023](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/5-framework-javascript-da-seguire-nel-2023/) [Translation only]
+-   [Trucchi avanzati per CSS che devi conoscere](https://www.codemotion.com/magazine/it/frontend-it/trucchi-avanzati-per-css-che-devi-conoscere/) [Translation only]
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
