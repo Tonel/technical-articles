@@ -76,6 +76,7 @@
 ## Codemotion
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
 -   [How to Create a Multilingual Site in Next.js With next-i18next](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)
+-   [How To Optimize Next.js for Production](https://www.codemotion.com/magazine/frontend/optimize-next-js-for-production/)
 
 ## Codemotion (IT)
 -   [Come creare un sito multilingua in Next.js con next-i18next](https://www.codemotion.com/magazine/it/frontend-it/sito-multilingua-in-next-js/)
