@@ -285,6 +285,7 @@
 -   [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://levelup.gitconnected.com/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-90cc0e1ddd26)
 -   [How To Deal With The ConnectionAcquireTimeoutError in Sequelize](https://levelup.gitconnected.com/how-to-deal-with-the-connectionacquiretimeouterror-in-sequelize-d8bb246f4fb5)
 -   [Are Programming Languages Real Languages?](https://levelup.gitconnected.com/are-programming-languages-real-languages-c6147fc8ff7d)
+-   [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://levelup.gitconnected.com/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-8b8f34d271c9)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://levelup.gitconnected.com/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
