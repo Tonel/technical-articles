@@ -9,6 +9,7 @@
 -   [How to Build a Blog with the Apostrophe Blog Module](https://apostrophecms.com/blog/how-to-build-a-blog-apostrophe)
 -   [Digging into Apostrophe's Image Widget Tool](https://apostrophecms.com/blog/image-widget-tool)
 -   [How to Use Apostrophe as a Headless CMS](https://apostrophecms.com/blog/apostrophe-headless-cms)
+-   [How AI Is Transforming the CMS Industry](https://apostrophecms.com/blog/how-ai-is-transforming-the-cms-industry)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
