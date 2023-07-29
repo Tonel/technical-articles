@@ -88,6 +88,7 @@
 -   [I framework Python più in voga del momento](https://www.codemotion.com/magazine/it/linguaggi-programmazione/i-framework-python-piu-in-voga-del-momento/) (Translation only)
 -   [5 framework JavaScript da seguire nel 2023](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/5-framework-javascript-da-seguire-nel-2023/) (Translation only)
 -   [Trucchi avanzati per CSS che devi conoscere](https://www.codemotion.com/magazine/it/frontend-it/trucchi-avanzati-per-css-che-devi-conoscere/) (Translation only)
+-   [Come ottimizzare Next.js per andare in produzione](https://www.codemotion.com/magazine/it/frontend-it/ottimizzare-next-js-produzione/)
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
