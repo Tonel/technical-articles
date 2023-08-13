@@ -160,7 +160,6 @@
 ## Listly
 -   [How To Scrape Media Articles in Just a Few Clicks](https://betterprogramming.pub/how-to-scrape-media-articles-in-just-a-few-clicks-7d9ba52c2bde)
 -   [Cómo scrapear artículos de prensa en pocos clics](https://antozanini.medium.com/c%C3%B3mo-scrapear-art%C3%ADculos-de-prensa-en-pocos-clics-9933ee2e0bff)
--   [3 Productivity Tools to Transform the Way You Work](https://levelup.gitconnected.com/3-productivity-tools-to-transform-the-way-you-work-37cc4a1a0f93)
 
 ## LogRocket
 -   [Optimize React apps using a multi-layered structure](https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/)
@@ -192,10 +191,7 @@
 -   [How To Add Compression to Caching in Spring Boot](https://betterprogramming.pub/how-to-add-compression-to-caching-in-spring-boot-d4d21533167c)
 -   [How To Handle Cache-Related Errors in Spring Boot](https://betterprogramming.pub/how-to-handle-cache-related-errors-in-spring-boot-679333e1beb7)
 -   [Avoiding Code Duplication by Adding an API Layer in Spring Boot](https://codeburst.io/avoiding-code-duplication-by-adding-an-api-layer-in-spring-boot-48ee3a949cb4)
--   [Adding Retry Logic To Your API Calls in Spring Boot](https://codeburst.io/adding-retry-logic-to-your-api-calls-in-spring-boot-4d0d60a0cc8d)
 -   [How To Configure Multiple MongoDB Connectors in Spring Boot](https://betterprogramming.pub/how-to-configure-multiple-mongodb-connectors-in-spring-boot-669f36fe9d3e)
--   [Avoiding Code Duplication by Adding an API Layer in JavaScript](https://codeburst.io/avoiding-code-duplication-by-adding-an-api-requests-definition-layer-in-javascript-6e5d7b409896)
--   [Automatically Canceling Previous Requests in JavaScript](https://codeburst.io/automatically-canceling-previous-requests-in-javascript-606943e2834)
 -   [Efficient Data Visualization with React](https://towardsdatascience.com/efficient-data-visualization-with-react-f55f67a2d2fa)
 -   [Achieving Loosely Coupling with a Math Expression Parser](https://towardsdatascience.com/achieving-loosely-coupling-with-a-math-expression-parser-4abed38ff00e)
 -   [A Complete Guide To props.children In React](https://codeburst.io/a-complete-guide-to-props-children-in-react-c315fab74e7c)
@@ -211,14 +207,11 @@
 -   [5 Reasons Why Software Developers Should Write Technical Articles](https://betterprogramming.pub/5-reasons-why-software-developers-should-write-technical-articles-5d75775d0e63)
 -   [Configuring a Subdomain in Apache2](https://codeburst.io/configuring-a-subdomain-in-apache2-f7a8b316b42c)
 -   [Deploying and Hosting a React App on an Apache Server](https://codeburst.io/deploying-and-hosting-a-react-app-on-an-apache-server-b7121dffb07a)
--   [Why DevSecOps Is One of The Biggest Tech Trends in 2021](https://medium.com/technology-hits/why-devsecops-is-one-the-biggest-tech-trends-in-2021-b8d8c56e38fc)
 -   [Check Out GomorraSQL — A Library To Write Queries in Neapolitan](https://betterprogramming.pub/check-out-gomorrasql-a-library-to-write-queries-in-neapolitan-3e85568dddb4)
 -   [Dealing With GitHub Password Authentication Deprecation](https://betterprogramming.pub/dealing-with-github-password-authentication-deprecation-1b59ced90065)
 -   [Dealing With OutOfMemoryError in Spring Boot](https://medium.com/quick-code/what-a-recurring-outofmemory-error-taught-me-11f2061063a1)
 -   [How To Avoid Bottlenecks in Node.js Applications](https://medium.com/better-programming/how-to-avoid-bottlenecks-in-node-js-applications-8085d86b6b2e)
--   [How a 7-Year-Old Laptop Helped Me Become a Good Developer](https://javascript.plainenglish.io/how-a-7-year-old-laptop-helped-me-become-a-good-developer-d0f42b664b15)
 -   [Working for a Data-Driven Startup Whose Value Surged 700% In Less Than One Year](https://towardsdatascience.com/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a)
--   [The Best Startup Advice I Got: “Don’t Invest More Than Five Minutes in Choosing a Technology”](https://betterprogramming.pub/the-best-startup-advice-i-got-dont-invest-more-than-five-minutes-in-choosing-a-technology-d791633223e8)
 -   [How To Deal With SEO While Developing Locally](https://javascript.plainenglish.io/how-to-deal-with-seo-while-developing-locally-f930652bbcec)
 -   [Sending Transactional Emails With Sendinblue in Kotlin](https://medium.com/better-programming/sending-transactional-emails-with-sendinblue-in-kotlin-6f6920f49733)
 -   [Build a Custom Archives Page in Plain WordPress in Minutes](https://codeburst.io/build-a-custom-archives-page-in-plain-wordpress-in-minutes-910258a5884c)
@@ -227,24 +220,16 @@
 -   [Best Websites To Make Money With Technical Writing for Developers](https://betterprogramming.pub/best-websites-to-make-money-with-technical-writing-for-developers-bd4de3e54aab)
 -   [Will Google’s QUIC Protocol Replace TCP?](https://levelup.gitconnected.com/will-googles-quic-protocol-replace-tcp-6ed991a0ca1e)
 -   [How to Make Next.js Image Optimization Work on AWS Elastic Beanstalk](https://javascript.plainenglish.io/how-to-make-next-js-image-optimization-work-on-aws-elastic-beanstalk-2776ea255eff)
--   [How To Automatically Get Props Types in Next.js and TypeScript](https://javascript.plainenglish.io/how-to-automatically-get-props-types-in-next-js-and-typescript-4c223e962617)
 -   [How to Deploy Next.js on Multiple Servers](https://levelup.gitconnected.com/how-to-deploy-next-js-on-multiple-servers-3b493d4ce0e9)
 -   [Using the HTML style Tag to Style a React Component](https://levelup.gitconnected.com/using-the-html-style-tag-to-style-a-react-component-b3203e8eb0d9)
 -   [How To Quickly Define an Efficient SQL Index for GROUP BY Queries](https://levelup.gitconnected.com/how-to-quickly-define-an-efficient-sql-index-for-group-by-queries-b8ba0c42bd07)
 -   [How To Deal With document.write() in React and Next.js](https://levelup.gitconnected.com/how-to-deal-with-document-write-in-react-and-next-js-31f0c1215e43)
 -   [How To Send Multiple SMS With Twilio in Spring Boot](https://levelup.gitconnected.com/how-to-send-multiple-sms-with-twilio-in-spring-boot-702cf12d565f)
 -   [3 Tips on API Responses for Backend Developers](https://betterprogramming.pub/3-tips-on-api-responses-for-backend-developers-8df31c23882e)
--   [Partitioning a Billion-Row Table of Sports Data Using Data Context](https://towardsdatascience.com/partitioning-a-billion-row-table-of-sports-data-using-data-context-6eb94bb9f18a)
 -   [How To Pass a Variable to Your Translation String With i18next](https://betterprogramming.pub/how-to-pass-a-variable-to-your-translation-string-with-i18next-b07614c33514)
 -   [5 Mistakes I Made in My Early Days as a Web Developer](https://betterprogramming.pub/5-mistakes-i-made-in-my-early-days-as-a-web-developer-26d9a6707c51)
--   [How To Build a Loyal Fanbase For Your Startup](https://levelup.gitconnected.com/how-to-build-a-loyal-fanbase-for-your-startup-2614207c7002)
 -   [Email Syntax Validation and Existence Verification in PHP](https://betterprogramming.pub/email-syntax-validation-and-existence-verification-in-php-5f7fdad768dd)
--   [How To Improve Performance in a Hierarchical SQL Table Structure With Column Propagation](https://towardsdatascience.com/how-to-improve-performance-in-a-hierarchical-sql-table-structure-with-column-propagation-3b8cacdc87a9)
--   [How AI Can Support You During Calls](https://levelup.gitconnected.com/how-ai-can-support-you-during-calls-1ef002d3c29d)
--   [What You Need to Know About Generated Columns in MySQL](https://towardsdatascience.com/what-you-need-to-know-about-generated-columns-in-mysql-23871b376d66)
 -   [How to Handle the Mouse Hover Event in React](https://javascript.plainenglish.io/how-to-handle-the-mouse-hover-event-in-react-32bad58f1a9)
--   [3 Best Practices To Design a Multi-Language Database](https://betterprogramming.pub/3-best-practices-to-design-a-multi-language-database-80377ca33d15)
--   [5 UI and UX Mistakes I Made in My Early Days as a Web Developer](https://levelup.gitconnected.com/5-ui-and-ux-mistakes-i-made-in-my-early-days-as-a-web-developer-a2b450147615)
 -   [How To Enable String Similarity Features in PostgreSQL](https://levelup.gitconnected.com/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
 -   [How To Read a JSON File and Return Its Content in a Spring Boot API](https://betterprogramming.pub/how-to-read-a-json-file-and-return-its-content-in-a-spring-boot-api-1f69e552f7af)
 -   [Web Scraping with PHP: a Step-By-Step Tutorial](https://betterprogramming.pub/a-step-by-step-tutorial-to-web-scraping-in-php-fc57a926d468)
@@ -281,7 +266,6 @@
 -   [Best Web Scraping Libraries for R](https://levelup.gitconnected.com/best-web-scraping-libraries-for-r-ef9be20dfa1c)
 -   [Best Web Scraping Libraries for Spring Boot](https://levelup.gitconnected.com/best-web-scraping-libraries-for-spring-boot-1f60ca1f7544)
 -   [How to Disable the Error Overlay in React in Development Mode](https://levelup.gitconnected.com/how-to-disable-the-error-overlay-in-react-in-development-mode-406c95c2b3bc)
--   [What Data to Track in Sentry and Similar Application Monitoring Tools](https://levelup.gitconnected.com/what-data-to-track-in-sentry-and-similar-application-monitoring-tools-47eb4562c453)
 -   [How to Set Up Playwright in Python](https://python.plainenglish.io/how-to-set-up-playwright-in-python-79bc6c34113e)
 -   [How to Allow Only Specific User Agents in Next.js](https://javascript.plainenglish.io/how-to-allow-only-specific-user-agents-in-next-js-f17ed550916c)
 -   [How To Fix the “Source Parse Failed For Route” Error in Next.js](https://levelup.gitconnected.com/how-to-fix-the-source-parse-failed-for-route-error-in-next-js-c6a3484b0b1b)
@@ -308,10 +292,6 @@
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
-
-## Prisma
--   [5 Steps to Start Selling Online](https://prismasoftwares.com/e-commerce/5-steps-to-start-selling-online/)
--   [How AI Can Support You During Calls](https://prismasoftwares.com/e-commerce/how-ai-can-support-you-duringcalls/)
 
 ## Reflect
 -   [Interacting with native alerts using Selenium WebDriver](https://reflect.run/articles/interacting-with-native-alerts-using-selenium-webdriver/)
