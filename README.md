@@ -59,6 +59,7 @@
 -   [How To Scrape Yelp in Python](https://brightdata.com/blog/how-tos/how-to-scrape-yelp-guide)
 -   [Best Web Scraping Proxies: A Complete Guide](https://brightdata.com/blog/proxy-101/best-scraping-proxies-guide)
 -   [VPN vs Proxy: Which Is Better for Web Scraping?](https://brightdata.com/blog/proxy-101/vpn-vs-proxy)
+-   [How To Scrape GitHub Repositories in Python](https://brightdata.com/blog/how-tos/how-to-scrape-github-repositories-in-python)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
