@@ -83,6 +83,7 @@
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
 -   [How to Create a Multilingual Site in Next.js With next-i18next](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)
 -   [How To Optimize Next.js for Production](https://www.codemotion.com/magazine/frontend/optimize-next-js-for-production/)
+-   [The Best Color Manipulation Library in JavaScript](https://www.codemotion.com/magazine/frontend/javascript/the-best-color-manipulation-library-in-javascript/)
 
 ## Codemotion (IT)
 -   [Come creare un sito multilingua in Next.js con next-i18next](https://www.codemotion.com/magazine/it/frontend-it/sito-multilingua-in-next-js/)
@@ -93,6 +94,7 @@
 -   [5 framework JavaScript da seguire nel 2023](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/5-framework-javascript-da-seguire-nel-2023/) (Translation only)
 -   [Trucchi avanzati per CSS che devi conoscere](https://www.codemotion.com/magazine/it/frontend-it/trucchi-avanzati-per-css-che-devi-conoscere/) (Translation only)
 -   [Come ottimizzare Next.js per andare in produzione](https://www.codemotion.com/magazine/it/frontend-it/ottimizzare-next-js-produzione/)
+-   [La migliore libreria per la manipolazione dei colori in JavaScript](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/libreria-manipolazione-dei-colori-javascript/)
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
