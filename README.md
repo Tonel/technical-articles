@@ -138,6 +138,7 @@
 -   [Understanding PostgreSQL Data Integrity](https://www.dbvis.com/thetable/understanding-postgresql-data-integrity/)
 -   [Storing Unstructured Data With Hstore in PostgreSQL](https://www.dbvis.com/thetable/storing-unstructured-data-with-hstore-in-postgresql/)
 -   [PostgreSQL COALESCE Function: Handling NULL Values Effectively](https://www.dbvis.com/thetable/postgresql-coalesce-function-handling-null-value/)
+-   [How To Kill All Connections to a Database in PostgreSQL](https://www.dbvis.com/thetable/how-to-kill-all-connections-to-a-database-in-postgresql/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
