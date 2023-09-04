@@ -61,6 +61,12 @@
 -   [VPN vs Proxy: Which Is Better for Web Scraping?](https://brightdata.com/blog/proxy-101/vpn-vs-proxy)
 -   [How To Scrape GitHub Repositories in Python](https://brightdata.com/blog/how-tos/how-to-scrape-github-repositories-in-python)
 
+## Bright Data [Ghostwriting]
+-   [Web Scraping vs API: What You Need to Know](https://brightdata.com/blog/web-data/web-scraping-vs-api)
+-   [Ultimate Guide on How to Use cURL With Proxy](https://brightdata.com/blog/proxy-101/curl-with-proxies)
+-   [What is web scraping?](https://brightdata.com/blog/how-tos/what-is-web-scraping)
+-   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset)
+
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
 -   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
