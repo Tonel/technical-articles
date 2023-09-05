@@ -65,7 +65,11 @@
 -   [Web Scraping vs API: What You Need to Know](https://brightdata.com/blog/web-data/web-scraping-vs-api)
 -   [Ultimate Guide on How to Use cURL With Proxy](https://brightdata.com/blog/proxy-101/curl-with-proxies)
 -   [What is web scraping?](https://brightdata.com/blog/how-tos/what-is-web-scraping)
--   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset)
+-   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset) 
+
+## Built In
+-  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
+-  [How to Fix the GitHub Error ‘Remote Host Identification Has Changed’](https://builtin.com/software-engineering-perspectives/git-remote-host-identification-has-changed)
 
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
@@ -335,14 +339,12 @@
 -   [How To Mark a File as Executable in a Git Repo](https://writech.run/blog/how-to-mark-a-file-as-executable-in-a-git-repo-80ee532f4366)
 -   [Check Out LinkedIn Maven Plugin — A Plugin to Become a Java Influencer](https://writech.run/blog/check-out-linkedin-maven-plugin-a-plugin-to-become-a-java-influencer-598bd3fb8da7)
 -   [How to Append JavaScript Data to a FormData](https://writech.run/blog/how-to-append-javascript-data-to-a-formdata-5d9405bd944e)
--   [How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js](https://writech.run/blog/how-to-fix-the-err-ossl-evp-unsupported-error-in-node-js-197082f42185)
 -   [How to Deal With Cheerio’s load() Function Deprecation](https://writech.run/blog/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
 -   [How To Fix the npm "Conflicting Peer Dependency" Error](https://writech.run/blog/how-to-fix-the-npm-conflicting-peer-dependency-error-fe5527f629a4)
 -   [How To Parse HTML With Regex](https://writech.run/blog/how-to-parse-html-with-regex-6b9c0980382f)
 -   [What Is Software Instrumentation and How It Works](https://writech.run/blog/what-is-software-instrumentation-and-how-it-works-1df138edc5cd)
 -   [Dealing With the ‘“next/font” requires SWC’ Error in Next.js](https://writech.run/blog/dealing-with-the-next-font-requires-swc-error-in-next-js-a3c2f159343e)
 -   [How to Use the tsconfig.json “paths” Option in Node.js](https://writech.run/blog/how-to-use-the-tsconfig-json-paths-option-in-node-js-24ccb94b4506)
--   [How To Deal With the "Remote Host Identification Has Changed" Message With GitHub](https://writech.run/blog/how-to-deal-with-the-remote-host-identification-has-changed-message-with-github-1dea015dae8d)
 -   [Best Web Scraping Libraries for R](https://writech.run/blog/best-web-scraping-libraries-for-r-ef9be20dfa1c)
 -   [Best Web Scraping Libraries for Spring Boot](https://writech.run/blog/best-web-scraping-libraries-for-spring-boot-1f60ca1f7544)
 -   [How to Disable the Error Overlay in React in Development Mode](https://writech.run/blog/how-to-disable-the-error-overlay-in-react-in-development-mode-406c95c2b3bc)
