@@ -106,6 +106,9 @@
 -   [Come ottimizzare Next.js per andare in produzione](https://www.codemotion.com/magazine/it/frontend-it/ottimizzare-next-js-produzione/)
 -   [La migliore libreria per la manipolazione dei colori in JavaScript](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/libreria-manipolazione-dei-colori-javascript/)
 
+## Codemotion x Konica Minolta
+-   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
+
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
 -   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
