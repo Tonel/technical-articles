@@ -45,6 +45,7 @@
 -   [Web Scraping With Python – Step-By-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-with-python)
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
+-   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset) (Ghostwriting)
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
 -   [How To Parse JSON in Python](https://brightdata.com/blog/why-brightdata/parse-json-data-with-python)
 -   [Web Scraping in Go: Complete Guide](https://brightdata.com/blog/how-tos/web-scraping-go)
@@ -55,17 +56,14 @@
 -   [How To Choose the Best Proxy Provider](https://brightdata.com/blog/proxy-101/choose-best-proxy-provider)
 -   [How To Choose the Best Web Scraping Service: A Complete Guide](https://brightdata.com/blog/web-data/best-web-scraping-services-guide)
 -   [What Is Proxy Server and How To Choose the Best Provider](https://brightdata.com/blog/proxy-101/best-proxy-servers-providers)
+-   [What is web scraping?](https://brightdata.com/blog/how-tos/what-is-web-scraping) (Ghostwriting)
 -   [How To Scrape Reddit in Python Guide](https://brightdata.com/blog/web-data/how-to-scrape-reddit-python)
 -   [How To Scrape Yelp in Python](https://brightdata.com/blog/how-tos/how-to-scrape-yelp-guide)
 -   [Best Web Scraping Proxies: A Complete Guide](https://brightdata.com/blog/proxy-101/best-scraping-proxies-guide)
+-   [Web Scraping vs API: What You Need to Know](https://brightdata.com/blog/web-data/web-scraping-vs-api) (Ghostwriting)
 -   [VPN vs Proxy: Which Is Better for Web Scraping?](https://brightdata.com/blog/proxy-101/vpn-vs-proxy)
+-   [Ultimate Guide on How to Use cURL With Proxy](https://brightdata.com/blog/proxy-101/curl-with-proxies) (Ghostwriting)
 -   [How To Scrape GitHub Repositories in Python](https://brightdata.com/blog/how-tos/how-to-scrape-github-repositories-in-python)
-
-## Bright Data [Ghostwriting]
--   [Web Scraping vs API: What You Need to Know](https://brightdata.com/blog/web-data/web-scraping-vs-api)
--   [Ultimate Guide on How to Use cURL With Proxy](https://brightdata.com/blog/proxy-101/curl-with-proxies)
--   [What is web scraping?](https://brightdata.com/blog/how-tos/what-is-web-scraping)
--   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset) 
 
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
@@ -92,10 +90,6 @@
 ## Codemotion
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
 -   [How to Create a Multilingual Site in Next.js With next-i18next](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)
--   [How To Optimize Next.js for Production](https://www.codemotion.com/magazine/frontend/optimize-next-js-for-production/)
--   [The Best Color Manipulation Library in JavaScript](https://www.codemotion.com/magazine/frontend/javascript/the-best-color-manipulation-library-in-javascript/)
-
-## Codemotion (IT)
 -   [Come creare un sito multilingua in Next.js con next-i18next](https://www.codemotion.com/magazine/it/frontend-it/sito-multilingua-in-next-js/)
 -   [Perché le aziende stanno aprendo posizioni per Developer Experience](https://www.codemotion.com/magazine/it/carriere-tech/perche-le-aziende-stanno-aprendo-posizioni-per-developer-experience/) (Translation only)
 -   [Come scrivere un curriculum da sviluppatore web che lascia una grande prima impressione](https://www.codemotion.com/magazine/it/dev-life-it/come-scrivere-un-curriculum-da-sviluppatore-web-che-lascia-una-grande-prima-impressione/) (Translation only)
@@ -103,7 +97,9 @@
 -   [I framework Python più in voga del momento](https://www.codemotion.com/magazine/it/linguaggi-programmazione/i-framework-python-piu-in-voga-del-momento/) (Translation only)
 -   [5 framework JavaScript da seguire nel 2023](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/5-framework-javascript-da-seguire-nel-2023/) (Translation only)
 -   [Trucchi avanzati per CSS che devi conoscere](https://www.codemotion.com/magazine/it/frontend-it/trucchi-avanzati-per-css-che-devi-conoscere/) (Translation only)
+-   [How To Optimize Next.js for Production](https://www.codemotion.com/magazine/frontend/optimize-next-js-for-production/)
 -   [Come ottimizzare Next.js per andare in produzione](https://www.codemotion.com/magazine/it/frontend-it/ottimizzare-next-js-produzione/)
+-   [The Best Color Manipulation Library in JavaScript](https://www.codemotion.com/magazine/frontend/javascript/the-best-color-manipulation-library-in-javascript/)
 -   [La migliore libreria per la manipolazione dei colori in JavaScript](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/libreria-manipolazione-dei-colori-javascript/)
 
 ## Codemotion x Konica Minolta
