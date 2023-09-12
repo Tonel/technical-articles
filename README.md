@@ -151,7 +151,13 @@
 -   [Understanding PostgreSQL Data Integrity](https://www.dbvis.com/thetable/understanding-postgresql-data-integrity/)
 -   [Storing Unstructured Data With Hstore in PostgreSQL](https://www.dbvis.com/thetable/storing-unstructured-data-with-hstore-in-postgresql/)
 -   [PostgreSQL COALESCE Function: Handling NULL Values Effectively](https://www.dbvis.com/thetable/postgresql-coalesce-function-handling-null-value/)
+-   [PostgreSQL CTE: What It Is and How to Use It](https://www.dbvis.com/thetable/postgresql-cte-what-it-is-and-how-to-use-it/)
 -   [How To Kill All Connections to a Database in PostgreSQL](https://www.dbvis.com/thetable/how-to-kill-all-connections-to-a-database-in-postgresql/)
+-   [What Is a Database Driver and How It Works](https://www.dbvis.com/thetable/what-is-a-database-driver-and-how-it-works/)
+-   [PostgreSQL ISNULL: The Missing Function](https://www.dbvis.com/thetable/isnull-postgresql-example/)
+-   [PostgreSQL JSONPATH: Dealing with the SQL/JSON Path Language](https://www.dbvis.com/thetable/postgresql-jsonpath/)
+-   [PostgreSQL vs MySQL: The Definitive Comparison](https://www.dbvis.com/thetable/postgresql-vs-mysql/)
+-   [DESCRIBE TABLE PostgreSQL Alternatives](https://www.dbvis.com/thetable/describe-table-postgresql/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
