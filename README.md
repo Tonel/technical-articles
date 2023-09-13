@@ -101,6 +101,8 @@
 -   [Come ottimizzare Next.js per andare in produzione](https://www.codemotion.com/magazine/it/frontend-it/ottimizzare-next-js-produzione/)
 -   [The Best Color Manipulation Library in JavaScript](https://www.codemotion.com/magazine/frontend/javascript/the-best-color-manipulation-library-in-javascript/)
 -   [La migliore libreria per la manipolazione dei colori in JavaScript](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/libreria-manipolazione-dei-colori-javascript/)
+-   [La Mejor librería de Manipulación de Colores en JavaScript](https://www.codemotion.com/magazine/es/frontend-es/javascript-es/la-mejor-libreria-de-manipulacion-de-colores-en-javascript/) (Original author)
+-   [How to Set Up a Cypress TypeScript Project](https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/)
 
 ## Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
