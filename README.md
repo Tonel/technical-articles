@@ -44,6 +44,7 @@
 -   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
 -   [Web Scraping With Python – Step-By-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-with-python)
 -   [The Ultimate Web Scraping With C# Guide](https://brightdata.com/blog/how-tos/web-scraping-with-c-sharp)
+-   [Web Scraping in C++: A Step-by-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-in-c-plus-plus) (Ghostwriting)
 -   [Data Aggregation – Definition, Use Cases, and Challenges](https://brightdata.com/blog/web-data/data-aggregation)
 -   [What Is a Dataset? Definitive Guide](https://brightdata.com/blog/web-data/what-is-a-dataset) (Ghostwriting)
 -   [What Are HTTP Cookies and How Do They Work?](https://brightdata.com/blog/web-data/http-cookies)
