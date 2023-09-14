@@ -104,6 +104,7 @@
 -   [La migliore libreria per la manipolazione dei colori in JavaScript](https://www.codemotion.com/magazine/it/frontend-it/javascript-it/libreria-manipolazione-dei-colori-javascript/)
 -   [La Mejor librería de Manipulación de Colores en JavaScript](https://www.codemotion.com/magazine/es/frontend-es/javascript-es/la-mejor-libreria-de-manipulacion-de-colores-en-javascript/) (Original author)
 -   [How to Set Up a Cypress TypeScript Project](https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/)
+-   [Come mettere in piedi un progetto Cypress in TypeScript](https://www.codemotion.com/magazine/it/frontend-it/sviluppo-web/come-mettere-in-piedi-un-progetto-cypress-in-typescript/)
 
 ## Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
