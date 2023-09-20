@@ -17,6 +17,7 @@
 -   [How to Build an Error Handling Layer in Node.js](https://blog.appsignal.com/2023/03/15/how-to-build-an-error-handling-layer-in-nodejs.html)
 -   [An Introduction to Playwright for Node.js](https://blog.appsignal.com/2023/07/12/an-introduction-to-playwright-for-nodejs.html)
 -   [Pitfalls to Avoid in Playwright for Node.js](https://blog.appsignal.com/2023/08/16/pitfalls-to-avoid-in-playwright-for-nodejs.html)
+-   [When to Use Playwright Over Puppeteer in Node.js](https://blog.appsignal.com/2023/09/20/when-to-use-playwright-over-puppeteer-in-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
