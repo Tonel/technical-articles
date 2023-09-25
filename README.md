@@ -164,6 +164,7 @@
 -   [PostgreSQL JSONPATH: Dealing with the SQL/JSON Path Language](https://www.dbvis.com/thetable/postgresql-jsonpath/)
 -   [PostgreSQL vs MySQL: The Definitive Comparison](https://www.dbvis.com/thetable/postgresql-vs-mysql/)
 -   [DESCRIBE TABLE PostgreSQL Alternatives](https://www.dbvis.com/thetable/describe-table-postgresql/)
+-   [Deleting a Column in SQL: Everything You Need to Know](https://www.dbvis.com/thetable/deleting-a-column-in-sql/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
