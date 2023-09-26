@@ -209,6 +209,7 @@
 -   [Building type-safe forms in React with react-ts-form](https://blog.logrocket.com/building-type-safe-forms-react-ts-form/)
 -   [Using CORS in Next.js to handle cross-origin requests](https://blog.logrocket.com/using-cors-next-js-handle-cross-origin-requests/)
 -   [Using ultrafetch to boost node-fetch behavior](https://blog.logrocket.com/using-ultrafetch-boost-node-fetch-behavior/)
+-   [7 common Next.js HMR issues and how to address them](https://blog.logrocket.com/7-common-next-js-hmr-issues/)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://writech.run/blog/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
