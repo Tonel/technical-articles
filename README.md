@@ -67,6 +67,7 @@
 -   [Ultimate Guide on How to Use cURL With Proxy](https://brightdata.com/blog/proxy-101/curl-with-proxies) (Ghostwriting)
 -   [How To Scrape GitHub Repositories in Python](https://brightdata.com/blog/how-tos/how-to-scrape-github-repositories-in-python)
 -   [How to Scrape Job Postings Data](https://brightdata.com/blog/how-tos/how-to-scrape-job-postings)
+-   [HTTP Requests in Node.js with Fetch API](https://brightdata.com/blog/how-tos/fetch-api-nodejs)
 
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
