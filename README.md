@@ -369,7 +369,7 @@
 -   [Best Web Scraping Libraries for R](https://writech.run/blog/best-web-scraping-libraries-for-r-ef9be20dfa1c)
 -   [Best Web Scraping Libraries for Spring Boot](https://writech.run/blog/best-web-scraping-libraries-for-spring-boot-1f60ca1f7544)
 -   [How to Disable the Error Overlay in React in Development Mode](https://writech.run/blog/how-to-disable-the-error-overlay-in-react-in-development-mode-406c95c2b3bc)
--   [How to Set Up Playwright in Python](https://python.plainenglish.io/how-to-set-up-playwright-in-python-79bc6c34113e)
+-   [How to Set Up Playwright in Python](https://writech.run/blog/how-to-set-up-playwright-in-python-79bc6c34113e/)
 -   [How to Allow Only Specific User Agents in Next.js](https://writech.run/blog/how-to-allow-only-specific-user-agents-in-next-js-f17ed550916c)
 -   [How To Fix the “Source Parse Failed For Route” Error in Next.js](https://writech.run/blog/how-to-fix-the-source-parse-failed-for-route-error-in-next-js-c6a3484b0b1b)
 -   [Dealing With the “TS2322 ‘DefaultTFuncReturn’ is not assignable to type xyz” Error in i18next](https://writech.run/blog/dealing-with-the-ts2322-defaulttfuncreturn-is-not-assignable-to-type-xyz-error-in-i18next-3aec5653e9a7)
