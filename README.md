@@ -11,6 +11,8 @@
 -   [How to Use Apostrophe as a Headless CMS](https://apostrophecms.com/blog/apostrophe-headless-cms)
 -   [How AI Is Transforming the CMS Industry](https://apostrophecms.com/blog/how-ai-is-transforming-the-cms-industry)
 -   [How to Integrate Generative AI Into Apostrophe](https://apostrophecms.com/blog/how-to-integrate-generative-ai-apostrophe)
+-   [How To Set Up the Template Library Pro Module in Apostrophe](https://apostrophecms.com/blog/how-to-set-up-template-library)
+-   [How to Use Apostrophe's Template Library to Improve Productivity](https://apostrophecms.com/blog/how-to-use-template-library)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
