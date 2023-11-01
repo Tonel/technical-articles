@@ -20,6 +20,7 @@
 -   [An Introduction to Playwright for Node.js](https://blog.appsignal.com/2023/07/12/an-introduction-to-playwright-for-nodejs.html)
 -   [Pitfalls to Avoid in Playwright for Node.js](https://blog.appsignal.com/2023/08/16/pitfalls-to-avoid-in-playwright-for-nodejs.html)
 -   [When to Use Playwright Over Puppeteer in Node.js](https://blog.appsignal.com/2023/09/20/when-to-use-playwright-over-puppeteer-in-nodejs.html)
+-   [What Do Deno and Bun Bring to the Table?](https://blog.appsignal.com/2023/11/01/what-do-deno-and-bun-bring-to-the-table.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://arctype.com/blog/sql-aggregate-functions/)
