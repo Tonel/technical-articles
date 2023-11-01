@@ -172,12 +172,12 @@
 -   [PostgreSQL vs MySQL: The Definitive Comparison](https://www.dbvis.com/thetable/postgresql-vs-mysql/)
 -   [DESCRIBE TABLE PostgreSQL Alternatives](https://www.dbvis.com/thetable/describe-table-postgresql/)
 -   [Deleting a Column in SQL: Everything You Need to Know](https://www.dbvis.com/thetable/deleting-a-column-in-sql/)
-  
-## Educative
--   [Web Crawling in JavaScript Using Cheerio](https://www.educative.io/projects/web-crawling-in-javascript-using-cheerio)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
+      
+## Educative
+-   [Web Crawling in JavaScript Using Cheerio](https://www.educative.io/projects/web-crawling-in-javascript-using-cheerio)
 
 ## IMG.LY
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
