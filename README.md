@@ -148,6 +148,7 @@
 -   [How to Build a Blog in Svelte With a Headless CMS](https://www.datocms.com/blog/how-to-build-a-svelte-blog-with-a-headless-cms)
 -   [Headless CMS vs Flat-File CMS: Main Differences](https://www.datocms.com/blog/headless-cms-vs-flat-file-cms-main-differences)
 -   [WordPress vs DatoCMS: Which Is Better For Your Needs?](https://www.datocms.com/blog/wordpress-vs-datocms)
+-   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
