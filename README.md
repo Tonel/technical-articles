@@ -310,6 +310,7 @@
 -   [Avoiding Code Duplication by Adding an API Layer in Spring Boot](https://writech.run/blog/avoiding-code-duplication-by-adding-an-api-layer-in-spring-boot-48ee3a949cb4)
 -   [How To Configure Multiple MongoDB Connectors in Spring Boot](https://writech.run/blog/how-to-configure-multiple-mongodb-connectors-in-spring-boot-669f36fe9d3e)
 -   [Efficient Data Visualization with React](https://writech.run/blog/efficient-data-visualization-with-react-f55f67a2d2fa)
+-   [How To Create a WhatsApp Click-to-Chat CTA Link](https://writech.run/blog/how-to-create-a-whatsapp-click-to-chat-cta-link-3f56d6e6fb33/)
 -   [Achieving Loosely Coupling with a Math Expression Parser](https://writech.run/blog/achieving-loosely-coupling-with-a-math-expression-parser-4abed38ff00e)
 -   [A Complete Guide To props.children In React](https://writech.run/blog/a-complete-guide-to-props-children-in-react-c315fab74e7c)
 -   [The Top 3 React UI Libraries for Beginners](https://writech.run/blog/the-top-3-react-ui-libraries-for-beginners-6987f7b62c78)
