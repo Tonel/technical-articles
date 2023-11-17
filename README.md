@@ -175,6 +175,8 @@
 -   [PostgreSQL vs MySQL: The Definitive Comparison](https://www.dbvis.com/thetable/postgresql-vs-mysql/)
 -   [DESCRIBE TABLE PostgreSQL Alternatives](https://www.dbvis.com/thetable/describe-table-postgresql/)
 -   [Deleting a Column in SQL: Everything You Need to Know](https://www.dbvis.com/thetable/deleting-a-column-in-sql/)
+-   [How to Work With SQL Query Optimization](https://www.dbvis.com/thetable/how-to-work-with-sql-query-optimization/)
+-   [Postgres List Users: Two Different Approaches](https://www.dbvis.com/thetable/postgres-list-users-two-different-approaches%c2%a0/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
