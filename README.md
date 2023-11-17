@@ -75,6 +75,8 @@
 -   [Robots.txt for Web Scraping Guide](https://brightdata.com/blog/how-tos/robots-txt-for-web-scraping-guide)
 -   [Best Web Scraping Tools Guide](https://brightdata.com/blog/web-data/best-web-scraping-tools)
 -   [How to Set a Proxy in Node-Fetch](https://brightdata.com/blog/proxy-101/proxy-in-node-fetch)
+-   [How To Set a Proxy in Axios: Definitive Guide](https://brightdata.com/blog/how-tos/axios-proxy)
+-   [How To Build a Zalando Scraper](https://brightdata.com/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
 
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
