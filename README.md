@@ -78,6 +78,8 @@
 -   [How To Set a Proxy in Axios: Definitive Guide](https://brightdata.com/blog/how-tos/axios-proxy)
 -   [Java vs Python: The Definitive Comparison](https://brightdata.com/blog/web-data/java-vs-python) (Ghostwriting)
 -   [How To Build a Zalando Scraper](https://brightdata.com/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
+-   [How To Set a Proxy in SuperAgent](https://brightdata.com/blog/how-tos/superagent-proxy) (Ghostwriting)
+-   [Ruby vs JavaScript: A Complete Comparison](https://brightdata.com/blog/web-data/ruby-vs-javascript) (Ghostwriting)
 
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
@@ -118,14 +120,18 @@
 -   [La Mejor librería de Manipulación de Colores en JavaScript](https://www.codemotion.com/magazine/es/frontend-es/javascript-es/la-mejor-libreria-de-manipulacion-de-colores-en-javascript/) (Original author)
 -   [How to Set Up a Cypress TypeScript Project](https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/)
 -   [Come mettere in piedi un progetto Cypress in TypeScript](https://www.codemotion.com/magazine/it/frontend-it/sviluppo-web/come-mettere-in-piedi-un-progetto-cypress-in-typescript/)
+
+## Codemotion x A.S. Watson Group
 -   [L’impatto dei Large Language Model e dell’IA sul mondo dell’e-commerce](https://www.codemotion.com/magazine/it/intelligenza-artificiale/limpatto-dei-large-language-model-e-dellia-sul-mondo-delle-commerce/)
--   [How To Address Privacy, Compliance, and Fabrication Issues in Conversational Generative AI](https://www.codemotion.com/magazine/ai-ml/privacy-compliance-and-fabrication-issues-in-conversational-generative-ai/)
 
 ## Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
 
 ## Codemotion x Microsoft
 -   [The Ultimate Azure Cybersecurity Handbook](https://go.codemotion.com/microsoft-azure-security-handbook-2023/)
+
+## Codemotion x S2E
+-    [How To Address Privacy, Compliance, and Fabrication Issues in Conversational Generative AI](https://www.codemotion.com/magazine/ai-ml/privacy-compliance-and-fabrication-issues-in-conversational-generative-ai/)
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
@@ -181,6 +187,7 @@
 -   [Deleting a Column in SQL: Everything You Need to Know](https://www.dbvis.com/thetable/deleting-a-column-in-sql/)
 -   [How to Work With SQL Query Optimization](https://www.dbvis.com/thetable/how-to-work-with-sql-query-optimization/)
 -   [Postgres List Users: Two Different Approaches](https://www.dbvis.com/thetable/postgres-list-users-two-different-approaches%c2%a0/)
+-   [MariaDB vs MySQL: The Ultimate Comparison](https://www.dbvis.com/thetable/mariadb-vs-mysql-the-ultimate-comparison/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
