@@ -28,7 +28,7 @@
 -   [How to fix a sequence when it goes out of sync in Postgres](https://writech.run/blog/how-to-fix-sequence-out-of-sync-postgresql/)
 -   [Partitioning a billion-row table of soccer data using data context](https://writech.run/blog/improving-performance-data-context-based-database-partitioning/)
 -   [Improving performance in a hierarchical SQL table structure with column propagation](https://writech.run/blog/improving-performance-hierarchical-sql-table-structure-column-propagation/)
--   [A Complete Guide to Generated Columns in MySQL](https://arctype.com/blog/mysql-generated-columns-guide/)
+-   [A Complete Guide to Generated Columns in MySQL](https://writech.run/blog/guide-generated-columns-mysql/)
 -   [How To Design a Multi-Language Database](https://arctype.com/blog/international-db-design/)
 -   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
 
