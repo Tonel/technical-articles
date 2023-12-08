@@ -26,7 +26,7 @@
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://writech.run/blog/improving-performance-sql-aggregate-functions/)
 -   [How to fix a sequence when it goes out of sync in Postgres](https://writech.run/blog/how-to-fix-sequence-out-of-sync-postgresql/)
--   [Partitioning a billion-row table of soccer data using data context](https://arctype.com/blog/partition-tables-sql/)
+-   [Partitioning a billion-row table of soccer data using data context](https://writech.run/blog/improving-performance-data-context-based-database-partitioning/)
 -   [Improving performance in a hierarchical SQL table structure with column propagation](https://arctype.com/blog/sql-hierarchy/)
 -   [A Complete Guide to Generated Columns in MySQL](https://arctype.com/blog/mysql-generated-columns-guide/)
 -   [How To Design a Multi-Language Database](https://arctype.com/blog/international-db-design/)
