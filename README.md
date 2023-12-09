@@ -30,7 +30,7 @@
 -   [Improving performance in a hierarchical SQL table structure with column propagation](https://writech.run/blog/improving-performance-hierarchical-sql-table-structure-column-propagation/)
 -   [A Complete Guide to Generated Columns in MySQL](https://writech.run/blog/guide-generated-columns-mysql/)
 -   [How To Design a Multi-Language Database](https://writech.run/blog/how-to-design-multilanguage-database/)
--   [When to Use JSON in Your Database](https://arctype.com/blog/json-database-when-use/)
+-   [When to Use JSON in Your Database](https://writech.run/blog/when-to-use-json-database/)
 
 ## Auth0
 -   [Mapping JPA Entities into DTOs in Spring Boot Using MapStruct](https://auth0.com/blog/how-to-automatically-map-jpa-entities-into-dtos-in-spring-boot-using-mapstruct/)
