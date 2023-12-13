@@ -81,6 +81,9 @@
 -   [How To Set a Proxy in SuperAgent](https://brightdata.com/blog/how-tos/superagent-proxy) (Ghostwriting)
 -   [Ruby vs JavaScript: A Complete Comparison](https://brightdata.com/blog/web-data/ruby-vs-javascript) (Ghostwriting)
 
+## Bright Data x Geekflare
+-   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
+
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
 -  [How to Fix the GitHub Error ‘Remote Host Identification Has Changed’](https://builtin.com/software-engineering-perspectives/git-remote-host-identification-has-changed)
