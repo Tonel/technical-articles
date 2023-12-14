@@ -13,6 +13,7 @@
 -   [How to Integrate Generative AI Into Apostrophe](https://apostrophecms.com/blog/how-to-integrate-generative-ai-apostrophe)
 -   [How To Set Up the Template Library Pro Module in Apostrophe](https://apostrophecms.com/blog/how-to-set-up-template-library)
 -   [How to Use Apostrophe's Template Library to Improve Productivity](https://apostrophecms.com/blog/how-to-use-template-library)
+-   [Digging Into HTMX: Examples and How to Use It](https://apostrophecms.com/blog/htmx-examples-and-how-to-use-it)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
