@@ -81,8 +81,9 @@
 -   [How To Build a Zalando Scraper](https://brightdata.com/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
 -   [How To Set a Proxy in SuperAgent](https://brightdata.com/blog/how-tos/superagent-proxy) (Ghostwriting)
 -   [Ruby vs JavaScript: A Complete Comparison](https://brightdata.com/blog/web-data/ruby-vs-javascript) (Ghostwriting)
+-   [Avoid Getting Blocked With Puppeteer Stealth](https://brightdata.com/blog/authors/antonello-zanini)
 
-## Bright Data x Geekflare
+### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
 
 ## Built In
@@ -125,17 +126,20 @@
 -   [How to Set Up a Cypress TypeScript Project](https://www.codemotion.com/magazine/frontend/web-developer/how-to-set-up-a-cypress-typescript-project/)
 -   [Come mettere in piedi un progetto Cypress in TypeScript](https://www.codemotion.com/magazine/it/frontend-it/sviluppo-web/come-mettere-in-piedi-un-progetto-cypress-in-typescript/)
 
-## Codemotion x A.S. Watson Group
+### Codemotion x A.S. Watson Group
 -   [L’impatto dei Large Language Model e dell’IA sul mondo dell’e-commerce](https://www.codemotion.com/magazine/it/intelligenza-artificiale/limpatto-dei-large-language-model-e-dellia-sul-mondo-delle-commerce/)
 
-## Codemotion x Konica Minolta
+### Codemotion x Atom
+-   [Come rinnovare software industriali di oltre 20 anni senza fermare la produzione](https://www.codemotion.com/magazine/it/backend-it/come-rinnovare-software-industriali-di-oltre-20-anni-senza-fermare-la-produzione/)
+
+### Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
 
-## Codemotion x Microsoft
+### Codemotion x Microsoft
 -   [The Ultimate Azure Cybersecurity Handbook](https://go.codemotion.com/microsoft-azure-security-handbook-2023/)
 
-## Codemotion x S2E
--    [How To Address Privacy, Compliance, and Fabrication Issues in Conversational Generative AI](https://www.codemotion.com/magazine/ai-ml/privacy-compliance-and-fabrication-issues-in-conversational-generative-ai/)
+### Codemotion x S2E
+-   [How To Address Privacy, Compliance, and Fabrication Issues in Conversational Generative AI](https://www.codemotion.com/magazine/ai-ml/privacy-compliance-and-fabrication-issues-in-conversational-generative-ai/)
 
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
