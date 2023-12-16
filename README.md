@@ -411,3 +411,5 @@
 -   [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://writech.run/blog/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-8b8f34d271c9)
 -   [5 Steps to Create a Digital Marketplace](https://writech.run/blog/5-steps-to-create-a-digital-marketplace/)
 -   [How AI Can Support You During Calls](https://writech.run/blog/how-ai-can-support-you-during-calls/)
+-   [Enabling TypeScript Programming in Visual Studio Code](https://writech.run/blog/typescript-programming-in-visual-studio-code/)
+-   [How to Use a Proxy in PHP with cURL](https://writech.run/blog/how-to-use-a-proxy-in-php/)
