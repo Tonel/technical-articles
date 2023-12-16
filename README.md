@@ -1,4 +1,5 @@
 # Technical Articles by Antonello Zanini
+⚠️ I also wrote over 50 additional articles as a ghostwriter that I cannot disclose ⚠️ 
 
 ## Airplane
 -   [Top 5 PostgreSQL GUI tools](https://www.airplane.dev/blog/top-5-postgresql-gui-tools)
