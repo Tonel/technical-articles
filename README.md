@@ -83,6 +83,7 @@
 -   [How To Set a Proxy in SuperAgent](https://brightdata.com/blog/how-tos/superagent-proxy) (Ghostwriting)
 -   [Ruby vs JavaScript: A Complete Comparison](https://brightdata.com/blog/web-data/ruby-vs-javascript) (Ghostwriting)
 -   [Avoid Getting Blocked With Puppeteer Stealth](https://brightdata.com/blog/authors/antonello-zanini)
+-   [Anonymous Proxy: Definition and How It Works](https://brightdata.com/blog/authors/antonello-zanini)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
