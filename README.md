@@ -208,6 +208,7 @@
       
 ## Educative
 -   [Web Crawling in JavaScript Using Cheerio](https://www.educative.io/projects/web-crawling-in-javascript-using-cheerio)
+-   [Automate Login-Workflow Testing with Playwright](https://www.educative.io/projects/automate-login-workflow-testing-with-playwright)
 
 ## IMG.LY
 -   [How To Crop an Image in React](https://img.ly/blog/how-to-crop-an-image-in-react-with-react-image-crop/)
