@@ -173,6 +173,7 @@
 -   [Headless CMS vs Flat-File CMS: Main Differences](https://www.datocms.com/blog/headless-cms-vs-flat-file-cms-main-differences)
 -   [WordPress vs DatoCMS: Which Is Better For Your Needs?](https://www.datocms.com/blog/wordpress-vs-datocms)
 -   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
+-   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
