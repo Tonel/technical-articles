@@ -420,3 +420,4 @@
 -   [How AI Can Support You During Calls](https://writech.run/blog/how-ai-can-support-you-during-calls/)
 -   [Enabling TypeScript Programming in Visual Studio Code](https://writech.run/blog/typescript-programming-in-visual-studio-code/)
 -   [How to Use a Proxy in PHP with cURL](https://writech.run/blog/how-to-use-a-proxy-in-php/)
+-   [Top 20 Frontend Interview Questions With Answers](https://writech.run/blog/top-20-frontend-interview-questions-with-answers/)
