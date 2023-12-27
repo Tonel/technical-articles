@@ -82,8 +82,10 @@
 -   [How To Build a Zalando Scraper](https://brightdata.com/blog/how-tos/how-to-build-a-zalando-scraper-with-python)
 -   [How To Set a Proxy in SuperAgent](https://brightdata.com/blog/how-tos/superagent-proxy) (Ghostwriting)
 -   [Ruby vs JavaScript: A Complete Comparison](https://brightdata.com/blog/web-data/ruby-vs-javascript) (Ghostwriting)
--   [Avoid Getting Blocked With Puppeteer Stealth](https://brightdata.com/blog/authors/antonello-zanini)
--   [Anonymous Proxy: Definition and How It Works](https://brightdata.com/blog/authors/antonello-zanini)
+-   [Avoid Getting Blocked With Puppeteer Stealth](https://brightdata.com/blog/how-tos/avoid-getting-blocked-with-puppeteer-stealth)
+-   [Anonymous Proxy: Definition and How It Works](https://brightdata.com/blog/proxy-101/anonymous-proxy-definition)
+-   [Python Proxy Server: What It Is and How To Create One](https://brightdata.com/blog/proxy-101/python-proxy-server)
+-   [How To Set Up a Proxy in Windows 11](https://brightdata.com/blog/how-tos/set-up-proxy-in-windows-11)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
