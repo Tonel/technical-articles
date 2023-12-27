@@ -92,6 +92,7 @@
 
 ### Bright Data x Hackernoon
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
+-   [Cracking the Code of Cloudflare Bypass](https://hackernoon.com/cracking-the-code-of-cloudflare-bypass) (Ghostwriting)
 
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
