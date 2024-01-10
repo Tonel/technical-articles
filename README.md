@@ -299,6 +299,7 @@
 -   [Building an Error Handling Layer in React](https://semaphoreci.com/blog/error-handling-layer-react)
 -   [How to Build a Routing Layer in React and Why You Need It](https://semaphoreci.com/blog/routing-layer-react)
 -   [Best Practices for Securing Node.js Applications in Production](https://semaphoreci.com/blog/securing-nodejs)
+-   [How To Organize Constants in a Dedicated Layer in JavaScript](https://semaphoreci.com/blog/constants-layer-javascript)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
