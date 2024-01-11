@@ -86,6 +86,7 @@
 -   [Anonymous Proxy: Definition and How It Works](https://brightdata.com/blog/proxy-101/anonymous-proxy-definition)
 -   [Python Proxy Server: What It Is and How To Create One](https://brightdata.com/blog/proxy-101/python-proxy-server)
 -   [How To Set Up a Proxy in Windows 11](https://brightdata.com/blog/how-tos/set-up-proxy-in-windows-11)
+-   [What Is a UDP Proxy?](https://brightdata.com/blog/proxy-101/udp-proxy-defined) (Ghostwriting)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -204,6 +205,7 @@
 -   [How to Work With SQL Query Optimization](https://www.dbvis.com/thetable/how-to-work-with-sql-query-optimization/)
 -   [Postgres List Users: Two Different Approaches](https://www.dbvis.com/thetable/postgres-list-users-two-different-approaches%c2%a0/)
 -   [MariaDB vs MySQL: The Ultimate Comparison](https://www.dbvis.com/thetable/mariadb-vs-mysql-the-ultimate-comparison/)
+-   [The Complete Guide to the SQL COALESCE Function](https://www.dbvis.com/thetable/the-complete-guide-to-the-sql-coalesce-function/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
