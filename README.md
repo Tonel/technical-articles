@@ -87,6 +87,7 @@
 -   [Python Proxy Server: What It Is and How To Create One](https://brightdata.com/blog/proxy-101/python-proxy-server)
 -   [How To Set Up a Proxy in Windows 11](https://brightdata.com/blog/how-tos/set-up-proxy-in-windows-11)
 -   [What Is a UDP Proxy?](https://brightdata.com/blog/proxy-101/udp-proxy-defined) (Ghostwriting)
+-   [Web Scraping With Rust](https://brightdata.com/blog/how-tos/web-scraping-with-rust)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -206,6 +207,8 @@
 -   [Postgres List Users: Two Different Approaches](https://www.dbvis.com/thetable/postgres-list-users-two-different-approaches%c2%a0/)
 -   [MariaDB vs MySQL: The Ultimate Comparison](https://www.dbvis.com/thetable/mariadb-vs-mysql-the-ultimate-comparison/)
 -   [The Complete Guide to the SQL COALESCE Function](https://www.dbvis.com/thetable/the-complete-guide-to-the-sql-coalesce-function/)
+-   [A Complete Guide to SUBSTRING_INDEX in SQL](https://www.dbvis.com/thetable/a-complete-guide-to-substring_index-in-sql/)
+-   [SQL CONTAINS Function: SQL Server Guide With Examples](https://www.dbvis.com/thetable/sql-contains-function-sql-server-guide-with-examples/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
