@@ -103,17 +103,17 @@
 ## Cantiere Creativo
 -   [Cos'è l'architettura componibile e come metterla in pratica](https://www.cantierecreativo.net/blog/architettura-componibile/)
 -   [Cos'è e quando adottare la multi-tenancy?](https://www.cantierecreativo.net/blog/multi-tenancy/)
--   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-tutto-cio-che-devi-sapere/)
+-   [Digital Partner, tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/digital-partner-cosa-sapere)
 -   [Perché hai bisogno di una strategia omnicanale](https://www.cantierecreativo.net/blog/strategia-omnicanale/)
--   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-la-multicanalita-e-una-strategia-da-superare/)
--   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-e-la-tecnologia-giusta-per-la-seo/)
+-   [Perché la multicanalità è una strategia da superare](https://www.cantierecreativo.net/blog/perche-superare-multicanalita)
+-   [Perchè Next.js è la tecnologia giusta per la SEO](https://www.cantierecreativo.net/blog/perche-next-js-tecnologia-giusta-seo)
 -   [Come costruire una landing page modulare in Next.js](https://www.cantierecreativo.net/blog/landing-page-modulare-in-next-js/)
 -   [Come eseguire Test A/B con Next.js](https://www.cantierecreativo.net/blog/come-eseguire-test-a-b-con-next-js/)
--   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/come-creare-un-blog-multilingua-in-next-js/)
+-   [Come creare un blog multilingua in Next.js](https://www.cantierecreativo.net/blog/creare-un-blog-multilingua-next-js)
 -   [Come costruire un e-commerce con Next.js e Snipcart](https://www.cantierecreativo.net/blog/e-commerce-con-next-js-e-snipcart/)
--   [Cos’è un’impresa componibile e come costruirla](https://www.cantierecreativo.net/blog/cos-e-un-impresa-componibile-e-come-costruirla/)
+-   [Cos’è un’impresa componibile e come costruirla](https://www.cantierecreativo.net/blog/impresa-componibile-come-costruirla)
 -   [Cos’è un’applicazione componibile e perchè è il futuro del software](https://www.cantierecreativo.net/blog/cos-e-un-applicazione-componibile/)
--   [Che cos’è un e-commerce componibile e perché adottarlo](https://www.cantierecreativo.net/blog/che-cos-e-un-e-commerce-componibile-e-perche-adottarlo/)
+-   [Che cos’è un e-commerce componibile e perché adottarlo](https://www.cantierecreativo.net/en/blog/che-cos-e-un-e-commerce-componibile-e-perche-adottarlo)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://writech.run/blog/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
