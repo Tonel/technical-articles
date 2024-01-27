@@ -151,6 +151,9 @@
 ### Codemotion x S2E
 -   [How To Address Privacy, Compliance, and Fabrication Issues in Conversational Generative AI](https://www.codemotion.com/magazine/ai-ml/privacy-compliance-and-fabrication-issues-in-conversational-generative-ai/)
 
+### Codemotion x Sisal
+-   [Progettazione e gestione di applicazioni iperscalabili: dalla sicurezza alla continuità aziendale](https://www.codemotion.com/magazine/it/microservizi/applicazioni-iperscalabili-dalla-sicurezza-alla-continuita-aziendale/)
+
 ## DatoCMS
 -   [Headless CMS as a Winning Strategy for Multi-Site Management](https://www.datocms.com/blog/headless-cms-multi-site)
 -   [How To Build a Multi-Language Website with Next.js i18n](https://www.datocms.com/blog/how-to-build-a-multi-language-website-with-next-js-i18n)
