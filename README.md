@@ -97,6 +97,10 @@
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
 -   [Cracking the Code of Cloudflare Bypass](https://hackernoon.com/cracking-the-code-of-cloudflare-bypass) (Ghostwriting)
 
+### Bright Data x Techjury
+-   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
+-   [How to Crawl a Site Without Getting Blocked?](https://techjury.net/blog/how-to-crawl-a-site-without-getting-blocked/)
+
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
 -  [How to Fix the GitHub Error ‘Remote Host Identification Has Changed’](https://builtin.com/software-engineering-perspectives/git-remote-host-identification-has-changed)
