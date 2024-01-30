@@ -315,6 +315,7 @@
 -   [How to Build a Routing Layer in React and Why You Need It](https://semaphoreci.com/blog/routing-layer-react)
 -   [Best Practices for Securing Node.js Applications in Production](https://semaphoreci.com/blog/securing-nodejs)
 -   [How To Organize Constants in a Dedicated Layer in JavaScript](https://semaphoreci.com/blog/constants-layer-javascript)
+-   [How to Organize All Your Routes in a Single Layer in Node.js](https://semaphoreci.com/blog/layer-nodejs)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
