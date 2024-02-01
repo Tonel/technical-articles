@@ -149,6 +149,7 @@
 
 ### Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
+-   [Simplifying Custom AI Model Building for Vision with AI Studio: Making ML Accessible](https://www.codemotion.com/magazine/ai-ml/ai-model-building-for-vision-with-ai-studio/) (Ghostwriting)
 
 ### Codemotion x Microsoft
 -   [The Ultimate Azure Cybersecurity Handbook](https://go.codemotion.com/microsoft-azure-security-handbook-2023/)
