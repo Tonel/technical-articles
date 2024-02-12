@@ -120,6 +120,7 @@
 -   [Cos’è un’impresa componibile e come costruirla](https://www.cantierecreativo.net/blog/impresa-componibile-come-costruirla)
 -   [Cos’è un’applicazione componibile e perchè è il futuro del software](https://www.cantierecreativo.net/blog/cos-e-un-applicazione-componibile/)
 -   [Che cos’è un e-commerce componibile e perché adottarlo](https://www.cantierecreativo.net/blog/ecommerce-componibile-cosa-perche)
+-   [Sito bello e accessibile? Sì, con le tecnologie giuste!](https://www.cantierecreativo.net/blog/come-avere-sito-bello-accessibile)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://writech.run/blog/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
@@ -189,6 +190,7 @@
 -   [WordPress vs DatoCMS: Which Is Better For Your Needs?](https://www.datocms.com/blog/wordpress-vs-datocms)
 -   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
 -   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
+-   [Top 5 JavaScript GraphQL Client Libraries](https://www.datocms.com/blog/best-javascript-graphql-clients)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
