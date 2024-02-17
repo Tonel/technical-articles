@@ -90,6 +90,10 @@
 -   [What Is a UDP Proxy?](https://brightdata.com/blog/proxy-101/udp-proxy-defined) (Ghostwriting)
 -   [Web Scraping With Rust](https://brightdata.com/blog/how-tos/web-scraping-with-rust)
 -   [Java vs C# for Web Scraping](https://brightdata.com/blog/web-data/java-vs-c-sharp)
+-   [JavaScript vs Rust for Web Scraping](https://brightdata.com/blog/web-data/javascript-vs-rust-web-scraping)
+-   [How to Use PowerShell Invoke-WebRequest With a Proxy](https://brightdata.com/blog/how-tos/powershell-invoke-webrequest-with-proxy)
+-   [How to Set Proxy in AIOHTTP](https://brightdata.com/blog/how-tos/proxy-in-aiohttp)
+-   [What is a Scraping Bot and How To Build One](https://brightdata.com/blog/how-tos/what-is-a-scraping-bot)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -147,6 +151,9 @@
 
 ### Codemotion x Atom
 -   [Come rinnovare software industriali di oltre 20 anni senza fermare la produzione](https://www.codemotion.com/magazine/it/backend-it/come-rinnovare-software-industriali-di-oltre-20-anni-senza-fermare-la-produzione/)
+
+### Codemotion x Hubcore.AI
+-   [Vacanze intelligenti: come l’AI sta rivoluzionando le piattaforme di viaggio](https://www.codemotion.com/magazine/it/intelligenza-artificiale/come-lai-sta-rivoluzionando-le-piattaforme-di-viaggio/)
 
 ### Codemotion x Konica Minolta
 -   [Best Practices for Building a Scalable Vue.js Application](https://www.codemotion.com/magazine/frontend/building-scalable-vuejs-application/)
@@ -222,6 +229,9 @@
 -   [A Complete Guide to SUBSTRING_INDEX in SQL](https://www.dbvis.com/thetable/a-complete-guide-to-substring_index-in-sql/)
 -   [SQL CONTAINS Function: SQL Server Guide With Examples](https://www.dbvis.com/thetable/sql-contains-function-sql-server-guide-with-examples/)
 -   [A Complete Guide to pg_dump With Examples, Tips, and Tricks](https://www.dbvis.com/thetable/a-complete-guide-to-pg_dump-with-examples-tips-and-tricks/)
+-   [Discover All PostgreSQL Data Types](https://www.dbvis.com/thetable/discover-all-postgresql-data-types/)
+-   [MySQL CREATE DATABASE Statement: Definitive Guide](https://www.dbvis.com/thetable/mysql-create-database-statement-definitive-guide/)
+-   [SQL DDL: The Definitive Guide on Data Definition Language](https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
