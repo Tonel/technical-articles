@@ -237,6 +237,7 @@
 -   [Discover All PostgreSQL Data Types](https://www.dbvis.com/thetable/discover-all-postgresql-data-types/)
 -   [MySQL CREATE DATABASE Statement: Definitive Guide](https://www.dbvis.com/thetable/mysql-create-database-statement-definitive-guide/)
 -   [SQL DDL: The Definitive Guide on Data Definition Language](https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/)
+-   [5 Ways to Split a String in PostgreSQL](https://www.dbvis.com/thetable/5-ways-to-split-a-string-in-postgresql/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
