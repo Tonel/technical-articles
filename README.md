@@ -96,6 +96,8 @@
 -   [How to Use PowerShell Invoke-WebRequest With a Proxy](https://brightdata.com/blog/how-tos/powershell-invoke-webrequest-with-proxy)
 -   [How to Set Proxy in AIOHTTP](https://brightdata.com/blog/how-tos/proxy-in-aiohttp)
 -   [What is a Scraping Bot and How To Build One](https://brightdata.com/blog/how-tos/what-is-a-scraping-bot)
+-   [Avoid Bot Detection With Playwright Stealth](https://brightdata.com/blog/how-tos/avoid-bot-detection-with-playwright-stealth)
+-   [20 Best Proxy Browsers in 2024](https://brightdata.com/blog/proxy-101/best-proxy-browsers)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
