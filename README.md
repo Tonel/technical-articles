@@ -17,6 +17,7 @@
 -   [Digging Into HTMX: Examples and How to Use It](https://apostrophecms.com/blog/htmx-examples-and-how-to-use-it)
 -   [How to Build an Ecommerce Website with ApostropheCMS](https://apostrophecms.com/blog/how-to-build-an-ecommerce-website-with-apostrophecms)
 -   [How to Integrate Astro With ApostropheCMS pt. 1](https://apostrophecms.com/blog/how-to-integrate-astro-with-apostrophecms-pt-1)
+-   [How to Integrate Astro With ApostropheCMS pt. 2](https://apostrophecms.com/blog/how-to-integrate-astro-with-apostrophecms-pt-2)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
