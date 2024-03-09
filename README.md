@@ -390,7 +390,6 @@
 -   [Avoid the Fear of Refactoring with Absolute Imports in React](https://writech.run/blog/avoid-the-fear-of-refactoring-with-absolute-imports-in-react-804bce61dc31)
 -   [How To Conditionally Change index.html in React](https://writech.run/blog/how-to-conditionally-change-index-html-in-react-de090b51fed3)
 -   [Start Using Optional Chaining and Nullish Coalescing in React](https://writech.run/blog/start-using-optional-chaining-and-nullish-coalescing-in-react-322bdf24b78c)
--   [Building a Rotating IP and User-Agent Web Scraping Script in PHP](https://writech.run/blog/building-a-rotating-ip-and-user-agent-web-scraping-script-in-php-277bde659d20)
 -   [How to Build an API To Perform Web Scraping in Spring Boot](https://writech.run/blog/how-to-build-an-api-to-perform-web-scraping-in-spring-boot-e8bfaaa4622e)
 -   [Why You Should Avoid Dynamic URLs](https://writech.run/blog/why-you-should-avoid-dynamic-urls-f429bcf16733)
 -   [Configuring a Subdomain in Apache2](https://writech.run/blog/configuring-a-subdomain-in-apache2-f7a8b316b42c)
