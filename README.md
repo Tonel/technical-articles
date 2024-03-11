@@ -439,7 +439,7 @@
 -   [How To Mark a File as Executable in a Git Repo](https://writech.run/blog/how-to-mark-a-file-as-executable-in-a-git-repo-80ee532f4366)
 -   [Check Out LinkedIn Maven Plugin — A Plugin to Become a Java Influencer](https://writech.run/blog/check-out-linkedin-maven-plugin-a-plugin-to-become-a-java-influencer-598bd3fb8da7)
 -   [How to Append JavaScript Data to a FormData](https://writech.run/blog/how-to-append-javascript-data-to-a-formdata-5d9405bd944e)
--   [How to Deal With Cheerio’s load() Function Deprecation](https://writech.run/blog/how-to-deal-with-cheerios-load-function-deprecation-a6401da930d1)
+-   [How to Deal With Cheerio’s load() Function Deprecation](https://writech.run/blog/how-to-deal-with-cheerio-s-load-function-deprecation-a6401da930d1)
 -   [How To Fix the npm "Conflicting Peer Dependency" Error](https://writech.run/blog/how-to-fix-the-npm-conflicting-peer-dependency-error-fe5527f629a4)
 -   [How To Parse HTML With Regex](https://writech.run/blog/how-to-parse-html-with-regex-6b9c0980382f)
 -   [What Is Software Instrumentation and How It Works](https://writech.run/blog/what-is-software-instrumentation-and-how-it-works-1df138edc5cd)
