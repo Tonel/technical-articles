@@ -341,6 +341,7 @@
 -   [How To Organize Constants in a Dedicated Layer in JavaScript](https://semaphoreci.com/blog/constants-layer-javascript)
 -   [How to Organize All Your Routes in a Single Layer in Node.js](https://semaphoreci.com/blog/layer-nodejs)
 -   [HTMX vs React: A Complete Comparison](https://semaphoreci.com/blog/htmx-react)
+-   [How to Avoid Flaky Tests in Playwright](https://semaphoreci.com/blog/flaky-tests-playwright)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
