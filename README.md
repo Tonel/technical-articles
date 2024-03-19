@@ -131,6 +131,7 @@
 -   [Che cos’è un e-commerce componibile e perché adottarlo](https://www.cantierecreativo.net/blog/ecommerce-componibile-cosa-perche)
 -   [Sito bello e accessibile? Sì, con le tecnologie giuste!](https://www.cantierecreativo.net/blog/come-avere-sito-bello-accessibile)
 -   [Metti in mostra i tuoi prodotti in una vetrina digitale all'avanguardia](https://www.cantierecreativo.net/blog/vetrina-digitale)
+-   [Marketing più efficace con un generatore di landing page](https://www.cantierecreativo.net/blog/generatore-landing-page)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://writech.run/blog/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
