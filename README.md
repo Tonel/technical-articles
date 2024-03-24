@@ -99,6 +99,11 @@
 -   [What is a Scraping Bot and How To Build One](https://brightdata.com/blog/how-tos/what-is-a-scraping-bot)
 -   [Avoid Bot Detection With Playwright Stealth](https://brightdata.com/blog/how-tos/avoid-bot-detection-with-playwright-stealth)
 -   [20 Best Proxy Browsers in 2024](https://brightdata.com/blog/proxy-101/best-proxy-browsers)
+-   [Five Best Ways to Hide Your IP Address](https://brightdata.com/blog/how-tos/five-ways-to-hide-your-ip-address) (Ghostwriting)
+-   [Web Scraping With Kotlin: A Step-By-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-with-kotlin)
+-   [Web Scraping With VBA Guide](https://brightdata.com/blog/how-tos/web-scraping-with-vba)
+-   [Best Headless Browsers for Scraping and Testing](https://brightdata.com/blog/web-data/best-headless-browsers)
+-   [Best HTML Parsing Libraries for Web Scraping](https://brightdata.com/blog/web-data/best-html-parsers)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -240,6 +245,7 @@
 -   [MySQL CREATE DATABASE Statement: Definitive Guide](https://www.dbvis.com/thetable/mysql-create-database-statement-definitive-guide/)
 -   [SQL DDL: The Definitive Guide on Data Definition Language](https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/)
 -   [5 Ways to Split a String in PostgreSQL](https://www.dbvis.com/thetable/5-ways-to-split-a-string-in-postgresql/)
+-   [Postgres TEXT vs VARCHAR: Comparing String Data Types](https://www.dbvis.com/thetable/postgres-text-vs-varchar-comparing-string-data-types/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
