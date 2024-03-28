@@ -210,6 +210,7 @@
 -   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
 -   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
 -   [Top 5 JavaScript GraphQL Client Libraries](https://www.datocms.com/blog/best-javascript-graphql-clients)
+-   [Best Practices for Building Static Sites](https://www.datocms.com/blog/best-practices-for-building-static-sites)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
@@ -350,6 +351,7 @@
 -   [HTMX vs React: A Complete Comparison](https://semaphoreci.com/blog/htmx-react)
 -   [How to Avoid Flaky Tests in Playwright](https://semaphoreci.com/blog/flaky-tests-playwright)
 -   [How to Avoid Flaky Tests in Selenium](https://semaphoreci.com/blog/flaky-tests-selenium)
+-   [How to Avoid Flaky Tests in Cypress](https://semaphoreci.com/blog/flaky-tests-cypress)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
