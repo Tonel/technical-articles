@@ -28,6 +28,7 @@
 -   [What Do Deno and Bun Bring to the Table?](https://blog.appsignal.com/2023/11/01/what-do-deno-and-bun-bring-to-the-table.html)
 -   [How to Use Timeouts in Node.js](https://blog.appsignal.com/2023/11/08/how-to-use-timeouts-in-nodejs.html)
 -   [Top 8 Recent V8 in Node Updates](https://blog.appsignal.com/2024/02/28/top-8-recent-v8-in-node-updates.html)
+-   [How to Implement Rate Limiting in Express for Node.js](https://blog.appsignal.com/2024/04/03/how-to-implement-rate-limiting-in-express-for-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://writech.run/blog/improving-performance-sql-aggregate-functions/)
@@ -210,7 +211,6 @@
 -   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
 -   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
 -   [Top 5 JavaScript GraphQL Client Libraries](https://www.datocms.com/blog/best-javascript-graphql-clients)
--   [Best Practices for Building Static Sites](https://www.datocms.com/blog/best-practices-for-building-static-sites)
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
