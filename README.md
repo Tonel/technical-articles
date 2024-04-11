@@ -375,6 +375,7 @@
 -   [How To Send Multiple SMS Using Spring Boot and Kotlin](https://www.twilio.com/blog/java-spring-boot-kotlin-send-multiple-sms)
 -   [How to Send Bulk SMS Using Spring Boot and Kotlin](https://www.twilio.com/blog/java-spring-boot-kotlin-send-bulk-sms)
 -   [How to Send Bulk Emails With Spring Boot and Twilio](https://www.twilio.com/blog/send-bulk-emails-sendgrid-spring-boot)
+-   [How to Make a Phone Call in Spring Boot with Kotlin](https://www.twilio.com/en-us/blog/java-spring-boot-programmable-voice-phone-call)
 
 ## Unflow
 -   [Why Mobile Is a Step Backwards for Development Processes](https://www.unflow.com/post/why-mobile-step-backwards-for-development-processes)
