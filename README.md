@@ -105,6 +105,10 @@
 -   [Web Scraping With VBA Guide](https://brightdata.com/blog/how-tos/web-scraping-with-vba)
 -   [Best Headless Browsers for Scraping and Testing](https://brightdata.com/blog/web-data/best-headless-browsers)
 -   [Best HTML Parsing Libraries for Web Scraping](https://brightdata.com/blog/web-data/best-html-parsers)
+-   [How To Scrape a Next.js Site In Seconds Through Hydration Data](https://brightdata.com/blog/how-tos/web-scraping-with-next-js)
+-   [How to Scrape Images From a Website in Python](https://brightdata.com/blog/how-tos/scrape-images-from-websites)
+-   [Top 9 Proxy Providers of 2024: All Features Compared](https://brightdata.com/blog/proxy-101/best-proxy-providers)
+-   [The Best 10+ Web Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-web-scraping-tools)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
