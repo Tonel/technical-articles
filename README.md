@@ -251,6 +251,10 @@
 -   [SQL DDL: The Definitive Guide on Data Definition Language](https://www.dbvis.com/thetable/sql-ddl-the-definitive-guide-on-data-definition-language/)
 -   [5 Ways to Split a String in PostgreSQL](https://www.dbvis.com/thetable/5-ways-to-split-a-string-in-postgresql/)
 -   [Postgres TEXT vs VARCHAR: Comparing String Data Types](https://www.dbvis.com/thetable/postgres-text-vs-varchar-comparing-string-data-types/)
+-   [PostgreSQL Upsert: INSERT ON CONFLICT Guide](https://www.dbvis.com/thetable/postgresql-upsert-insert-on-conflict-guide/)
+-   [SQL CAST Function: Everything You Need to Know](https://www.dbvis.com/thetable/sql-cast-function-everything-you-need-to-know/)
+-   [SQL Add to Date Operations: A Complete Guide](https://www.dbvis.com/thetable/sql-add-to-date-operations-a-complete-guide/)
+-   [Glossary of the SQL Commands You Need to Know](https://www.dbvis.com/thetable/glossary-of-the-sql-commands-you-need-to-know/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
