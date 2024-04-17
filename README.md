@@ -356,6 +356,7 @@
 -   [Best Practices for Securing Node.js Applications in Production](https://semaphoreci.com/blog/securing-nodejs)
 -   [How To Organize Constants in a Dedicated Layer in JavaScript](https://semaphoreci.com/blog/constants-layer-javascript)
 -   [How to Organize All Your Routes in a Single Layer in Node.js](https://semaphoreci.com/blog/layer-nodejs)
+-   [Build a Caching Layer in Node.js With Redis](https://semaphoreci.com/blog/nodejs-caching-layer-redis)
 -   [HTMX vs React: A Complete Comparison](https://semaphoreci.com/blog/htmx-react)
 -   [How to Avoid Flaky Tests in Playwright](https://semaphoreci.com/blog/flaky-tests-playwright)
 -   [How to Avoid Flaky Tests in Selenium](https://semaphoreci.com/blog/flaky-tests-selenium)
