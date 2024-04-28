@@ -217,7 +217,6 @@
 -   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
 -   [Top 5 JavaScript GraphQL Client Libraries](https://www.datocms.com/blog/best-javascript-graphql-clients)
 -   [Frameworks and Technologies — DatoCMS Academy](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies) (only [What is a Static Site?](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#what-is-a-static-site), and [Why use a Static Site Generator?](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#why-use-a-static-site-generator), and [Examples of SSGs](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#examples-of-ssgs))
--
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
