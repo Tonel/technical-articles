@@ -109,6 +109,7 @@
 -   [How to Scrape Images From a Website in Python](https://brightdata.com/blog/how-tos/scrape-images-from-websites)
 -   [Top 9 Proxy Providers of 2024: All Features Compared](https://brightdata.com/blog/proxy-101/best-proxy-providers)
 -   [The Best 10+ Web Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-web-scraping-tools)
+-   [How to Use Wget With Python to Download Web Pages and Files](https://brightdata.com/blog/how-tos/wget-with-python)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -215,6 +216,8 @@
 -   [What DatoCMS Sidebar Plugins Bring To the Table](https://www.datocms.com/blog/sidebar-plugins)
 -   [Advanced Data Retrieval With Deep Filtering in DatoCMS](https://www.datocms.com/blog/advanced-data-retrieval-with-deep-filtering)
 -   [Top 5 JavaScript GraphQL Client Libraries](https://www.datocms.com/blog/best-javascript-graphql-clients)
+-   [Frameworks and Technologies — DatoCMS Academy](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies) (only [What is a Static Site?](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#what-is-a-static-site), and [Why use a Static Site Generator?](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#why-use-a-static-site-generator), and [Examples of SSGs](https://www.datocms.com/academy/modern-web-development/frameworks-and-technologies#examples-of-ssgs))
+-
 
 ## DbVisualizer
 -   [JSON vs. JSONB in PostgreSQL: A Complete Comparison](https://www.dbvis.com/thetable/json-vs-jsonb-in-postgresql-a-complete-comparison/)
@@ -255,6 +258,8 @@
 -   [SQL CAST Function: Everything You Need to Know](https://www.dbvis.com/thetable/sql-cast-function-everything-you-need-to-know/)
 -   [SQL Add to Date Operations: A Complete Guide](https://www.dbvis.com/thetable/sql-add-to-date-operations-a-complete-guide/)
 -   [Glossary of the SQL Commands You Need to Know](https://www.dbvis.com/thetable/glossary-of-the-sql-commands-you-need-to-know/)
+-   [Adding Dates in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/adding-dates-in-sql-a-complete-tutorial/)
+-   [SQL ORDER BY Clause: Definitive Guide](https://www.dbvis.com/thetable/sql-order-by-clause-definitive-guide/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
