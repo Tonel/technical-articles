@@ -367,6 +367,7 @@
 -   [How to Avoid Flaky Tests in Playwright](https://semaphoreci.com/blog/flaky-tests-playwright)
 -   [How to Avoid Flaky Tests in Selenium](https://semaphoreci.com/blog/flaky-tests-selenium)
 -   [How to Avoid Flaky Tests in Cypress](https://semaphoreci.com/blog/flaky-tests-cypress)
+-   [React Compiler: What Is It and How Will It Change Frontend Development?](https://semaphoreci.com/blog/react-compiler)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
