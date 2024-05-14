@@ -259,8 +259,14 @@
 -   [SQL CAST Function: Everything You Need to Know](https://www.dbvis.com/thetable/sql-cast-function-everything-you-need-to-know/)
 -   [SQL Add to Date Operations: A Complete Guide](https://www.dbvis.com/thetable/sql-add-to-date-operations-a-complete-guide/)
 -   [Glossary of the SQL Commands You Need to Know](https://www.dbvis.com/thetable/glossary-of-the-sql-commands-you-need-to-know/)
+-   [SUBSTRING_INDEX in SQL Explained: A Guide](https://www.dbvis.com/thetable/substring_index-in-sql-explained-a-guide/)
 -   [Adding Dates in SQL: A Complete Tutorial](https://www.dbvis.com/thetable/adding-dates-in-sql-a-complete-tutorial/)
 -   [SQL ORDER BY Clause: Definitive Guide](https://www.dbvis.com/thetable/sql-order-by-clause-definitive-guide/)
+-   [SQL CASE Statement: Definitive Guide](https://www.dbvis.com/thetable/glossary-of-the-sql-commands-you-need-to-know/)
+-   [SQL CONVERT: The Handbook of Data Conversion in SQL](https://www.dbvis.com/thetable/sql-convert-the-handbook-of-data-conversion-in-sql-2/)
+-   [SQL UNION Operator: How To Combine Result Sets](https://www.dbvis.com/thetable/sql-union-operator-how-to-combine-result-sets/)
+-   [SQL UNION ALL: Keeping Duplicates When Combining Result Sets](https://www.dbvis.com/thetable/sql-union-all-keeping-duplicates-when-combining-result-sets/)
+-   [PostgreSQL Full Text Search: The Definitive Guide](https://www.dbvis.com/thetable/postgresql-full-text-search-the-definitive-guide/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
@@ -369,6 +375,7 @@
 -   [How to Avoid Flaky Tests in Selenium](https://semaphoreci.com/blog/flaky-tests-selenium)
 -   [How to Avoid Flaky Tests in Cypress](https://semaphoreci.com/blog/flaky-tests-cypress)
 -   [React Compiler: What Is It and How Will It Change Frontend Development?](https://semaphoreci.com/blog/react-compiler)
+-   [Why Your Next.js Site Needs an API Layer and How To Build It](https://semaphoreci.com/blog/next-js-site-api-layer)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
