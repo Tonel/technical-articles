@@ -31,6 +31,7 @@
 -   [Top 8 Recent V8 in Node Updates](https://blog.appsignal.com/2024/02/28/top-8-recent-v8-in-node-updates.html)
 -   [How to Implement Rate Limiting in Express for Node.js](https://blog.appsignal.com/2024/04/03/how-to-implement-rate-limiting-in-express-for-nodejs.html)
 -   [When to Use Bun Instead of Node.js](https://blog.appsignal.com/2024/05/01/when-to-use-bun-instead-of-nodejs.html)
+-   [Cypress vs. Playwright for Node: A Head-to-Head Comparison](https://blog.appsignal.com/2024/05/22/cypress-vs-playwright-for-node-a-head-to-head-comparison.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://writech.run/blog/improving-performance-sql-aggregate-functions/)
