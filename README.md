@@ -113,6 +113,12 @@
 -   [Top 9 Proxy Providers of 2024: All Features Compared](https://brightdata.com/blog/proxy-101/best-proxy-providers)
 -   [The Best 10+ Web Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-web-scraping-tools)
 -   [How to Use Wget With Python to Download Web Pages and Files](https://brightdata.com/blog/how-tos/wget-with-python)
+-   [XPath vs CSS Selector: Which One to Choose?](https://brightdata.com/blog/web-data/xpath-vs-css-selectors)
+-   [IPv4 vs IPv6 Comparison: Differences and Similarities](https://brightdata.com/blog/proxy-101/ipv4-vs-ipv6)
+-   [Best C# HTML Parser Tools of 2024](https://brightdata.com/blog/web-data/best-c-sharp-html-parsers)
+-   [How to Scrape Google in Python: Retrieve Search Result Data](https://brightdata.com/blog/web-data/scraping-google-with-python)
+-   [A Complete Guide to the Python Requests Library](https://brightdata.com/blog/web-data/python-requests-guide)
+-   [The Best 10 LinkedIn Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-linkedin-scrapers)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
