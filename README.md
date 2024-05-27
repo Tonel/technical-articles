@@ -269,6 +269,8 @@
 -   [SQL UNION Operator: How To Combine Result Sets](https://www.dbvis.com/thetable/sql-union-operator-how-to-combine-result-sets/)
 -   [SQL UNION ALL: Keeping Duplicates When Combining Result Sets](https://www.dbvis.com/thetable/sql-union-all-keeping-duplicates-when-combining-result-sets/)
 -   [PostgreSQL Full Text Search: The Definitive Guide](https://www.dbvis.com/thetable/postgresql-full-text-search-the-definitive-guide/)
+-   [SQL TRIM: Removing Extra Space Characters From a String](https://www.dbvis.com/thetable/sql-trim-removing-extra-space-characters-from-a-string/)
+-   [SQL Formatter: Definition and Best Tools](https://www.dbvis.com/thetable/sql-formatter-definition-and-best-tools/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
