@@ -387,6 +387,7 @@
 -   [How to Avoid Flaky Tests in Cypress](https://semaphoreci.com/blog/flaky-tests-cypress)
 -   [React Compiler: What Is It and How Will It Change Frontend Development?](https://semaphoreci.com/blog/react-compiler)
 -   [Why Your Next.js Site Needs an API Layer and How To Build It](https://semaphoreci.com/blog/next-js-site-api-layer)
+-   [5 Low-Cost Web Hosting Alternatives](https://semaphoreci.com/blog/web-hosting)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
