@@ -1,9 +1,6 @@
 # Technical Articles by Antonello Zanini
 ⚠️ I also wrote 100+ additional articles as a ghostwriter that I cannot disclose ⚠️ 
 
-## Airplane
--   [Top 5 PostgreSQL GUI tools](https://www.airplane.dev/blog/top-5-postgresql-gui-tools)
-
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
 -   [Drupal vs. Apostrophe: A Complete CMS Comparison](https://apostrophecms.com/compare-cms-solutions/drupal)
@@ -486,6 +483,7 @@
 -   [How to Set Up Prettier in IntelliJ IDEA](https://writech.run/blog/how-to-set-up-prettier-in-intellij-idea-a9560a06f4bd)
 -   [Check Out React Pokedom — A Library To Catch Pokémon in React](https://writech.run/blog/check-out-react-pokedom-a-library-to-catch-pok%C3%A9mon-alongside-dom-events-eb1c4f391e3c)
 -   [How to Disable the Right-Click Menu in React](https://writech.run/blog/how-to-disable-the-right-click-menu-in-react-f600a79f133b)
+-   [Best PostgreSQL GUI Tools](https://writech.run/blog/best-postgresql-gui-tools/)
 -   [How To Use a SOCKS Proxy in Axios](https://writech.run/blog/how-to-use-a-socks-proxy-in-axios-6c0355a2e013)
 -   [How To Upload and Download a File With FTP/FTPS/SFTP in Node.js](https://writech.run/blog/how-to-upload-and-download-a-file-with-ftp-ftps-sftp-in-node-js-b50e196841f1)
 -   [How To Mark a File as Executable in a Git Repo](https://writech.run/blog/how-to-mark-a-file-as-executable-in-a-git-repo-80ee532f4366)
