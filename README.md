@@ -118,6 +118,13 @@
 -   [How to Scrape Google in Python: Retrieve Search Result Data](https://brightdata.com/blog/web-data/scraping-google-with-python)
 -   [A Complete Guide to the Python Requests Library](https://brightdata.com/blog/web-data/python-requests-guide)
 -   [The Best 10 LinkedIn Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-linkedin-scrapers)
+-   [cURL User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/curl-user-agent)
+-   [The Top 10 Residential Proxies of 2024](https://brightdata.com/blog/proxy-101/best-residential-proxies)
+-   [Wget User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/wget-user-agent)
+-   [Python Requests User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/requests-user-agent)
+-   [Selenium User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/selenium-user-agent)
+-   [10 Best Datacenter Proxy Providers of 2024: Ultimate Comparison](https://brightdata.com/blog/proxy-101/best-datacenter-proxies)
+-   [10 Best Dataset Websites of 2024: Ultimate Comparison](https://brightdata.com/blog/web-data/best-dataset-websites)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
