@@ -283,6 +283,10 @@
 -   [PostgreSQL Full Text Search: The Definitive Guide](https://www.dbvis.com/thetable/postgresql-full-text-search-the-definitive-guide/)
 -   [SQL TRIM: Removing Extra Space Characters From a String](https://www.dbvis.com/thetable/sql-trim-removing-extra-space-characters-from-a-string/)
 -   [SQL Formatter: Definition and Best Tools](https://www.dbvis.com/thetable/sql-formatter-definition-and-best-tools/)
+-   [SQL HAVING Clause: The Ultimate Guide](https://www.dbvis.com/thetable/sql-having-clause-the-ultimate-guide/)
+-   [A Guide to the SQL Date Data Types](https://www.dbvis.com/thetable/a-guide-to-the-sql-date-data-types/)
+-   [mysqldump: How to Backup and Restore MySQL Databases](https://www.dbvis.com/thetable/mysqldump-how-to-backup-and-restore-mysql-databases/)
+-   [A Complete Guide to the SQL LIKE Operator](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-like-operator/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
