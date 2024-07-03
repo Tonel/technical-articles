@@ -51,7 +51,7 @@
 -   [Protect Your Site from Bots with CAPTCHAs and JavaScript Challenges](https://auth0.com/blog/protect-site-from-bots-with-captchas-javascript-challenges/)
 
 ## Bejamas
--   [Apostrophe CMS](https://bejamas.io/discovery/headless-cms/apostrophe/)
+-   [Apostrophe CMS](https://bejamas.io/hub/headless-cms/apostrophe)
 
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
