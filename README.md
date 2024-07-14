@@ -115,6 +115,8 @@
 -   [XPath vs CSS Selector: Which One to Choose?](https://brightdata.com/blog/web-data/xpath-vs-css-selectors)
 -   [IPv4 vs IPv6 Comparison: Differences and Similarities](https://brightdata.com/blog/proxy-101/ipv4-vs-ipv6)
 -   [Best C# HTML Parser Tools of 2024](https://brightdata.com/blog/web-data/best-c-sharp-html-parsers)
+-   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php)
+-   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs)
 -   [How to Scrape Google in Python: Retrieve Search Result Data](https://brightdata.com/blog/web-data/scraping-google-with-python)
 -   [A Complete Guide to the Python Requests Library](https://brightdata.com/blog/web-data/python-requests-guide)
 -   [The Best 10 LinkedIn Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-linkedin-scrapers)
@@ -125,6 +127,11 @@
 -   [Selenium User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/selenium-user-agent)
 -   [10 Best Datacenter Proxy Providers of 2024: Ultimate Comparison](https://brightdata.com/blog/proxy-101/best-datacenter-proxies)
 -   [10 Best Dataset Websites of 2024: Ultimate Comparison](https://brightdata.com/blog/web-data/best-dataset-websites)
+-   [10 Best Rotating Proxies of 2024: Ultimate Comparison](https://brightdata.com/blog/proxy-101/best-rotating-proxies)
+-   [10 Best ISP Proxy Providers of 2024: The Ultimate Comparison](https://brightdata.com/blog/proxy-101/best-isp-proxies)
+-   [10 Best Mobile Proxy Providers of 2024: The Definitive Comparison](https://brightdata.com/blog/proxy-101/best-mobile-proxies)
+-   [How to Bypass CAPTCHAs With Playwright](https://brightdata.com/blog/web-data/bypass-captchas-with-playwright)
+-   [How to Bypass CAPTCHAs With Cypress](https://brightdata.com/blog/web-data/bypass-captchas-with-cypress)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -287,6 +294,8 @@
 -   [A Guide to the SQL Date Data Types](https://www.dbvis.com/thetable/a-guide-to-the-sql-date-data-types/)
 -   [mysqldump: How to Backup and Restore MySQL Databases](https://www.dbvis.com/thetable/mysqldump-how-to-backup-and-restore-mysql-databases/)
 -   [A Complete Guide to the SQL LIKE Operator](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-like-operator/)
+-   [REGEXP_MATCH SQL Function: The Complete PostgreSQL Guide](https://www.dbvis.com/thetable/regexp_match-sql-function-the-complete-postgresql-guide/)
+-   [How to Compare SQL Dates](https://www.dbvis.com/thetable/how-to-compare-sql-dates/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
