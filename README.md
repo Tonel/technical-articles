@@ -350,6 +350,7 @@
 -   [Express.js adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/express-js-adoption-guide/)
 -   [Using SignalDB with React: A complete guide](https://blog.logrocket.com/using-signaldb-react/)
 -   [Comparing Hattip vs. Express.js for modern app development](https://blog.logrocket.com/hattip-vs-express-js/)
+-   [Playwright adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/playwright-adoption-guide/)
       
 ## Mito
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://writech.run/blog/automatically-generating-data-exploration-code-in-python-with-mito-4076a6c56057)
