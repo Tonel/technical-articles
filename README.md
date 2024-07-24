@@ -407,6 +407,7 @@
 -   [Why Your Next.js Site Needs an API Layer and How To Build It](https://semaphoreci.com/blog/next-js-site-api-layer)
 -   [5 Low-Cost Web Hosting Alternatives](https://semaphoreci.com/blog/web-hosting)
 -   [Cut Down S3 Storage Costs with Cloudflare R2](https://semaphoreci.com/blog/cloudflare-r2)
+-   [5 Low-Cost Database Services to Migrate to](https://semaphoreci.com/blog/database-services)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
