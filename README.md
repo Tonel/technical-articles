@@ -138,6 +138,7 @@
 ### Bright Data x Hackernoon
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
 -   [Cracking the Code of Cloudflare Bypass](https://hackernoon.com/cracking-the-code-of-cloudflare-bypass) (Ghostwriting)
+-   [An Introduction to cURL: The Most Popular HTTP Client](https://hackernoon.com/an-introduction-to-curl-the-most-popular-http-client) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
