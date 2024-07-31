@@ -410,6 +410,7 @@
 -   [5 Low-Cost Web Hosting Alternatives](https://semaphoreci.com/blog/web-hosting)
 -   [Cut Down S3 Storage Costs with Cloudflare R2](https://semaphoreci.com/blog/cloudflare-r2)
 -   [5 Low-Cost Database Services to Migrate to](https://semaphoreci.com/blog/database-services)
+-   [7 Elasticsearch Alternative Search Solutions for Your Startup](https://semaphoreci.com/blog/elasticsearch-alternative-solutions)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
