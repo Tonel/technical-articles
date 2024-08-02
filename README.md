@@ -166,6 +166,7 @@
 -   [Metti in mostra i tuoi prodotti in una vetrina digitale all'avanguardia](https://www.cantierecreativo.net/blog/vetrina-digitale)
 -   [Marketing più efficace con un generatore di landing page](https://www.cantierecreativo.net/blog/generatore-landing-page)
 -   [Restyling logo: la chiave di un rebranding di successo](https://www.cantierecreativo.net/blog/restyling-logo-la-chiave-di-un-rebranding-di-successo)
+-   [Cos'è la sostenibilità digitale e perchè è fondamentale per il nostro futuro](https://www.cantierecreativo.net/blog/cos-e-la-sostenibilita-digitale-e-perche-e-fondamentale-per-il-nostro-futuro)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://writech.run/blog/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
