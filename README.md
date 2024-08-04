@@ -297,6 +297,9 @@
 -   [A Complete Guide to the SQL LIKE Operator](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-like-operator/)
 -   [REGEXP_MATCH SQL Function: The Complete PostgreSQL Guide](https://www.dbvis.com/thetable/regexp_match-sql-function-the-complete-postgresql-guide/)
 -   [How to Compare SQL Dates](https://www.dbvis.com/thetable/how-to-compare-sql-dates/)
+-   [SQL Alias: Everything You Need to Know About AS in SQL](https://www.dbvis.com/thetable/sql-alias-everything-you-need-to-know-about-as-in-sql/)
+-   [SQL STUFF: Insert a String Into Another in SQL Server](https://www.dbvis.com/thetable/sql-stuff-insert-a-string-into-another-in-sql-server/)
+-   [Restoring a PostgreSQL Backup With pg_restore: Examples, Tips, and Tricks](https://www.dbvis.com/thetable/restoring-a-postgresql-backup-with-pg_restore-examples-tips-and-tricks/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
