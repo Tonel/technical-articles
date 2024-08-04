@@ -131,6 +131,10 @@
 -   [10 Best Mobile Proxy Providers of 2024: The Definitive Comparison](https://brightdata.com/blog/proxy-101/best-mobile-proxies)
 -   [How to Bypass CAPTCHAs With Playwright](https://brightdata.com/blog/web-data/bypass-captchas-with-playwright)
 -   [How to Bypass CAPTCHAs With Cypress](https://brightdata.com/blog/web-data/bypass-captchas-with-cypress)
+-   [How to Bypass CAPTCHAs With Selenium in Python](https://brightdata.com/blog/web-data/bypass-captchas-with-selenium)
+-   [How to Bypass CAPTCHAs With Python](https://brightdata.com/blog/web-data/bypass-captchas-with-python)
+-   [10 ScrapeBox Alternatives in 2024](https://brightdata.com/blog/web-data/best-scrapebox-alternatives)
+-   [Node.js User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/node-js-user-agent)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
