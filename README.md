@@ -499,7 +499,6 @@
 -   [How to Handle the Mouse Hover Event in React](https://writech.run/blog/how-to-handle-the-mouse-hover-event-in-react-32bad58f1a9)
 -   [How To Enable String Similarity Features in PostgreSQL](https://writech.run/blog/how-to-enable-string-similarity-features-in-postgresql-d40700c2d6bd)
 -   [How To Read a JSON File and Return Its Content in a Spring Boot API](https://writech.run/blog/how-to-read-a-json-file-and-return-its-content-in-a-spring-boot-api-1f69e552f7af)
--   [Web Scraping with PHP: a Step-By-Step Tutorial](https://writech.run/blog/a-step-by-step-tutorial-to-web-scraping-in-php-fc57a926d468)
 -   [How To Fix Error 413 in Apps Behind Nginx on AWS Elastic Beanstalk](https://writech.run/blog/how-to-fix-error-413-in-apps-behind-nginx-on-aws-elastic-beanstalk-c68a1ef2c331)
 -   [How to Fix “413 Request Entity Too Large” Error in Node.js](https://writech.run/blog/how-to-fix-413-request-entity-too-large-error-in-node-js-226c0070e4f4)
 -   [How To Filter Requests and Resources in Chrome DevTools](https://writech.run/blog/how-to-filter-requests-and-resources-in-chrome-devtools-491976d85ad1)
