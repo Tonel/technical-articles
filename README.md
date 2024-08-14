@@ -31,6 +31,7 @@
 -   [When to Use Bun Instead of Node.js](https://blog.appsignal.com/2024/05/01/when-to-use-bun-instead-of-nodejs.html)
 -   [Cypress vs. Playwright for Node: A Head-to-Head Comparison](https://blog.appsignal.com/2024/05/22/cypress-vs-playwright-for-node-a-head-to-head-comparison.html)
 -   [How to Perform Data Validation in Node.js](https://blog.appsignal.com/2024/06/19/how-to-perform-data-validation-in-nodejs.html)
+-   [An Introduction to Unit Testing in Node.js](https://blog.appsignal.com/2024/08/14/an-introduction-to-unit-testing-in-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://writech.run/blog/improving-performance-sql-aggregate-functions/)
