@@ -1,6 +1,9 @@
 # Technical Articles by Antonello Zanini
 ⚠️ I also wrote 100+ additional articles as a ghostwriter that I cannot disclose ⚠️ 
 
+## Apify
+-   [How to scrape a website (ultimate guide for 2024)](https://blog.apify.com/how-to-scrape-website/)
+
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
 -   [Drupal vs. Apostrophe: A Complete CMS Comparison](https://apostrophecms.com/compare-cms-solutions/drupal)
