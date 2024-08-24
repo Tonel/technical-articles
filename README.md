@@ -314,6 +314,9 @@
 -   [SQL Alias: Everything You Need to Know About AS in SQL](https://www.dbvis.com/thetable/sql-alias-everything-you-need-to-know-about-as-in-sql/)
 -   [SQL STUFF: Insert a String Into Another in SQL Server](https://www.dbvis.com/thetable/sql-stuff-insert-a-string-into-another-in-sql-server/)
 -   [Restoring a PostgreSQL Backup With pg_restore: Examples, Tips, and Tricks](https://www.dbvis.com/thetable/restoring-a-postgresql-backup-with-pg_restore-examples-tips-and-tricks/)
+-   [MySQL Rename Table: 3 Different Approaches](https://www.dbvis.com/thetable/mysql-rename-table-3-different-approaches/)
+-   [SQL LIMIT Clause: Complete Handbook](https://www.dbvis.com/thetable/sql-limit-clause-complete-handbook/)
+-   [What Is an SQL Query Builder and How Does It Work?](https://www.dbvis.com/thetable/what-is-an-sql-query-builder-and-how-does-it-work/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
