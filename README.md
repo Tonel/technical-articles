@@ -140,6 +140,10 @@
 -   [How to Bypass CAPTCHAs With Python](https://brightdata.com/blog/web-data/bypass-captchas-with-python)
 -   [10 ScrapeBox Alternatives in 2024](https://brightdata.com/blog/web-data/best-scrapebox-alternatives)
 -   [Node.js User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/node-js-user-agent)
+-   [Postman User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/postman-user-agent)
+-   [Web Scraping With Laravel: A Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-laravel)
+-   [C# vs JavaScript for Web Scraping](https://brightdata.com/blog/web-data/c-sharp-vs-javascript)
+-   [Data Sourcing: Everything You Need to Know](https://brightdata.com/blog/web-data/data-sourcing)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
