@@ -155,6 +155,7 @@
 -   [An Introduction to cURL: The Most Popular HTTP Client](https://hackernoon.com/an-introduction-to-curl-the-most-popular-http-client) (Ghostwriting)
 -   [Automating reCAPTCHA Solving: Why and How](https://hackernoon.com/automating-recaptcha-solving-why-and-how) (Ghostwriting)
 -   [Alternatives to LinkedIn Sales Insights Tool](https://hackernoon.com/alternatives-to-linkedin-sales-insights-tool) (Ghostwriting)
+-   [Elevate Your Scraping Project With Puppeteer Extra](https://hackernoon.com/elevate-your-scraping-project-with-puppeteer-extra) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
