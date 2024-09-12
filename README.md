@@ -325,6 +325,9 @@
 -   [MySQL Rename Table: 3 Different Approaches](https://www.dbvis.com/thetable/mysql-rename-table-3-different-approaches/)
 -   [SQL LIMIT Clause: Complete Handbook](https://www.dbvis.com/thetable/sql-limit-clause-complete-handbook/)
 -   [What Is an SQL Query Builder and How Does It Work?](https://www.dbvis.com/thetable/what-is-an-sql-query-builder-and-how-does-it-work/)
+-   [Everything You Need to Know About the Postgres JSONB Data Type](https://www.dbvis.com/thetable/everything-you-need-to-know-about-the-postgres-jsonb-data-type/)
+-   [PostgreSQL NULLIF: Conditional Logic Made Easier](https://www.dbvis.com/thetable/postgresql-nullif-conditional-logic-made-easier/)
+-   [The Definitive Guide to the NULL SQL Server Value](https://www.dbvis.com/thetable/the-definitive-guide-to-the-null-sql-server-value/)
 
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
