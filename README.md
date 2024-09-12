@@ -392,6 +392,7 @@
 -   [How To Cancel Requests In Axios](https://blog.openreplay.com/how-to-cancel-requests-in-axios/)
 -   [Security: How To Deal With CSP In React](https://blog.openreplay.com/security--how-to-deal-with-csp-in-react/)
 -   [Removing Unused CSS With PurgeCSS](https://blog.openreplay.com/removing-unused-css-with-purgecss/)
+-   [HTMX 2.0 Is Here: Everything You Need to Know](https://blog.openreplay.com/htmx-2-0-is-here/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
