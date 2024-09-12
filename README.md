@@ -145,6 +145,11 @@
 -   [Web Scraping With Laravel: A Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-laravel)
 -   [C# vs JavaScript for Web Scraping](https://brightdata.com/blog/web-data/c-sharp-vs-javascript)
 -   [Data Sourcing: Everything You Need to Know](https://brightdata.com/blog/web-data/data-sourcing)
+-   [Puppeteer User Agent Guide: Setting and Changing](https://brightdata.com/blog/web-data/puppeteer-user-agent)
+-   [Guide to Web Scraping With cURL Impersonate](https://brightdata.com/blog/web-data/web-scraping-with-curl-impersonate)
+-   [10 Best Data Collection Services in 2024](https://brightdata.com/blog/web-data/best-data-collection-services)
+-   [How to Create Datasets: Complete Guide](https://brightdata.com/blog/web-data/how-to-create-datasets)
+-   [Best 5 Company Data Providers of 2024](https://brightdata.com/blog/web-data/best-company-data-providers)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
