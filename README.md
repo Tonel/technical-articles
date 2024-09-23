@@ -474,7 +474,7 @@
 ## Unflow
 -   [Why Mobile Is a Step Backwards for Development Processes](https://www.unflow.com/post/why-mobile-step-backwards-for-development-processes)
 
-## Writech
+## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://writech.run/blog/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
 -   [Defining JPA/Hibernate Entities in Kotlin](https://writech.run/blog/defining-jpa-hibernate-entities-in-kotlin-1ff8ee470805)
 -   [Avoiding Boilerplate Code With MapStruct, Spring Boot and Kotlin](https://writech.run/blog/avoiding-boilerplate-code-with-mapstruct-spring-boot-and-kotlin-50bf5848dc7c)
@@ -569,7 +569,10 @@
 -   [5 Steps to Create a Digital Marketplace](https://writech.run/blog/5-steps-to-create-a-digital-marketplace/)
 -   [How AI Can Support You During Calls](https://writech.run/blog/how-ai-can-support-you-during-calls/)
 -   [Enabling TypeScript Programming in Visual Studio Code](https://writech.run/blog/typescript-programming-in-visual-studio-code/)
--   [How to Use a Proxy in PHP with cURL](https://writech.run/blog/how-to-use-a-proxy-in-php/)
--   [Top 20 Frontend Interview Questions With Answers](https://writech.run/blog/top-20-frontend-interview-questions-with-answers/)
--   [How to Store Spring Boot Application Metrics in InfluxDB](https://writech.run/blog/how-to-store-spring-boot-application-metrics-in-influxdb/)
--   [Tech Blog on Your Site or on Medium / Dev.to?](https://writech.run/blog/serena-sensini-interview/)
+-   [How to Use a Proxy in PHP with cURL](https://dev.to/writech/how-to-use-a-proxy-in-php-with-curl-1pom)
+-   [Top 20 Frontend Interview Questions With Answers](https://dev.to/writech/top-20-frontend-interview-questions-with-answers-34l0)
+-   [How to Store Spring Boot Application Metrics in InfluxDB](https://dev.to/writech/how-to-store-spring-boot-application-metrics-in-influxdb-3ifo)
+-   [Tech Blog on Your Site or on Medium / Dev.to?](https://dev.to/writech/tech-blog-on-your-site-or-on-medium-devto-pm1/)
+-   [Best PostgreSQL GUI Tools](https://dev.to/writech/best-postgresql-gui-tools-406m)
+-   [How to Define a Counter in MySQL](https://dev.to/writech/how-to-define-a-counter-in-mysql-1jfo)
+-   [DbVisualizer 24.2: A Complete Review](https://dev.to/writech/dbvisualizer-242-a-complete-review-3d18)
