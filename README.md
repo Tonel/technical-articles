@@ -446,6 +446,7 @@
 -   [5 Low-Cost Database Services to Migrate to](https://semaphoreci.com/blog/database-services)
 -   [7 Elasticsearch Alternative Search Solutions for Your Startup](https://semaphoreci.com/blog/elasticsearch-alternative-solutions)
 -   [API Security Best Practices: Protecting Your Data in Transit](https://semaphoreci.com/blog/api-security)
+-   [The Arrange, Act, and Assert (AAA) Pattern in Unit Test Automation](https://semaphoreci.com/blog/aaa-pattern-test-automation)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
