@@ -579,4 +579,4 @@
 -   [Why Mobile Is a Step Backwards for Development Processes](https://www.unflow.com/post/why-mobile-step-backwards-for-development-processes)
 
 ## Wiz
--   [SAST vs. DAST: What’s the difference?](https://www.wiz.io/academy/sast-vs-dast)
+-   [SAST vs. DAST: What’s the difference?](https://www.wiz.io/academy/sast-vs-dast) (Ghostwriting)
