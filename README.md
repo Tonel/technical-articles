@@ -162,6 +162,7 @@
 -   [Alternatives to LinkedIn Sales Insights Tool](https://hackernoon.com/alternatives-to-linkedin-sales-insights-tool) (Ghostwriting)
 -   [Elevate Your Scraping Project With Puppeteer Extra](https://hackernoon.com/elevate-your-scraping-project-with-puppeteer-extra) (Ghostwriting)
 -   [Top 5 Anti-Scraping Measures You Need To Know](https://hackernoon.com/top-5-anti-scraping-measures-you-need-to-know) (Ghostwriting)
+-   [How to Avoid an IP Ban with Proxies](https://hackernoon.com/how-to-avoid-an-ip-ban-with-proxies) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
