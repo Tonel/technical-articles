@@ -331,6 +331,13 @@
 -   [Everything You Need to Know About the Postgres JSONB Data Type](https://www.dbvis.com/thetable/everything-you-need-to-know-about-the-postgres-jsonb-data-type/)
 -   [PostgreSQL NULLIF: Conditional Logic Made Easier](https://www.dbvis.com/thetable/postgresql-nullif-conditional-logic-made-easier/)
 -   [The Definitive Guide to the NULL SQL Server Value](https://www.dbvis.com/thetable/the-definitive-guide-to-the-null-sql-server-value/)
+-   [SQL DATEPART: Get a Part of a Date in SQL Server](https://www.dbvis.com/thetable/sql-datepart-get-a-part-of-a-date-in-sql-server/)
+-   [A Complete Guide to the SQL Server COALESCE Function](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-server-coalesce-function/)
+-   [SQL FETCH: Retrieving Data In Database Cursors](https://www.dbvis.com/thetable/sql-fetch-retrieving-data-in-database-cursors/)
+-   [SQL OFFSET: Skipping Rows in a Query](https://www.dbvis.com/thetable/sql-offset-skipping-rows-in-a-query/)
+-   [A Complete Guide to the SQL Server FOR XML PATH Clause](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-server-for-xml-path-clause/)
+-   [SQL Server Date Diff: Calculating the Difference Between Two Dates](https://www.dbvis.com/thetable/sql-server-date-diff-calculating-the-difference-between-two-dates/)
+-   [SQL Linter: How It Works and How to Choose the Best One](https://www.dbvis.com/thetable/sql-linter-how-it-works-and-how-to-choose-the-best-one/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://writech.run/blog/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-a12ef85b77c9)
