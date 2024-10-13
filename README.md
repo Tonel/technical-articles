@@ -150,6 +150,12 @@
 -   [10 Best Data Collection Services in 2024](https://brightdata.com/blog/web-data/best-data-collection-services)
 -   [How to Create Datasets: Complete Guide](https://brightdata.com/blog/web-data/how-to-create-datasets)
 -   [Best 5 Company Data Providers of 2024](https://brightdata.com/blog/web-data/best-company-data-providers)
+-   [Best Social Media Data Providers of 2024](https://brightdata.com/blog/authors/antonello-zanini)
+-   [Best Real Estate Data Providers of 2024](https://brightdata.com/blog/web-data/best-real-estate-data-providers)
+-   [Best eCommerce Data Providers of 2024](https://brightdata.com/blog/web-data/best-ecommerce-data-providers)
+-   [Best 5 Financial Data Providers of 2024](https://brightdata.com/blog/web-data/best-financial-data-providers)
+-   [Best B2B Data Providers of 2024](https://brightdata.com/blog/web-data/best-b2b-data-providers)
+-   [How To Create a RAG Chatbot With GPT-4o Using SERP Data](https://brightdata.com/blog/web-data/build-a-rag-chatbot)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
