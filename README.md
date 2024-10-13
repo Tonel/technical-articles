@@ -194,7 +194,7 @@
 -   [Digital partner vs web agency: quale scegliere e perchè](https://www.cantierecreativo.net/blog/digital-partner-vs-web-agency-quale-scegliere-e-perche)
 
 ## CanvasXpress
--   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://writech.run/blog/canvasxpress-vs-plotly-which-data-visualization-library-is-better-fcd0725e8b8f)
+-   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://dev.to/writech/canvasxpress-vs-plotly-which-data-visualization-library-is-better-2e03)
 
 ## Codemotion
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
@@ -404,7 +404,7 @@
 -   [The 3 Basic Laws of Software Engineering](https://dev.to/writech/the-3-basic-laws-of-software-engineering-4j1p)
 -   [How To Perform JOIN Queries With JPA Criteria API](https://dev.to/writech/how-to-perform-join-queries-with-jpa-criteria-api-34aa) 
 -   [How to Set Up Prettier in IntelliJ IDEA](https://dev.to/writech/how-to-set-up-prettier-in-intellij-idea-1chb)
--   [Check Out React Pokedom — A Library To Catch Pokémon in React](https://writech.run/blog/check-out-react-pokedom-a-library-to-catch-pok%C3%A9mon-alongside-dom-events-eb1c4f391e3c)
+-   [Check Out React Pokedom — A Library To Catch Pokémon in React](https://dev.to/writech/check-out-react-pokedom-a-library-to-catch-pokemon-in-react-3dl9)
 -   [How to Disable the Right-Click Menu in React](https://dev.to/writech/how-to-disable-the-right-click-menu-in-react-ppe)
 -   [Best PostgreSQL GUI Tools](https://dev.to/writech/best-postgresql-gui-tools-406m/)
 -   [How To Use a SOCKS Proxy in Axios](https://dev.to/writech/how-to-use-a-socks-proxy-in-axios-5ghi)
@@ -570,7 +570,7 @@
 -   [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://strapi.io/blog/headless-cms-vs-dxp-what-are-the-differences-and-benefits)
 
 ## testRigor
--   [How To Simplify Your Automated Testing With AI: A Beginner’s Guide](https://writech.run/blog/how-to-simplify-your-automated-testing-with-ai-a-beginners-guide-f79e90eac2b4)
+-   [How To Simplify Your Automated Testing With AI: A Beginner’s Guide](https://dev.to/writech/how-to-simplify-your-automated-testing-with-ai-a-beginners-guide-42f4)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
