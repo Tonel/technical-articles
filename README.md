@@ -171,6 +171,7 @@
 -   [Top 5 Anti-Scraping Measures You Need To Know](https://hackernoon.com/top-5-anti-scraping-measures-you-need-to-know) (Ghostwriting)
 -   [How to Avoid an IP Ban with Proxies](https://hackernoon.com/how-to-avoid-an-ip-ban-with-proxies) (Ghostwriting)
 -   [The Best User Agent for Web Scraping](https://hackernoon.com/the-best-user-agent-for-web-scraping) (Ghostwriting)
+-   [The Role of the TLS Fingerprint in Web Scraping](https://hackernoon.com/the-role-of-the-tls-fingerprint-in-web-scraping) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
