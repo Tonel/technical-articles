@@ -174,6 +174,7 @@
 -   [The Role of the TLS Fingerprint in Web Scraping](https://hackernoon.com/the-role-of-the-tls-fingerprint-in-web-scraping) (Ghostwriting)
 -   [How To Implement IP Rotation With Proxies](https://hackernoon.com/how-to-implement-ip-rotation-with-proxies) (Ghostwriting)
 -   [Bypassing JavaScript Challenges for Effective Web Scraping](https://hackernoon.com/bypassing-javascript-challenges-for-effective-web-scraping) (Ghostwriting)
+-   [How to Circumvent API Rate Limiting](https://hackernoon.com/how-to-circumvent-api-rate-limiting) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
