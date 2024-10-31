@@ -21,6 +21,7 @@
 -   [How To Set Up the Advanced Permission Pro Extension](https://docs.apostrophecms.org/tutorials/setting-up-the-advanced-permission-pro-extension.html)
 -   [How to Use Apostrophe's Advanced Permission to Manage Editing Rights](https://apostrophecms.com/blog/how-to-use-apostrophe-s-advanced-permission-to-manage-editing-rights)
 -   [Expand Content Reach Using AI for SEO and Translation in Your CMS](https://apostrophecms.com/blog/expand-content-reach-using-ai-for-seo-and-translation-in-your-cms)
+-   [Why Apostrophe Is the Go-To CMS for Multilingual Content Management](https://apostrophecms.com/blog/why-apostrophe-is-the-go-to-cms-for-multilingual-content-management)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
