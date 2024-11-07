@@ -576,6 +576,7 @@
 -   [API Security Best Practices: Protecting Your Data in Transit](https://semaphoreci.com/blog/api-security)
 -   [The Arrange, Act, and Assert (AAA) Pattern in Unit Test Automation](https://semaphoreci.com/blog/aaa-pattern-test-automation)
 -   [Best Shift-Left Testing Tools To Improve Your QA](https://semaphoreci.com/blog/shift-left-testing)
+-   [How Attackers Use HTTP Status Codes for Malicious Purposes](https://semaphoreci.com/blog/http-status-codes)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
