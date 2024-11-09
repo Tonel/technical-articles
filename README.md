@@ -358,6 +358,15 @@
 -   [A Complete Guide to the SQL Server FOR XML PATH Clause](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-server-for-xml-path-clause/)
 -   [SQL Server Date Diff: Calculating the Difference Between Two Dates](https://www.dbvis.com/thetable/sql-server-date-diff-calculating-the-difference-between-two-dates/)
 -   [SQL Linter: How It Works and How to Choose the Best One](https://www.dbvis.com/thetable/sql-linter-how-it-works-and-how-to-choose-the-best-one/)
+-   [SQL Not Equal Operator: Definitive Guide with Examples](https://www.dbvis.com/thetable/sql-not-equal-operator-definitive-guide-with-examples/)
+-   [How To Format SQL Query Strings](https://www.dbvis.com/thetable/how-to-format-sql-query-strings/)
+-   [A Complete Guide to the MySQL Boolean Type](https://www.dbvis.com/thetable/a-complete-guide-to-the-mysql-boolean-type/)
+-   [The Ultimate Guide to the SQL Server Date Format](https://www.dbvis.com/thetable/the-ultimate-guide-to-the-sql-server-date-format/)
+-   [CONCAT_WS SQL Server Function: Ultimate Guide With Examples](https://www.dbvis.com/thetable/concat_ws-sql-server-function-ultimate-guide-with-examples/)
+-   [SQL EXPLAIN: The Definitive Tool to Optimize Queries](https://www.dbvis.com/thetable/sql-explain-the-definitive-tool-to-optimize-queries/)
+-   [The Definitive Guide to the SQL Server GETDATE Function](https://www.dbvis.com/thetable/the-definitive-guide-to-the-sql-server-getdate-function/)
+-   [SQL Server Guide: Create a View Based on a Stored Procedure](https://www.dbvis.com/thetable/sql-server-guide-create-a-view-based-on-a-stored-procedure/)
+-   [How to Set Up a MySQL Server on Windows](https://www.dbvis.com/thetable/how-to-set-up-a-mysql-server-on-windows/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
