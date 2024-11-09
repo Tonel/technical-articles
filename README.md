@@ -158,6 +158,11 @@
 -   [Best 5 Financial Data Providers of 2024](https://brightdata.com/blog/web-data/best-financial-data-providers)
 -   [Best B2B Data Providers of 2024](https://brightdata.com/blog/web-data/best-b2b-data-providers)
 -   [How To Create a RAG Chatbot With GPT-4o Using SERP Data](https://brightdata.com/blog/web-data/build-a-rag-chatbot)
+-   [How to Scrape Crunchbase With Python in 2024](https://brightdata.com/blog/web-data/how-to-scrape-crunchbase)
+-   [Google Ads Competitor Analysis Guide](https://brightdata.com/blog/web-data/google-ads-competitor-research)
+-   [How to Scrape a Cloudflare-Protected Website](https://brightdata.com/blog/web-data/bypass-cloudflare-for-web-scraping)
+-   [Top 10 No-Code Web Scrapers of 2024](https://brightdata.com/blog/web-data/best-no-code-scrapers)
+-   [How to Scrape Google’s “People Also Ask” Section](https://brightdata.com/blog/web-data/how-to-scrape-people-also-ask)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
