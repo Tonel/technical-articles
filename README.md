@@ -122,8 +122,6 @@
 -   [XPath vs CSS Selector: Which One to Choose?](https://brightdata.com/blog/web-data/xpath-vs-css-selectors)
 -   [IPv4 vs IPv6 Comparison: Differences and Similarities](https://brightdata.com/blog/proxy-101/ipv4-vs-ipv6)
 -   [Best C# HTML Parser Tools of 2024](https://brightdata.com/blog/web-data/best-c-sharp-html-parsers)
--   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php)
--   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs)
 -   [How to Scrape Google in Python: Retrieve Search Result Data](https://brightdata.com/blog/web-data/scraping-google-with-python)
 -   [A Complete Guide to the Python Requests Library](https://brightdata.com/blog/web-data/python-requests-guide)
 -   [The Best 10 LinkedIn Scraping Tools of 2024](https://brightdata.com/blog/web-data/best-linkedin-scrapers)
@@ -166,6 +164,11 @@
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
+   
+### Bright Data x GitHub
+-   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php)
+-   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs)
+-   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping)
 
 ### Bright Data x Hackernoon
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
