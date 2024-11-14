@@ -548,6 +548,7 @@
 -   [HTMX 2.0 Is Here: Everything You Need to Know](https://blog.openreplay.com/htmx-2-0-is-here/)
 -   [How to Delete a Local Git Branch](https://blog.openreplay.com/short--how-to-delete-a-local-git-branch/)
 -   [How to Remove Global and Local Packages With Npm](https://blog.openreplay.com/remove-global-and-local-packages-with-npm/)
+-   [How to fix the 'Unexpected End of JSON Input' error in JavaScript](https://blog.openreplay.com/how-to-fix-unexpected-end-of-json-input-error-in-javascript/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
