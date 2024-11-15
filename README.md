@@ -112,6 +112,7 @@
 -   [Five Best Ways to Hide Your IP Address](https://brightdata.com/blog/how-tos/five-ways-to-hide-your-ip-address) (Ghostwriting)
 -   [Web Scraping With Kotlin: A Step-By-Step Guide](https://brightdata.com/blog/how-tos/web-scraping-with-kotlin)
 -   [Web Scraping With VBA Guide](https://brightdata.com/blog/how-tos/web-scraping-with-vba)
+-   [Residential Proxies: Definition, Use Cases, and Best Providers](https://brightdata.com/blog/proxy-101/what-is-a-residential-proxy)
 -   [Best Headless Browsers for Scraping and Testing](https://brightdata.com/blog/web-data/best-headless-browsers)
 -   [Best HTML Parsing Libraries for Web Scraping](https://brightdata.com/blog/web-data/best-html-parsers)
 -   [How To Scrape a Next.js Site In Seconds Through Hydration Data](https://brightdata.com/blog/how-tos/web-scraping-with-next-js)
