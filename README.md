@@ -61,6 +61,9 @@
 ## Bejamas
 -   [Apostrophe CMS](https://bejamas.io/hub/headless-cms/apostrophe)
 
+## Best Proxy Review
+-   [Web Scraping With Rust: A Step-By-Step Guide](https://www.bestproxyreview.com/web-scraping-with-rust/) (Ghostwriting)
+
 ## Bright Data
 -   [Web Scraping With Jsoup: The Definitive Guide](https://brightdata.com/blog/how-tos/web-scraping-with-jsoup)
 -   [Web Scraping With JavaScript and Node.JS](https://brightdata.com/blog/how-tos/web-scraping-with-node-js)
