@@ -632,3 +632,4 @@
 
 ## Wiz
 -   [SAST vs. DAST: What’s the difference?](https://www.wiz.io/academy/sast-vs-dast) (Ghostwriting)
+-   [What is Application Detection and Response (ADR)?](https://www.wiz.io/academy/application-detection-and-response) (Ghostwriting)
