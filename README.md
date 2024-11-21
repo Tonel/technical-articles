@@ -537,6 +537,7 @@
 -   [Comparing Hattip vs. Express.js for modern app development](https://blog.logrocket.com/hattip-vs-express-js/)
 -   [Playwright adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/playwright-adoption-guide/)
 -   [Playwright Extra: extending Playwright with plugins](https://blog.logrocket.com/playwright-extra-extending-playwright-plugins/)
+-   [Using curl-impersonate in Node.js to avoid blocks](https://blog.logrocket.com/using-curl-impersonate-node-js-avoid-blocks/)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/writech/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
