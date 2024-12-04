@@ -560,6 +560,7 @@
 -   [How to Delete a Local Git Branch](https://blog.openreplay.com/short--how-to-delete-a-local-git-branch/)
 -   [How to Remove Global and Local Packages With Npm](https://blog.openreplay.com/remove-global-and-local-packages-with-npm/)
 -   [How to fix the 'Unexpected End of JSON Input' error in JavaScript](https://blog.openreplay.com/how-to-fix-unexpected-end-of-json-input-error-in-javascript/)
+-   [Undoing Local and Remote Changes with git revert](https://blog.openreplay.com/undoing-local-and-remote-changes-with-git-revert/)
 
 ## Pieces
 -   [Best Clipboard Apps for Developers](https://code.pieces.app/blog/best-clipboard-apps-for-developers)
