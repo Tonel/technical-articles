@@ -608,6 +608,7 @@
 -   [The Arrange, Act, and Assert (AAA) Pattern in Unit Test Automation](https://semaphoreci.com/blog/aaa-pattern-test-automation)
 -   [Best Shift-Left Testing Tools To Improve Your QA](https://semaphoreci.com/blog/shift-left-testing)
 -   [How Attackers Use HTTP Status Codes for Malicious Purposes](https://semaphoreci.com/blog/http-status-codes)
+-   [TDD vs. BDD: What’s the Difference? (Complete Comparison)](https://semaphoreci.com/blog/tdd-vs-bdd)
 
 ## SitePoint
 -   [React Fragments: What Every React Developer Should Know](https://www.sitepoint.com/react-fragments-introduction/)
