@@ -215,6 +215,7 @@
 -   [The Power of AI-Driven Proxy Management](https://hackernoon.com/the-power-of-ai-driven-proxy-management) (Ghostwriting)
 -   [Mastering Scraped Data Management (AI Tips Inside)](https://hackernoon.com/mastering-scraped-data-management-ai-tips-inside) (Ghostwriting)
 -   [Staying Ethical and Legal in the Age of AI Web Scraping](https://hackernoon.com/staying-ethical-and-legal-in-the-age-of-ai-web-scraping) (Ghostwriting)
+-   [DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha) (Ghostwriting)
 
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
@@ -243,7 +244,8 @@
 -   [Marketing più efficace con un generatore di landing page](https://www.cantierecreativo.net/blog/generatore-landing-page)
 -   [Restyling logo: la chiave di un rebranding di successo](https://www.cantierecreativo.net/blog/restyling-logo-la-chiave-di-un-rebranding-di-successo)
 -   [Cos'è la sostenibilità digitale e perchè è fondamentale per il nostro futuro](https://www.cantierecreativo.net/blog/cos-e-la-sostenibilita-digitale-e-perche-e-fondamentale-per-il-nostro-futuro)
--   [Digital partner vs web agency: quale scegliere e perchè](https://www.cantierecreativo.net/blog/digital-partner-vs-web-agency-quale-scegliere-e-perche)
+-   [Digital partner vs web agency: quale scegliere e perchè](https://www.cantierecreativo.net/blog/digital-partner-vs-web-agency-quale-scegliere-e-perche) (Ghostwriting)
+-   [IA generativa nei CMS: il futuro della creazione dei contenuti](https://www.cantierecreativo.net/blog/ia-generativa-nei-cms-il-futuro-della-creazione-dei-contenuti)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://dev.to/writech/canvasxpress-vs-plotly-which-data-visualization-library-is-better-2e03)
@@ -399,6 +401,20 @@
 -   [The Definitive Guide to the SQL Server GETDATE Function](https://www.dbvis.com/thetable/the-definitive-guide-to-the-sql-server-getdate-function/)
 -   [SQL Server Guide: Create a View Based on a Stored Procedure](https://www.dbvis.com/thetable/sql-server-guide-create-a-view-based-on-a-stored-procedure/)
 -   [How to Set Up a MySQL Server on Windows](https://www.dbvis.com/thetable/how-to-set-up-a-mysql-server-on-windows/)
+-   [How to Drop an Index By Partition Number in SQL Server](https://www.dbvis.com/thetable/how-to-drop-an-index-by-partition-number-in-sql-server/)
+-   [MySQL CONCAT Function: The Definitive Guide](https://www.dbvis.com/thetable/mysql-concat-function-the-definitive-guide/)
+-   [SQL Server CTE: Everything You Need to Know](https://www.dbvis.com/thetable/sql-server-cte-everything-you-need-to-know/)
+-   [SQL Variable: What It Is and How To Use It](https://www.dbvis.com/thetable/sql-variable-what-it-is-and-how-to-use-it/)
+-   [List of SQL Reserved Words in All Major Databases](https://www.dbvis.com/thetable/list-of-sql-reserved-words-in-all-major-databases/)
+-   [MySQL CAST: A Guide to the Data Conversion Function](https://www.dbvis.com/thetable/mysql-cast-a-guide-to-the-data-conversion-function/)
+-   [A Complete Guide to the MySQL GROUP_CONCAT Function](https://www.dbvis.com/thetable/a-complete-guide-to-the-mysql-group_concat-function/)
+-   [MySQL Nullable Columns: Everything You Need to Know](https://www.dbvis.com/thetable/mysql-nullable-columns-everything-you-need-to-know/)
+-   [How to Find Elements In an Array: PostgreSQL Guide](https://www.dbvis.com/thetable/how-to-find-elements-in-an-array-postgresql-guide/)
+-   [A Complete Guide to the MySQL COUNT Function](https://www.dbvis.com/thetable/a-complete-guide-to-the-mysql-count-function/)
+-   [SQL Upsert: Inserting a Record If It Does Not Exist](https://www.dbvis.com/thetable/sql-upsert-inserting-a-record-if-it-does-not-exist/)
+-   [A Guide To the SQL DECLARE Statement](https://www.dbvis.com/thetable/a-guide-to-the-sql-declare-statement/)
+-   [SQL CHECK Constraint: Definitive Guide With Examples](https://www.dbvis.com/thetable/sql-check-constraint-definitive-guide-with-examples/)
+-   [How to Display All Duplicate Records in a MySQL Table](https://www.dbvis.com/thetable/how-to-display-all-duplicate-records-in-a-mysql-table/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
