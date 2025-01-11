@@ -545,6 +545,9 @@
 -   [How To Build a Canva Clone with CE.SDK](https://img.ly/blog/how-to-build-a-canva-clone-with-ce-sdk/)
 -   [Automatic Design Generation with React](https://img.ly/docs/cesdk/samples/automatic-design-generation-react/)
 -   [How To Build a Video Editor With Wasm in React](https://img.ly/blog/how-to-build-a-video-editor-with-wasm-in-react/)
+-   [A Modern Angular Video Editor: Setup Guide](https://img.ly/blog/a-modern-angular-video-editor/)
+-   [A Modern React Video Editor: Integration Guide](https://img.ly/blog/a-modern-react-video-editor/)
+-   [A Modern Vue.js Video Editor: Setup Guide](https://img.ly/blog/a-modern-vue-js-video-editor/)
 
 ## Kinsta
 -   [Master TypeScript development in Visual Studio Code](https://kinsta.com/blog/typescript-visual-studio/)
