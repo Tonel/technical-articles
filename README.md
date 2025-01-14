@@ -246,6 +246,7 @@
 -   [Cos'è la sostenibilità digitale e perchè è fondamentale per il nostro futuro](https://www.cantierecreativo.net/blog/cos-e-la-sostenibilita-digitale-e-perche-e-fondamentale-per-il-nostro-futuro)
 -   [Digital partner vs web agency: quale scegliere e perchè](https://www.cantierecreativo.net/blog/digital-partner-vs-web-agency-quale-scegliere-e-perche) (Ghostwriting)
 -   [IA generativa nei CMS: il futuro della creazione dei contenuti](https://www.cantierecreativo.net/blog/ia-generativa-nei-cms-il-futuro-della-creazione-dei-contenuti)
+-   [European Accessibility Act 2025: Come mettersi in regola](https://www.cantierecreativo.net/blog/european-accessibility-act-2025-come-mettersi-in-regola)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://dev.to/writech/canvasxpress-vs-plotly-which-data-visualization-library-is-better-2e03)
