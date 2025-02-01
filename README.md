@@ -216,7 +216,12 @@
 -   [Mastering Scraped Data Management (AI Tips Inside)](https://hackernoon.com/mastering-scraped-data-management-ai-tips-inside) (Ghostwriting)
 -   [Staying Ethical and Legal in the Age of AI Web Scraping](https://hackernoon.com/staying-ethical-and-legal-in-the-age-of-ai-web-scraping) (Ghostwriting)
 -   [DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha) (Ghostwriting)
+-   [Surviving the Google SERP Data Crisis](https://hackernoon.com/surviving-the-google-serp-data-crisis) (Ghostwriting)
 
+## Bright Data x Kaggle
+-   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
+-   [What Are Your Favorite Data Sources for ML?](https://www.kaggle.com/discussions/questions-and-answers/560268) (Ghostwriting)
+   
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
 -   [How to Crawl a Site Without Getting Blocked?](https://techjury.net/blog/how-to-crawl-a-site-without-getting-blocked/)
