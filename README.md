@@ -428,6 +428,12 @@
 -   [A Guide To the SQL DECLARE Statement](https://www.dbvis.com/thetable/a-guide-to-the-sql-declare-statement/)
 -   [SQL CHECK Constraint: Definitive Guide With Examples](https://www.dbvis.com/thetable/sql-check-constraint-definitive-guide-with-examples/)
 -   [How to Display All Duplicate Records in a MySQL Table](https://www.dbvis.com/thetable/how-to-display-all-duplicate-records-in-a-mysql-table/)
+-   [A Guide to SQL Server Indexes on Partitioned Tables](https://www.dbvis.com/thetable/a-guide-to-sql-server-indexes-on-partitioned-tables/)
+-   [OLTP vs OLAP: Comparing the Two Data Processing Systems](https://www.dbvis.com/thetable/oltp-vs-olap-comparing-the-two-data-processing-systems/)
+-   [How to Use MERGE in SQL Query Statements: Complete Guide](https://www.dbvis.com/thetable/how-to-use-merge-in-sql-query-statements-complete-guide/)
+-   [How to Use a Recursive CTE in SQL](https://www.dbvis.com/thetable/how-to-use-a-recursive-cte-in-sql/)
+-   [A Complete Guide to the ALTER TABLE DROP COLUMN Statement](https://www.dbvis.com/thetable/a-complete-guide-to-the-alter-table-drop-column-statement/)
+-   [How to Protect MySQL With Fail2Ban](https://www.dbvis.com/thetable/how-to-protect-mysql-with-fail2ban/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
