@@ -185,6 +185,13 @@
 -   [How to Download Files With cURL](https://brightdata.com/blog/web-data/download-files-with-curl)
 -   [Best JavaScript Web Scraping Libraries of 2025](https://brightdata.com/blog/web-data/js-web-scraping-libraries)
 -   [Best Python Web Scraping Libraries of 2025](https://brightdata.com/blog/web-data/python-web-scraping-libraries)
+-   [How To Generate Random IPs for Web Scraping](https://brightdata.com/blog/proxy-101/generate-random-ips)
+-   [How to Use Undetected ChromeDriver for Web Scraping](https://brightdata.com/blog/web-data/web-scraping-with-undetected-chromedriver)
+-   [Scraping Websites With Complex Navigation](https://brightdata.com/blog/web-data/scraping-complex-navigation)
+-   [Web Scraping With HTTPX in Python](https://brightdata.com/blog/web-data/web-scraping-with-httpx)
+-   [Asynchronous Web Scraping With AIOHTTP in Python](https://brightdata.com/blog/web-data/web-scraping-with-aiohttp)
+-   [How to Build an Amazon Price Tracker With Python](https://brightdata.com/blog/how-tos/build-an-amazon-price-tracker)
+-   [Using curl_cffi for Web Scraping in Python](https://brightdata.com/blog/web-data/web-scraping-with-curl-cffi)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
