@@ -567,6 +567,9 @@
 -   [A Modern Angular Video Editor: Setup Guide](https://img.ly/blog/a-modern-angular-video-editor/)
 -   [A Modern React Video Editor: Integration Guide](https://img.ly/blog/a-modern-react-video-editor/)
 -   [A Modern Vue.js Video Editor: Setup Guide](https://img.ly/blog/a-modern-vue-js-video-editor/)
+-   [A Modern React Design Editor: Integration Guide](https://img.ly/blog/modern-react-design-editor/)
+-   [A Modern JavaScript Video Editor: Integration Guide](https://img.ly/blog/a-modern-javascript-video-editor-integration-guide/)
+-   [How To: Video Generation With Javascript](https://img.ly/blog/how-to-video-generation-with-javascript/)
 
 ## Kinsta
 -   [Master TypeScript development in Visual Studio Code](https://kinsta.com/blog/typescript-visual-studio/)
