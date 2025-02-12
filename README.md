@@ -224,6 +224,7 @@
 -   [Staying Ethical and Legal in the Age of AI Web Scraping](https://hackernoon.com/staying-ethical-and-legal-in-the-age-of-ai-web-scraping) (Ghostwriting)
 -   [DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha) (Ghostwriting)
 -   [Surviving the Google SERP Data Crisis](https://hackernoon.com/surviving-the-google-serp-data-crisis) (Ghostwriting)
+-   [OpenAI’s Operator vs CAPTCHAs: Who’s Winning?](https://hackernoon.com/openais-operator-vs-captchas-whos-winning) (Ghostwriting)
 
 ## Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
