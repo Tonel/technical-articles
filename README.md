@@ -3,6 +3,7 @@
 
 ## Apify
 -   [How to scrape a website (ultimate guide for 2024)](https://blog.apify.com/how-to-scrape-website/)
+-   [How to bypass CAPTCHA in web scraping (step-by-step guide)](https://blog.apify.com/bypass-captcha/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -22,6 +23,7 @@
 -   [How to Use Apostrophe's Advanced Permission to Manage Editing Rights](https://apostrophecms.com/blog/how-to-use-apostrophe-s-advanced-permission-to-manage-editing-rights)
 -   [Expand Content Reach Using AI for SEO and Translation in Your CMS](https://apostrophecms.com/blog/expand-content-reach-using-ai-for-seo-and-translation-in-your-cms)
 -   [Why Apostrophe Is the Go-To CMS for Multilingual Content Management](https://apostrophecms.com/blog/why-apostrophe-is-the-go-to-cms-for-multilingual-content-management)
+-   [Best CMS for Agencies: Apostrophe as the Multisite CMS Leader](https://apostrophecms.com/blog/best-cms-for-agencies-apostrophe-multisite-cms-leader)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
