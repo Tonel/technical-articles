@@ -194,6 +194,8 @@
 -   [Asynchronous Web Scraping With AIOHTTP in Python](https://brightdata.com/blog/web-data/web-scraping-with-aiohttp)
 -   [How to Build an Amazon Price Tracker With Python](https://brightdata.com/blog/how-tos/build-an-amazon-price-tracker)
 -   [Using curl_cffi for Web Scraping in Python](https://brightdata.com/blog/web-data/web-scraping-with-curl-cffi)
+-   [How to Parse HTML with PHP in 2025](https://brightdata.com/blog/web-data/parse-html-with-php)
+-   [How to Scrape OpenSea with Python in 2025](https://brightdata.com/blog/web-data/how-to-scrape-opensea)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -437,6 +439,10 @@
 -   [How to Use a Recursive CTE in SQL](https://www.dbvis.com/thetable/how-to-use-a-recursive-cte-in-sql/)
 -   [A Complete Guide to the ALTER TABLE DROP COLUMN Statement](https://www.dbvis.com/thetable/a-complete-guide-to-the-alter-table-drop-column-statement/)
 -   [How to Protect MySQL With Fail2Ban](https://www.dbvis.com/thetable/how-to-protect-mysql-with-fail2ban/)
+-   [MySQL UPDATE JOIN Queries: A Complete Guide](https://www.dbvis.com/thetable/mysql-update-join-queries-a-complete-guide/)
+-   [SQL Derived Table: Everything You Need to Know](https://www.dbvis.com/thetable/sql-derived-table-everything-you-need-to-know/)
+-   [How to Optimize a Clustered Index Scan in SQL](https://www.dbvis.com/thetable/how-to-optimize-a-clustered-index-scan-in-sql/)
+-   [Clustered vs Non-Clustered Index: Complete SQL Guide](https://www.dbvis.com/thetable/clustered-vs-non-clustered-index-complete-sql-guide/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
