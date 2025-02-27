@@ -229,6 +229,7 @@
 -   [DOOM CAPTCHA: Are Video Games the Future of CAPTCHA?](https://hackernoon.com/doom-captcha-are-video-games-the-future-of-captcha) (Ghostwriting)
 -   [Surviving the Google SERP Data Crisis](https://hackernoon.com/surviving-the-google-serp-data-crisis) (Ghostwriting)
 -   [OpenAI’s Operator vs CAPTCHAs: Who’s Winning?](https://hackernoon.com/openais-operator-vs-captchas-whos-winning) (Ghostwriting)
+-   [AI CAPTCHA Fails Are the Internet’s New Comedy Show!](https://hackernoon.com/ai-captcha-fails-are-the-internets-new-comedy-show) (Ghostwriting)
 
 ## Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
