@@ -4,6 +4,7 @@
 ## Apify
 -   [How to scrape a website (ultimate guide for 2024)](https://blog.apify.com/how-to-scrape-website/)
 -   [How to bypass CAPTCHA in web scraping (step-by-step guide)](https://blog.apify.com/bypass-captcha/)
+-   [How to scrape job postings (Python guide)](https://blog.apify.com/job-scraping/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -194,8 +195,10 @@
 -   [Asynchronous Web Scraping With AIOHTTP in Python](https://brightdata.com/blog/web-data/web-scraping-with-aiohttp)
 -   [How to Build an Amazon Price Tracker With Python](https://brightdata.com/blog/how-tos/build-an-amazon-price-tracker)
 -   [Using curl_cffi for Web Scraping in Python](https://brightdata.com/blog/web-data/web-scraping-with-curl-cffi)
--   [How to Parse HTML with PHP in 2025](https://brightdata.com/blog/web-data/parse-html-with-php)
 -   [How to Scrape OpenSea with Python in 2025](https://brightdata.com/blog/web-data/how-to-scrape-opensea)
+-   [How to Parse HTML with PHP in 2025](https://brightdata.com/blog/web-data/parse-html-with-php)
+-   [How to Bypass Amazon CAPTCHA: 2025 Guide](https://brightdata.com/blog/web-data/bypass-amazon-captcha)
+-   [Scrapy vs Playwright: A Comparison for Web Scraping](https://brightdata.com/blog/web-data/scrapy-vs-playwright)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
