@@ -199,6 +199,9 @@
 -   [How to Parse HTML with PHP in 2025](https://brightdata.com/blog/web-data/parse-html-with-php)
 -   [How to Bypass Amazon CAPTCHA: 2025 Guide](https://brightdata.com/blog/web-data/bypass-amazon-captcha)
 -   [Scrapy vs Playwright: A Comparison for Web Scraping](https://brightdata.com/blog/web-data/scrapy-vs-playwright)
+-   [A Guide to Playwright Web Scraping in 2025](https://brightdata.com/blog/how-tos/playwright-web-scraping)
+-   [A Guide to Puppeteer Web Scraping in 2025](https://brightdata.com/blog/how-tos/web-scraping-puppeteer)
+-   [How to Scrape LinkedIn: 2025 Guide](https://brightdata.com/blog/how-tos/linkedin-scraping-guide)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -237,6 +240,8 @@
 ## Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
 -   [What Are Your Favorite Data Sources for ML?](https://www.kaggle.com/discussions/questions-and-answers/560268) (Ghostwriting)
+-   [Analysis of Amazon's Best-Selling Products](https://www.kaggle.com/code/brightdataml/analysis-of-amazon-s-best-selling-products) (Ghostwriting)
+-   [What Are Your Go-To Data Parsing Tools?](https://www.kaggle.com/discussions/questions-and-answers/564820) (Ghostwriting)
    
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
@@ -447,6 +452,11 @@
 -   [SQL Derived Table: Everything You Need to Know](https://www.dbvis.com/thetable/sql-derived-table-everything-you-need-to-know/)
 -   [How to Optimize a Clustered Index Scan in SQL](https://www.dbvis.com/thetable/how-to-optimize-a-clustered-index-scan-in-sql/)
 -   [Clustered vs Non-Clustered Index: Complete SQL Guide](https://www.dbvis.com/thetable/clustered-vs-non-clustered-index-complete-sql-guide/)
+-   [PostgreSQL Truncate Table Reset Sequence Guide](https://www.dbvis.com/thetable/postgresql-truncate-table-reset-sequence-guide/)
+-   [A Complete Guide on PostgreSQL Range Types, Functions, and Operators](https://www.dbvis.com/thetable/a-complete-guide-on-postgresql-range-types-functions-and-operators/)
+-   [How to Truncate Many Tables In SQL at Once](https://www.dbvis.com/thetable/how-to-truncate-many-tables-in-sql-at-once/)
+-   [A Complete Guide to the MySQL CTE Mechanism](https://www.dbvis.com/thetable/a-complete-guide-to-the-mysql-cte-mechanism/)
+-   [MySQL NOW Function: Get the Current Date and Time](https://www.dbvis.com/thetable/mysql-now-function-get-the-current-date-and-time/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
