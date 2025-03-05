@@ -43,6 +43,7 @@
 -   [How to Handle Errors in Next.js for Node With the App Router](https://blog.appsignal.com/2024/08/28/how-to-handle-errors-in-nextjs-for-node-with-the-app-router.html)
 -   [Best Testing Practices in Node.js](https://blog.appsignal.com/2024/10/16/best-testing-practices-in-nodejs.html)
 -   [Unit Testing in Node.js With Jest](https://blog.appsignal.com/2024/11/27/unit-testing-in-nodejs-with-jest.html)
+-   [End-to-End Testing With TestCafe for Node.js](https://blog.appsignal.com/2025/03/05/end-to-end-testing-with-testcafe-for-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://dev.to/writech/improving-performance-with-sql-aggregate-functions-4p0h/)
