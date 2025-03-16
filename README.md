@@ -203,14 +203,17 @@
 -   [A Guide to Playwright Web Scraping in 2025](https://brightdata.com/blog/how-tos/playwright-web-scraping)
 -   [A Guide to Puppeteer Web Scraping in 2025](https://brightdata.com/blog/how-tos/web-scraping-puppeteer)
 -   [How to Scrape LinkedIn: 2025 Guide](https://brightdata.com/blog/how-tos/linkedin-scraping-guide)
+-   [How to Build an AI Scraper With Crawl4AI and DeepSeek](https://brightdata.com/blog/web-data/crawl4ai-and-deepseek-web-scraping)
+-   [How to Set a Proxy Using HttpClient in .NET With C#](https://brightdata.com/blog/proxy-101/proxy-with-httpclient)
+-   [Web Scraping With Goutte In PHP: 2025 Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-goutte)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
    
 ### Bright Data x GitHub
--   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php)
--   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs)
--   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping)
+-   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php) (Ghostwriting)
+-   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs) (Ghostwriting)
+-   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping) (Ghostwriting)
 
 ### Bright Data x Hackernoon
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
