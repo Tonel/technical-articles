@@ -461,6 +461,10 @@
 -   [How to Truncate Many Tables In SQL at Once](https://www.dbvis.com/thetable/how-to-truncate-many-tables-in-sql-at-once/)
 -   [A Complete Guide to the MySQL CTE Mechanism](https://www.dbvis.com/thetable/a-complete-guide-to-the-mysql-cte-mechanism/)
 -   [MySQL NOW Function: Get the Current Date and Time](https://www.dbvis.com/thetable/mysql-now-function-get-the-current-date-and-time/)
+-   [A Complete Guide to the Order of Execution in SQL](https://www.dbvis.com/thetable/a-complete-guide-to-the-order-of-execution-in-sql/)
+-   [A Complete Guide to the SQL CREATE INDEX Statement](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-create-index-statement/)
+-   [MySQL ALTER TABLE Statement: Definitive Guide](https://www.dbvis.com/thetable/mysql-alter-table-statement-definitive-guide/)
+-   [How to Deal With a Swollen SQL Transaction Log](https://www.dbvis.com/thetable/how-to-deal-with-a-swollen-sql-transaction-log/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
