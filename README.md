@@ -248,6 +248,7 @@
 -   [Analysis of Amazon's Best-Selling Products](https://www.kaggle.com/code/brightdataml/analysis-of-amazon-s-best-selling-products) (Ghostwriting)
 -   [What Are Your Go-To Data Parsing Tools?](https://www.kaggle.com/discussions/questions-and-answers/564820) (Ghostwriting)
 -   [AI Is Running Out of Data: What’s the Future of AI Training?](https://www.kaggle.com/discussions/questions-and-answers/569036) (Ghostwriting)
+-   [Predicting NVDA Stock Prices Using an LSTM](https://www.kaggle.com/code/brightdataml/predicting-nvda-stock-prices-using-an-lstm) (Ghostwriting)
    
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
