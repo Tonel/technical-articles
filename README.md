@@ -240,12 +240,14 @@
 -   [Surviving the Google SERP Data Crisis](https://hackernoon.com/surviving-the-google-serp-data-crisis) (Ghostwriting)
 -   [OpenAI’s Operator vs CAPTCHAs: Who’s Winning?](https://hackernoon.com/openais-operator-vs-captchas-whos-winning) (Ghostwriting)
 -   [AI CAPTCHA Fails Are the Internet’s New Comedy Show!](https://hackernoon.com/ai-captcha-fails-are-the-internets-new-comedy-show) (Ghostwriting)
+-   [Why Are the New AI Agents Choosing Markdown Over HTML?](https://hackernoon.com/why-are-the-new-ai-agents-choosing-markdown-over-html) (Ghostwriting)
 
 ## Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
 -   [What Are Your Favorite Data Sources for ML?](https://www.kaggle.com/discussions/questions-and-answers/560268) (Ghostwriting)
 -   [Analysis of Amazon's Best-Selling Products](https://www.kaggle.com/code/brightdataml/analysis-of-amazon-s-best-selling-products) (Ghostwriting)
 -   [What Are Your Go-To Data Parsing Tools?](https://www.kaggle.com/discussions/questions-and-answers/564820) (Ghostwriting)
+-   [AI Is Running Out of Data: What’s the Future of AI Training?](https://www.kaggle.com/discussions/questions-and-answers/569036) (Ghostwriting)
    
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
