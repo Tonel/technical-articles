@@ -2,9 +2,10 @@
 ⚠️ I also wrote 100+ additional articles as a ghostwriter that I cannot disclose ⚠️ 
 
 ## Apify
--   [How to scrape a website (ultimate guide for 2024)](https://blog.apify.com/how-to-scrape-website/)
+-   [How to scrape a website (ultimate guide for 2025)](https://blog.apify.com/how-to-scrape-website/)
 -   [How to bypass CAPTCHA in web scraping (step-by-step guide)](https://blog.apify.com/bypass-captcha/)
 -   [How to scrape job postings (Python guide)](https://blog.apify.com/job-scraping/)
+-   [How to scrape emails from any website (Python guide)](https://blog.apify.com/scrape-emails-from-websites/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
