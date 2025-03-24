@@ -242,6 +242,7 @@
 -   [OpenAI’s Operator vs CAPTCHAs: Who’s Winning?](https://hackernoon.com/openais-operator-vs-captchas-whos-winning) (Ghostwriting)
 -   [AI CAPTCHA Fails Are the Internet’s New Comedy Show!](https://hackernoon.com/ai-captcha-fails-are-the-internets-new-comedy-show) (Ghostwriting)
 -   [Why Are the New AI Agents Choosing Markdown Over HTML?](https://hackernoon.com/why-are-the-new-ai-agents-choosing-markdown-over-html) (Ghostwriting)
+-   [AI Agent Browsers Are Failing (And It’s Not Just Because of CAPTCHAs)](https://hackernoon.com/ai-agent-browsers-are-failing-and-its-not-just-because-of-captchas) (Ghostwriting)
 
 ## Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
