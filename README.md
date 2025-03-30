@@ -474,6 +474,10 @@
 -   [A Complete Guide to the SQL CREATE INDEX Statement](https://www.dbvis.com/thetable/a-complete-guide-to-the-sql-create-index-statement/)
 -   [MySQL ALTER TABLE Statement: Definitive Guide](https://www.dbvis.com/thetable/mysql-alter-table-statement-definitive-guide/)
 -   [How to Deal With a Swollen SQL Transaction Log](https://www.dbvis.com/thetable/how-to-deal-with-a-swollen-sql-transaction-log/)
+-   [A Guide to the SQL CREATE TABLE Statement](https://www.dbvis.com/thetable/a-guide-to-the-sql-create-table-statement/)
+-   [How to Use JOIN in a DELETE Query in SQL](https://www.dbvis.com/thetable/how-to-use-join-in-a-delete-query-in-sql/)
+-   [A Complete Guide to the FULL OUTER JOIN SQL Operation](https://www.dbvis.com/thetable/a-complete-guide-to-the-full-outer-join-sql-operation/)
+-   [SQL TRUNCATE TABLE: A Complete Guide](https://www.dbvis.com/thetable/sql-truncate-table-a-complete-guide/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
