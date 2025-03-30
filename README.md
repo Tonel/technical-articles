@@ -6,6 +6,7 @@
 -   [How to bypass CAPTCHA in web scraping (step-by-step guide)](https://blog.apify.com/bypass-captcha/)
 -   [How to scrape job postings (Python guide)](https://blog.apify.com/job-scraping/)
 -   [How to scrape emails from any website (Python guide)](https://blog.apify.com/scrape-emails-from-websites/)
+-   [How to scrape LinkedIn jobs with Python](https://blog.apify.com/scrape-linkedin-jobs/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -207,6 +208,9 @@
 -   [How to Build an AI Scraper With Crawl4AI and DeepSeek](https://brightdata.com/blog/web-data/crawl4ai-and-deepseek-web-scraping)
 -   [How to Set a Proxy Using HttpClient in .NET With C#](https://brightdata.com/blog/proxy-101/proxy-with-httpclient)
 -   [Web Scraping With Goutte In PHP: 2025 Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-goutte)
+-   [Web Scraping Using Bright Data’s Scraping Browser on Apify](https://brightdata.com/blog/web-data/apify-scraping-browser)
+-   [Web Scraping With Gemini in 2025: Complete Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-gemini)
+-   [Web Scraping Using Perplexity in 2025: Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-perplexity)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
