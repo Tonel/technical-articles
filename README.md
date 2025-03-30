@@ -611,6 +611,9 @@
 -   [A Modern JavaScript Video Editor: Integration Guide](https://img.ly/blog/a-modern-javascript-video-editor-integration-guide/)
 -   [How To: Video Generation With Javascript](https://img.ly/blog/how-to-video-generation-with-javascript/)
 
+## Incredibuild
+-  [How to build a successful test automation framework](https://www.incredibuild.com/blog/how-to-build-a-successful-test-automation-framework) (Ghostwriting)
+
 ## Kinsta
 -   [Master TypeScript development in Visual Studio Code](https://kinsta.com/blog/typescript-visual-studio/)
 
