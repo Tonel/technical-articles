@@ -248,7 +248,7 @@
 -   [Why Are the New AI Agents Choosing Markdown Over HTML?](https://hackernoon.com/why-are-the-new-ai-agents-choosing-markdown-over-html) (Ghostwriting)
 -   [AI Agent Browsers Are Failing (And It’s Not Just Because of CAPTCHAs)](https://hackernoon.com/ai-agent-browsers-are-failing-and-its-not-just-because-of-captchas) (Ghostwriting)
 
-## Bright Data x Kaggle
+### Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
 -   [What Are Your Favorite Data Sources for ML?](https://www.kaggle.com/discussions/questions-and-answers/560268) (Ghostwriting)
 -   [Analysis of Amazon's Best-Selling Products](https://www.kaggle.com/code/brightdataml/analysis-of-amazon-s-best-selling-products) (Ghostwriting)
