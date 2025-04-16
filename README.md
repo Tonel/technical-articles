@@ -46,6 +46,7 @@
 -   [Best Testing Practices in Node.js](https://blog.appsignal.com/2024/10/16/best-testing-practices-in-nodejs.html)
 -   [Unit Testing in Node.js With Jest](https://blog.appsignal.com/2024/11/27/unit-testing-in-nodejs-with-jest.html)
 -   [End-to-End Testing With TestCafe for Node.js](https://blog.appsignal.com/2025/03/05/end-to-end-testing-with-testcafe-for-nodejs.html)
+-   [An Introduction to JavaScript Bundler Rspack](https://blog.appsignal.com/2025/04/16/an-introduction-to-javascript-bundler-rspack.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://dev.to/writech/improving-performance-with-sql-aggregate-functions-4p0h/)
