@@ -257,6 +257,7 @@
 -   [AI Is Running Out of Data: What’s the Future of AI Training?](https://www.kaggle.com/discussions/questions-and-answers/569036) (Ghostwriting)
 -   [Predicting NVDA Stock Prices Using an LSTM](https://www.kaggle.com/code/brightdataml/predicting-nvda-stock-prices-using-an-lstm) (Ghostwriting)
 -   [What Are the Best Data Sources for Building AI Agents?](https://www.kaggle.com/discussions/questions-and-answers/573673) (Ghostwriting)
+-   [Get Updated US Trade Data for Tariff Calculations](https://www.kaggle.com/code/brightdataml/get-updated-us-trade-data-for-tariff-calculations) (Ghostwriting)
    
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
