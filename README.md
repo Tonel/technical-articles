@@ -7,6 +7,7 @@
 -   [How to scrape job postings (Python guide)](https://blog.apify.com/job-scraping/)
 -   [How to scrape emails from any website (Python guide)](https://blog.apify.com/scrape-emails-from-websites/)
 -   [How to scrape LinkedIn jobs with Python](https://blog.apify.com/scrape-linkedin-jobs/)
+-   [How to scrape Google reviews (Python guide)](https://blog.apify.com/how-to-scrape-google-reviews/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
