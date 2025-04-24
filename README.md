@@ -586,6 +586,7 @@
 -   [How to Define a Counter in MySQL](https://dev.to/writech/how-to-define-a-counter-in-mysql-1jfo)
 -   [DbVisualizer 24.2: A Complete Review](https://dev.to/writech/dbvisualizer-242-a-complete-review-3d18)
 -   [How To Set Up Multiple Datasources in Spring Boot 3](https://dev.to/writech/how-to-set-up-multiple-datasources-in-spring-boot-3-4089)
+-   [How to Map a JSON Column in Spring Boot With JPA 3 and Hibernate 6](https://dev.to/writech/how-to-map-a-json-column-in-spring-boot-with-jpa-3-and-hibernate-6-5gd5)
    
 ## Earthly
 -   [How to Set Up a TypeScript Monorepo](https://earthly.dev/blog/setup-typescript-monorepo/)
