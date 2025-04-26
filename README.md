@@ -494,6 +494,11 @@
 -   [How to Use JOIN in a DELETE Query in SQL](https://www.dbvis.com/thetable/how-to-use-join-in-a-delete-query-in-sql/)
 -   [A Complete Guide to the FULL OUTER JOIN SQL Operation](https://www.dbvis.com/thetable/a-complete-guide-to-the-full-outer-join-sql-operation/)
 -   [SQL TRUNCATE TABLE: A Complete Guide](https://www.dbvis.com/thetable/sql-truncate-table-a-complete-guide/)
+-   [A Complete Guide to the Different Types of DBMS](https://www.dbvis.com/thetable/a-complete-guide-to-the-different-types-of-dbms/)
+-   [A Complete Guide to the New MySQL 9 VECTOR Data Type](https://www.dbvis.com/thetable/a-complete-guide-to-the-new-mysql-9-vector-data-type/)
+-   [A Guide to the SQL Standard Deviation Functions](https://www.dbvis.com/thetable/a-guide-to-the-sql-standard-deviation-functions/)
+-   [How to Extract the Year from a Date in SQL](https://www.dbvis.com/thetable/how-to-extract-the-year-from-a-date-in-sql/)
+-   [TRUNCATE vs DELETE: SQL Comparison of the Two Statements](https://www.dbvis.com/thetable/truncate-vs-delete-sql-comparison-of-the-two-statements/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
