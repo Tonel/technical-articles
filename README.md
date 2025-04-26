@@ -28,6 +28,7 @@
 -   [Expand Content Reach Using AI for SEO and Translation in Your CMS](https://apostrophecms.com/blog/expand-content-reach-using-ai-for-seo-and-translation-in-your-cms)
 -   [Why Apostrophe Is the Go-To CMS for Multilingual Content Management](https://apostrophecms.com/blog/why-apostrophe-is-the-go-to-cms-for-multilingual-content-management)
 -   [Best CMS for Agencies: Apostrophe as the Multisite CMS Leader](https://apostrophecms.com/blog/best-cms-for-agencies-apostrophe-multisite-cms-leader)
+-   [Strapi vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/strapi)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
@@ -214,6 +215,16 @@
 -   [Web Scraping Using Bright Data’s Scraping Browser on Apify](https://brightdata.com/blog/web-data/apify-scraping-browser)
 -   [Web Scraping With Gemini in 2025: Complete Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-gemini)
 -   [Web Scraping Using Perplexity in 2025: Step-By-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-perplexity)
+-   [Best USA Proxies of 2025: Top 7 Providers](https://brightdata.com/blog/proxy-101/best-usa-proxies)
+-   [How to Perform Web Crawling with Gospider in 2025](https://brightdata.com/blog/web-data/web-crawling-with-gospider)
+-   [Top 7 C# Web Scraping Libraries of 2025](https://brightdata.com/blog/web-data/c-sharp-web-scraping-libraries)
+-   [Top 7 PHP Web Scraping Libraries of 2025](https://brightdata.com/blog/web-data/php-web-scraping-libraries)
+-   [How to Use Proxies in Laravel: 2025 Tutorial](https://brightdata.com/blog/proxy-101/proxies-with-laravel)
+-   [Top 12 Frameworks for Building AI Agents of 2025](https://brightdata.com/blog/ai/best-ai-agent-frameworks)
+-   [Understanding Vector Databases: The Engine Behind Modern AI](https://brightdata.com/blog/ai/vector-databases)
+-   [Web Scraping With Pydoll in 2025: Step-by-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-pydoll)
+-   [Integrating OpenAI Agents SDK With a Web Unlocker for High Performance](https://brightdata.com/blog/ai/openai-sdk-and-web-unlocker)
+-   [Top 25 Web Scraping Project Ideas for 2025](https://brightdata.com/blog/web-data/web-scraping-ideas)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
