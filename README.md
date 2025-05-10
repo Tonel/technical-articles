@@ -8,6 +8,7 @@
 -   [How to scrape emails from any website (Python guide)](https://blog.apify.com/scrape-emails-from-websites/)
 -   [How to scrape LinkedIn jobs with Python](https://blog.apify.com/scrape-linkedin-jobs/)
 -   [How to scrape Google reviews (Python guide)](https://blog.apify.com/how-to-scrape-google-reviews/)
+-   [How to scrape Nasdaq stock market data in Python (2025)](https://blog.apify.com/scrape-nasdaq-stock-market-data-python/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -225,6 +226,11 @@
 -   [Web Scraping With Pydoll in 2025: Step-by-Step Guide](https://brightdata.com/blog/web-data/web-scraping-with-pydoll)
 -   [Integrating OpenAI Agents SDK With a Web Unlocker for High Performance](https://brightdata.com/blog/ai/openai-sdk-and-web-unlocker)
 -   [Top 25 Web Scraping Project Ideas for 2025](https://brightdata.com/blog/web-data/web-scraping-ideas)
+-   [AI-Powered Web Scraping With llm-scraper](https://brightdata.com/blog/ai/web-scraping-with-llm-scraper)
+-   [Best AI Web Scraping Tools of 2025: Complete Comparison](https://brightdata.com/blog/ai/best-ai-scraping-tools)
+-   [Utilize Browser Use With a Scraping Browser for Maximum Effectiveness](https://brightdata.com/blog/ai/browser-use-with-scraping-browser)
+-   [Create an SEO Rank Tracker with SERP API and v0](https://brightdata.com/blog/ai/seo-rank-tracker-with-v0)
+-   [Static vs Dynamic Content for Web Scraping: Main Differences](https://brightdata.com/blog/web-data/static-vs-dynamic-content)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
