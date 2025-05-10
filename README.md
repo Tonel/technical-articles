@@ -506,6 +506,9 @@
 -   [A Guide to the SQL Standard Deviation Functions](https://www.dbvis.com/thetable/a-guide-to-the-sql-standard-deviation-functions/)
 -   [How to Extract the Year from a Date in SQL](https://www.dbvis.com/thetable/how-to-extract-the-year-from-a-date-in-sql/)
 -   [TRUNCATE vs DELETE: SQL Comparison of the Two Statements](https://www.dbvis.com/thetable/truncate-vs-delete-sql-comparison-of-the-two-statements/)
+-   [How Often Should SQL Transaction Logs Be Backed Up?](https://www.dbvis.com/thetable/how-often-should-sql-transaction-logs-be-backed-up/)
+-   [CREATE DATABASE in PostgreSQL: A Complete Guide](https://www.dbvis.com/thetable/create-database-in-postgresql-a-complete-guide/)
+-   [SQL DROP TABLE IF EXISTS Statement: Complete Guide](https://www.dbvis.com/thetable/sql-drop-table-if-exists-statement-complete-guide/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
