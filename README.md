@@ -763,6 +763,9 @@
 ## testRigor
 -   [How To Simplify Your Automated Testing With AI: A Beginner’s Guide](https://dev.to/writech/how-to-simplify-your-automated-testing-with-ai-a-beginners-guide-42f4)
 
+## The Web Scraping Club
+-   [Scraping Historical Data From the Wayback Machine](https://substack.thewebscraping.club/p/scraping-wayback-machine)
+
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
 
