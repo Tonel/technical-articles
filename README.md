@@ -768,6 +768,7 @@
 
 ## The Web Scraping Club
 -   [Scraping Historical Data From the Wayback Machine](https://substack.thewebscraping.club/p/scraping-wayback-machine)
+-   [Scraping Through Tor for Increased Anonymity](https://substack.thewebscraping.club/p/scraping-using-tor)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
