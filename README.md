@@ -284,6 +284,7 @@
 -   [What Are the Best Data Sources for Building AI Agents?](https://www.kaggle.com/discussions/questions-and-answers/573673) (Ghostwriting)
 -   [Get Updated US Trade Data for Tariff Calculations](https://www.kaggle.com/code/brightdataml/get-updated-us-trade-data-for-tariff-calculations) (Ghostwriting)
 -   [What Tools Should a Valid MCP Server Provide?](https://www.kaggle.com/discussions/questions-and-answers/578926) (Ghostwriting)
+-   [Benchmarking AI on Different Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-ai-on-different-data-formats) (Ghostwriting)
 
 ## Bright Data x Private Proxy Reviews
 -   [How To Generate Random IPs for Web Scraping](https://www.privateproxyreviews.com/how-to-generate-random-ips-for-web-scraping/) (Ghostwriting)
