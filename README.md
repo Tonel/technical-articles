@@ -52,6 +52,7 @@
 -   [End-to-End Testing With TestCafe for Node.js](https://blog.appsignal.com/2025/03/05/end-to-end-testing-with-testcafe-for-nodejs.html)
 -   [An Introduction to JavaScript Bundler Rspack](https://blog.appsignal.com/2025/04/16/an-introduction-to-javascript-bundler-rspack.html)
 -   [How To Write Unit Tests in Node.js Using Mocha](https://blog.appsignal.com/2025/04/23/how-to-write-unit-tests-in-nodejs-using-mocha.html)
+-   [Performance and Stress Testing in Node.js](https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://dev.to/writech/improving-performance-with-sql-aggregate-functions-4p0h/)
