@@ -234,6 +234,8 @@
 -   [Create an SEO Rank Tracker with SERP API and v0](https://brightdata.com/blog/ai/seo-rank-tracker-with-v0)
 -   [Static vs Dynamic Content for Web Scraping: Main Differences](https://brightdata.com/blog/web-data/static-vs-dynamic-content)
 -   [Integrating Google ADK with an MCP Server for AI Agent Development](https://brightdata.com/blog/ai/google-adk-with-bright-data-mcp-server)
+-   [Enhancing CrewAI Agents Using SERP Scraping APIs via RAG](https://brightdata.com/blog/ai/crewai-with-serp-api)
+-   [Integrate Qwen-Agent with MCP to Build Agents with Live Data Access](https://brightdata.com/blog/ai/qwen-agent-with-bright-data-mcp-server)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -525,6 +527,8 @@
 -   [A Complete Guide to NOT EXISTS in SQL](https://www.dbvis.com/thetable/a-complete-guide-to-not-exists-in-sql/)
 -   [Check If A Table Exists in SQL: Multiple Approaches](https://www.dbvis.com/thetable/check-if-a-table-exists-in-sql-multiple-approaches/)
 -   [SQL Server Temp Table Mechanism: Complete Guide](https://www.dbvis.com/thetable/sql-server-temp-table-mechanism-complete-guide/)
+-   [What Is a Database Catalog?](https://www.dbvis.com/thetable/what-is-a-database-catalog/)
+-   [How Often Should SQL Transaction Logs Be Backed Up?](https://www.dbvis.com/thetable/how-often-should-sql-transaction-logs-be-backed-up/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
