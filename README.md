@@ -31,6 +31,7 @@
 -   [Why Apostrophe Is the Go-To CMS for Multilingual Content Management](https://apostrophecms.com/blog/why-apostrophe-is-the-go-to-cms-for-multilingual-content-management)
 -   [Best CMS for Agencies: Apostrophe as the Multisite CMS Leader](https://apostrophecms.com/blog/best-cms-for-agencies-apostrophe-multisite-cms-leader)
 -   [Strapi vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/strapi)
+-   [Payload vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-platforms-apostrophe-vs-payload)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
