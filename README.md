@@ -276,6 +276,7 @@
 -   [How We Are Supporting and Building AI for the Better](https://hackernoon.com/how-we-are-supporting-and-building-ai-for-the-better) (Ghostwriting)
 -   [MCP, A2A, AGP, ACP: Making Sense of the New AI Protocols](https://hackernoon.com/mcp-a2a-agp-acp-making-sense-of-the-new-ai-protocols) (Ghostwriting)
 -   [MCP + OpenAI Agents SDK: How to Build a Powerful AI Agent](https://hackernoon.com/mcp-openai-agents-sdk-how-to-build-a-powerful-ai-agent) (Ghostwriting)
+-   [Agentic AI and Agentic RAG: Hyped Buzzwords or Game-Changers?](https://hackernoon.com/agentic-ai-and-agentic-rag-hyped-buzzwords-or-game-changers) (Ghostwriting)
 
 ### Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
