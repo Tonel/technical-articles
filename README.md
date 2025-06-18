@@ -291,6 +291,7 @@
 -   [Get Updated US Trade Data for Tariff Calculations](https://www.kaggle.com/code/brightdataml/get-updated-us-trade-data-for-tariff-calculations) (Ghostwriting)
 -   [What Tools Should a Valid MCP Server Provide?](https://www.kaggle.com/discussions/questions-and-answers/578926) (Ghostwriting)
 -   [Benchmarking AI on Different Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-ai-on-different-data-formats) (Ghostwriting)
+-   [Benchmarking RAG Workflows on Various Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-rag-workflows-on-various-data-formats) (Ghostwriting)
 
 ## Bright Data x Private Proxy Reviews
 -   [How To Generate Random IPs for Web Scraping](https://www.privateproxyreviews.com/how-to-generate-random-ips-for-web-scraping/) (Ghostwriting)
