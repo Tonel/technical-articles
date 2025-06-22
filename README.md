@@ -792,6 +792,7 @@
 -   [Scraping Historical Data From the Wayback Machine](https://substack.thewebscraping.club/p/scraping-wayback-machine)
 -   [Scraping Through Tor for Increased Anonymity](https://substack.thewebscraping.club/p/scraping-using-tor)
 -   [Dealing with Rate Limiting Using Exponential Backoff](https://substack.thewebscraping.club/p/rate-limit-scraping-exponential-backoff)
+-   [Automating LinkedIn Scraping Using Its Hidden APIs](https://substack.thewebscraping.club/p/scraping-linkedin-public-data)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
