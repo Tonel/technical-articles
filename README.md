@@ -539,6 +539,10 @@
 -   [SQL Server Temp Table Mechanism: Complete Guide](https://www.dbvis.com/thetable/sql-server-temp-table-mechanism-complete-guide/)
 -   [What Is a Database Catalog?](https://www.dbvis.com/thetable/what-is-a-database-catalog/)
 -   [How Often Should SQL Transaction Logs Be Backed Up?](https://www.dbvis.com/thetable/how-often-should-sql-transaction-logs-be-backed-up/)
+-   [pg_dumpall: How to Dump All Your PostgreSQL Databases](https://www.dbvis.com/thetable/pg_dumpall-how-to-dump-all-your-postgresql-databases/)
+-   [Postgres CREATE SCHEMA: A Complete Guide](https://www.dbvis.com/thetable/postgres-create-schema-a-complete-guide/)
+-   [Top Internal Tool Builders and Low-Code Platforms for SQL Apps in 2025](https://www.dbvis.com/thetable/top-internal-tool-builders-and-low-code-platforms-for-sql-apps-in-2025/)
+-   [PostgreSQL OID: A Guide on The Object Identifier Type](https://www.dbvis.com/thetable/postgresql-oid-a-guide-on-the-object-identifier-type/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
