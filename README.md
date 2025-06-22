@@ -237,6 +237,12 @@
 -   [Integrating Google ADK with an MCP Server for AI Agent Development](https://brightdata.com/blog/ai/google-adk-with-bright-data-mcp-server)
 -   [Enhancing CrewAI Agents Using SERP Scraping APIs via RAG](https://brightdata.com/blog/ai/crewai-with-serp-api)
 -   [Integrate Qwen-Agent with MCP to Build Agents with Live Data Access](https://brightdata.com/blog/ai/qwen-agent-with-bright-data-mcp-server)
+-   [A Complete Guide to Puppeteer Real Browser in 2025](https://brightdata.com/blog/web-data/puppeteer-real-browser)
+-   [What Is Agentic RAG? The New Frontier of RAG](https://brightdata.com/blog/ai/agentic-rag)
+-   [SSE vs Streamable HTTP: The Transport Technologies Behind MCP](https://brightdata.com/blog/ai/sse-vs-streamable-http)
+-   [How to Scrape Google AI Overviews: 2025 Tutorial](https://brightdata.com/blog/web-data/how-to-scrape-google-aio)
+-   [Using puppeteer-humanize for Web Scraping: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-puppeteer-humanize)
+-   [Use Dify to Build AI Agents with Data Retrieval Capabilities](https://brightdata.com/blog/ai/build-ai-agents-with-dify)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
