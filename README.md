@@ -686,13 +686,19 @@
 ### Docs
 -   [[Get Started] Node.js - Clone GitHub Project](https://img.ly/docs/cesdk/node/get-started/vanilla-clone-github-project-n1fe4a/) (Ghostwriting)
 -   [[Get Started] Clone GitHub React Project](https://img.ly/docs/cesdk/react/get-started/clone-github-project-j3234p/) (Ghostwriting)
+-   [[Get Started] New React Project without UI](https://img.ly/docs/cesdk/react/get-started/new-project-without-ui-h1f42n/) (Ghostwriting)
 -   [[Get Started] Clone GitHub Next.js Project](https://img.ly/docs/cesdk/react/get-started/nextjs/clone-github-project-m6567s/) (Ghostwriting)
+-   [[Get Started] New Next.js Project Without UI](https://img.ly/docs/cesdk/react/get-started/nextjs/new-project-without-ui-k4f45q/) (Ghostwriting)
 -   [[Get Started] Clone GitHub Angular Project](https://img.ly/docs/cesdk/angular/get-started/angular/clone-github-project-b1012h/) (Ghostwriting)
 -   [[Get Started] Clone GitHub Vue Project](https://img.ly/docs/cesdk/vue/get-started/clone-github-project-p9890v/) (Ghostwriting)
+-   [[Get Started] New Vue.js Project Without UI](https://img.ly/docs/cesdk/vue/get-started/new-project-without-ui-n7f18t/) (Ghostwriting) 
 -   [[Get Started] Clone GitHub Nuxt Project](https://img.ly/docs/cesdk/vue/get-started/vue/nuxt/clone-github-project-s2123y/) (Ghostwriting)
+-   [[Get Started] New Nuxt.js Project Without UI](https://img.ly/docs/cesdk/vue/get-started/nuxt/new-project-without-ui-q0e41w/) (Ghostwriting)
 -   [[Get Started] Clone GitHub Vanilla Svelte Project](https://img.ly/docs/cesdk/svelte/get-started/clone-github-project-v5456b/) (Ghostwriting)
+-   [[Get Started] New Svelte Project without UI](https://img.ly/docs/cesdk/svelte/get-started/svelte/new-project-without-ui-w6e27c/) (Ghostwriting)
 -   [[Get Started] Clone GitHub SvelteKit Project](https://img.ly/docs/cesdk/svelte/get-started/sveltekit/clone-github-project-y8789e/) (Ghostwriting)
--   [[Get Started] Clone GitHub Electron Project](https://img.ly/docs/cesdk/electron/get-started/electron/clone-github-project-e4345k/)  (Ghostwriting)  
+-   [[Get Started] New SvelteKit Project without UI](https://img.ly/docs/cesdk/svelte/get-started/sveltekit/new-project-without-ui-we2f7c/) (Ghostwriting)
+-   [[Get Started] Clone GitHub Electron Project](https://img.ly/docs/cesdk/electron/get-started/electron/clone-github-project-e4345k/) (Ghostwriting)  
 
 ## Incredibuild
 -  [How to build a successful test automation framework](https://www.incredibuild.com/blog/how-to-build-a-successful-test-automation-framework) (Ghostwriting)
