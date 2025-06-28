@@ -335,6 +335,7 @@
 -   [Digital partner vs web agency: quale scegliere e perchè](https://www.cantierecreativo.net/blog/digital-partner-vs-web-agency-quale-scegliere-e-perche) (Ghostwriting)
 -   [IA generativa nei CMS: il futuro della creazione dei contenuti](https://www.cantierecreativo.net/blog/ia-generativa-nei-cms-il-futuro-della-creazione-dei-contenuti)
 -   [European Accessibility Act 2025: Come mettersi in regola](https://www.cantierecreativo.net/blog/european-accessibility-act-2025-come-mettersi-in-regola)
+-   [Comunicazione digitale e marketing: tutto ciò che devi sapere](https://www.cantierecreativo.net/blog/comunicazione-digitale-e-marketing-tutto-cio-che-devi-sapere)
 
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://dev.to/writech/canvasxpress-vs-plotly-which-data-visualization-library-is-better-2e03)
