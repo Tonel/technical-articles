@@ -830,6 +830,7 @@
 -   [Scraping Through Tor for Increased Anonymity](https://substack.thewebscraping.club/p/scraping-using-tor)
 -   [Dealing with Rate Limiting Using Exponential Backoff](https://substack.thewebscraping.club/p/rate-limit-scraping-exponential-backoff)
 -   [Automating LinkedIn Scraping Using Its Hidden APIs](https://substack.thewebscraping.club/p/scraping-linkedin-public-data)
+-   [Managing Proxy Bans With Automated Retries](https://substack.thewebscraping.club/p/managing-proxy-bans-proxy-retries)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
