@@ -248,6 +248,7 @@
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
    
 ### Bright Data x GitHub
+-   [Python Web Scraping Guide](https://github.com/luminati-io/Python-web-scraping) (Ghostwriting)
 -   [PHP Proxy Server: How to Set Up Proxies in PHP](https://github.com/luminati-io/proxy-scrape-php) (Ghostwriting)
 -   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs) (Ghostwriting)
 -   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping) (Ghostwriting)
