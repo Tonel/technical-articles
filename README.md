@@ -313,7 +313,7 @@
 -   [Benchmarking RAG Workflows on Various Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-rag-workflows-on-various-data-formats) (Ghostwriting)
 -   [Benchmarking AI Agents on Different Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-ai-agents-on-different-data-formats) (Ghostwriting)
 
-## Bright Data x Private Proxy Reviews
+### Bright Data x Private Proxy Reviews
 -   [How To Generate Random IPs for Web Scraping](https://www.privateproxyreviews.com/how-to-generate-random-ips-for-web-scraping/) (Ghostwriting)
 -   [Top Scraping Tools for Large-Scale Data Extraction](https://www.privateproxyreviews.com/scraping-tools-for-large-scale-data-extraction/) (Ghostwriting)
    
@@ -558,6 +558,10 @@
 -   [Postgres CREATE SCHEMA: A Complete Guide](https://www.dbvis.com/thetable/postgres-create-schema-a-complete-guide/)
 -   [Top Internal Tool Builders and Low-Code Platforms for SQL Apps in 2025](https://www.dbvis.com/thetable/top-internal-tool-builders-and-low-code-platforms-for-sql-apps-in-2025/)
 -   [PostgreSQL OID: A Guide on The Object Identifier Type](https://www.dbvis.com/thetable/postgresql-oid-a-guide-on-the-object-identifier-type/)
+-   [Top Collaborative Data Modeling and Database Design Tools in 2025](https://www.dbvis.com/thetable/top-collaborative-data-modeling-and-database-design-tools-in-2025/)
+-   [Top Serverless SQL and NoSQL Database Platforms in 2025](https://www.dbvis.com/thetable/top-serverless-sql-and-nosql-database-platforms-in-2025/)
+-   [Top Cloud and Multi-Cloud Database Hosting Services in 2025](https://www.dbvis.com/thetable/top-cloud-and-multi-cloud-database-hosting-services-in-2025/)
+-   [SQL Order By Random Strategies and Queries](https://www.dbvis.com/thetable/sql-order-by-random-strategies-and-queries/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
@@ -698,7 +702,7 @@
 -   [A Modern JavaScript Video Editor: Integration Guide](https://img.ly/blog/a-modern-javascript-video-editor-integration-guide/)
 -   [How To: Video Generation With Javascript](https://img.ly/blog/how-to-video-generation-with-javascript/)
 
-### Docs
+### IMG.LY's Docs
 -   [[Get Started] Node.js - Clone GitHub Project](https://img.ly/docs/cesdk/node/get-started/vanilla-clone-github-project-n1fe4a/) (Ghostwriting)
 -   [[Get Started] Clone GitHub React Project](https://img.ly/docs/cesdk/react/get-started/clone-github-project-j3234p/) (Ghostwriting)
 -   [[Get Started] New React Project](https://img.ly/docs/cesdk/react/get-started/new-project-h1012n/) (Ghostwriting)
