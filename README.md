@@ -177,7 +177,6 @@
 -   [How To Create a RAG Chatbot With GPT-4o Using SERP Data](https://brightdata.com/blog/web-data/build-a-rag-chatbot)
 -   [How to Scrape Crunchbase With Python in 2024](https://brightdata.com/blog/web-data/how-to-scrape-crunchbase)
 -   [Google Ads Competitor Analysis Guide](https://brightdata.com/blog/web-data/google-ads-competitor-research)
--   [How to Scrape a Cloudflare-Protected Website](https://brightdata.com/blog/web-data/bypass-cloudflare-for-web-scraping)
 -   [Top 10 No-Code Web Scrapers of 2024](https://brightdata.com/blog/web-data/best-no-code-scrapers)
 -   [How to Scrape Google’s “People Also Ask” Section](https://brightdata.com/blog/web-data/how-to-scrape-people-also-ask)
 -   [Top Sources for Finding LLM Training Data](https://brightdata.com/blog/web-data/llm-training-data)
@@ -243,6 +242,18 @@
 -   [How to Scrape Google AI Overviews: 2025 Tutorial](https://brightdata.com/blog/web-data/how-to-scrape-google-aio)
 -   [Using puppeteer-humanize for Web Scraping: 2025 Guide](https://brightdata.com/blog/web-data/web-scraping-with-puppeteer-humanize)
 -   [Use Dify to Build AI Agents with Data Retrieval Capabilities](https://brightdata.com/blog/ai/build-ai-agents-with-dify)
+-   [The 10 Best Amazon Scrapers for 2025](https://brightdata.com/blog/web-data/best-amazon-scrapers)
+-   [How to Bypass CAPTCHAs in C# in 2025: 5 Approaches](https://brightdata.com/blog/web-data/bypass-captchas-c-sharp)
+-   [Web Scraping With Qwen3 in 2025: Complete Tutorial](https://brightdata.com/blog/ai/web-scraping-with-qwen3)
+-   [Declarative Web Scraping With Ferret in 2025](https://brightdata.com/blog/web-data/web-scraping-with-ferret)
+-   [Use LlamaIndex to Build AI Agents with Web Data Access](https://brightdata.com/blog/ai/build-ai-agents-with-llamaindex)
+-   [Using LlamaIndex and Bright Data for Web Search](https://brightdata.com/blog/ai/llamaindex-serp-scraping)
+-   [How to Perform Web Scraping in Agno With Bright Data](https://brightdata.com/blog/ai/web-scraping-with-agno-and-bright-data)
+-   [Build AI Agents with Scraping Capabilities in xpander.ai](https://brightdata.com/blog/ai/build-ai-agents-with-xpander-and-bright-data)
+-   [Build AI Agents with Bright Data in Agno](https://brightdata.com/blog/ai/build-ai-agents-in-agno-with-bright-data)
+-   [How to Bypass Cloudflare in 2025: Top Methods](https://brightdata.com/blog/web-data/bypass-cloudflare)
+-   [Build AI Agents with Pica and Bright Data](https://brightdata.com/blog/ai/ai-agents-with-pica-and-bright-data)
+-   [Proxycurl Alternatives for LinkedIn Scraping in 2025](https://brightdata.com/blog/web-data/proxycurl-alternatives)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -853,4 +864,5 @@
 -   [What is Application Detection and Response (ADR)?](https://www.wiz.io/academy/application-detection-and-response) (Ghostwriting)
 -   [8 Essential Code Review Best Practices](https://www.wiz.io/academy/code-review-best-practices) (Ghostwriting)
 -   [What is Code-to-Cloud Security?](https://www.wiz.io/academy/code-to-cloud-security) (Ghostwriting)
+-   [REST API security: Best practices, risks, and tools](https://www.wiz.io/academy/rest-api-security-best-practices) (Ghostwriting)
 
