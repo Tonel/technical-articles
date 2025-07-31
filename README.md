@@ -569,6 +569,8 @@
 -   [Top Serverless SQL and NoSQL Database Platforms in 2025](https://www.dbvis.com/thetable/top-serverless-sql-and-nosql-database-platforms-in-2025/)
 -   [Top Cloud and Multi-Cloud Database Hosting Services in 2025](https://www.dbvis.com/thetable/top-cloud-and-multi-cloud-database-hosting-services-in-2025/)
 -   [SQL Order By Random Strategies and Queries](https://www.dbvis.com/thetable/sql-order-by-random-strategies-and-queries/)
+-   [NewSQL: Everything You Need to Know](https://www.dbvis.com/thetable/newsql-everything-you-need-to-know/)
+-   [A Guide to the CREATE TEMPORARY TABLE SQL Statement](https://www.dbvis.com/thetable/a-guide-to-the-create-temporary-table-sql-statement/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
