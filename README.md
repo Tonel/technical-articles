@@ -255,6 +255,12 @@
 -   [How to Bypass Cloudflare in 2025: Top Methods](https://brightdata.com/blog/web-data/bypass-cloudflare)
 -   [Build AI Agents with Pica and Bright Data](https://brightdata.com/blog/ai/ai-agents-with-pica-and-bright-data)
 -   [Proxycurl Alternatives for LinkedIn Scraping in 2025](https://brightdata.com/blog/web-data/proxycurl-alternatives)
+-   [Top Bing Search API Alternatives: 2025 List](https://brightdata.com/blog/web-data/best-bing-search-apis)
+-   [The Best SERP and Web Search APIs of 2025](https://brightdata.com/blog/web-data/best-serp-apis)
+-   [https://brightdata.com/blog/ai/web-scraping-in-cline-with-bright-data](https://brightdata.com/blog/ai/web-scraping-in-cline-with-bright-data)
+-   [Web Scraping with ChatGPT in 2025: Step-By-Step Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-chatgpt)
+-   [Best SOCKS5 Proxy Providers of 2025: Definitive Comparison](https://brightdata.com/blog/proxy-101/best-socks5-proxies)
+-   [How to Build AI Apps with Web Data Access in Langflow](https://brightdata.com/blog/ai/apps-with-langflow-and-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
