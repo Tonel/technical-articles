@@ -857,6 +857,7 @@
 -   [Automating LinkedIn Scraping Using Its Hidden APIs](https://substack.thewebscraping.club/p/scraping-linkedin-public-data)
 -   [Managing Proxy Bans With Automated Retries](https://substack.thewebscraping.club/p/managing-proxy-bans-proxy-retries)
 -   [Handling Infinite Scrolling in Browser Automation Tools](https://substack.thewebscraping.club/p/handling-infinite-scrolling-python-js)
+-   [Bypassing reCAPTCHAs With Open Source and Commercial Tools — Part 2](https://substack.thewebscraping.club/p/bypassing-recaptchas-with-open-source)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
