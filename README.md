@@ -184,7 +184,6 @@
 -   [How To Split a Dataset Into Batches With Python](https://brightdata.com/blog/web-data/how-to-split-datasets)
 -   [How to Make Web Scraping Faster: A Complete Guide](https://brightdata.com/blog/web-data/speed-up-web-scraping)
 -   [How to Scrape Google Maps With Python](https://brightdata.com/blog/web-data/how-to-scrape-google-maps)
--   [How to Use Web Scraping for Machine Learning](https://brightdata.com/blog/web-data/web-scraping-for-machine-learning)
 -   [How To Scrape Booking.com With Python](https://brightdata.com/blog/web-data/how-to-scrape-booking)
 -   [How to Scrape News Articles With Python and AI](https://brightdata.com/blog/web-data/how-to-scrape-news-articles)
 -   [How to Scrape ZoomInfo With Python](https://brightdata.com/blog/web-data/how-to-scrape-zoominfo)
