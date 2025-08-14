@@ -10,6 +10,7 @@
 -   [How to scrape Google reviews (Python guide)](https://blog.apify.com/how-to-scrape-google-reviews/)
 -   [How to scrape Nasdaq stock market data in Python (2025)](https://blog.apify.com/scrape-nasdaq-stock-market-data-python/)
 -   [How to bypass Cloudflare (updated for 2025)](https://blog.apify.com/bypass-cloudflare/)
+-   [How to scrape Expedia with Python (2025 guide)](https://blog.apify.com/how-to-scrape-expedia-python/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -256,10 +257,15 @@
 -   [Proxycurl Alternatives for LinkedIn Scraping in 2025](https://brightdata.com/blog/web-data/proxycurl-alternatives)
 -   [Top Bing Search API Alternatives: 2025 List](https://brightdata.com/blog/web-data/best-bing-search-apis)
 -   [The Best SERP and Web Search APIs of 2025](https://brightdata.com/blog/web-data/best-serp-apis)
--   [https://brightdata.com/blog/ai/web-scraping-in-cline-with-bright-data](https://brightdata.com/blog/ai/web-scraping-in-cline-with-bright-data)
+-   [Web Scraping in Cline with Bright Data’s MCP Server](https://brightdata.com/blog/ai/web-scraping-in-cline-with-bright-data)
 -   [Web Scraping with ChatGPT in 2025: Step-By-Step Tutorial](https://brightdata.com/blog/web-data/web-scraping-with-chatgpt)
 -   [Best SOCKS5 Proxy Providers of 2025: Definitive Comparison](https://brightdata.com/blog/proxy-101/best-socks5-proxies)
 -   [How to Build AI Apps with Web Data Access in Langflow](https://brightdata.com/blog/ai/apps-with-langflow-and-bright-data)
+-   [Visual Web Scraping with GPT Vision: Complete Tutorial 2025](https://brightdata.com/blog/ai/web-scraping-with-gpt-vision)
+-   [Gemini CLI with Bright Data’s Web MCP Server](https://brightdata.com/blog/ai/gemini-cli-web-mcp)
+-   [Pydantic AI with Bright Data’s Web MCP for Agents with Data Access](https://brightdata.com/blog/ai/pydantic-ai-with-web-mcp)
+-   [OpenAI Codex CLI with the Bright Data Web MCP Server](https://brightdata.com/blog/ai/codex-cli-with-web-mcp)
+-   [Content Optimization for GEO with CrewAI and Bright Data](https://brightdata.com/blog/ai/geo-and-seo-ai-agent)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
