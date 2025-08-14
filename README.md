@@ -576,6 +576,10 @@
 -   [SQL Order By Random Strategies and Queries](https://www.dbvis.com/thetable/sql-order-by-random-strategies-and-queries/)
 -   [NewSQL: Everything You Need to Know](https://www.dbvis.com/thetable/newsql-everything-you-need-to-know/)
 -   [A Guide to the CREATE TEMPORARY TABLE SQL Statement](https://www.dbvis.com/thetable/a-guide-to-the-create-temporary-table-sql-statement/)
+-   [Oracle 23ai: What’s New? Everything You Need to Know at a Glance](https://www.dbvis.com/thetable/oracle-23ai-what%e2%80%99s-new-everything-you-need-to-know-at-a-glance/)
+-   [The SELECT INTO TEMP TABLE Mechanism in SQL](https://www.dbvis.com/thetable/the-select-into-temp-table-mechanism-in-sql/)
+-   [ISNULL vs COALESCE: Comparing NULL Handling Functions](https://www.dbvis.com/thetable/isnull-vs-coalesce-comparing-null-handling-functions/)
+-   [How Does LOAD DATA Work for MySQL?](https://www.dbvis.com/thetable/how-does-load-data-work-for-mysql/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
