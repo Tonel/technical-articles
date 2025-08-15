@@ -325,6 +325,9 @@
 -   [Benchmarking RAG Workflows on Various Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-rag-workflows-on-various-data-formats) (Ghostwriting)
 -   [Benchmarking AI Agents on Different Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-ai-agents-on-different-data-formats) (Ghostwriting)
 
+### Bright Data x LlamaIndex
+-   [Give AI Agents Web Access with Bright Data and LlamaIndex](https://www.llamaindex.ai/blog/give-ai-agents-web-access-with-bright-data-and-llamaindex) (Ghostwriting)
+
 ### Bright Data x Private Proxy Reviews
 -   [How To Generate Random IPs for Web Scraping](https://www.privateproxyreviews.com/how-to-generate-random-ips-for-web-scraping/) (Ghostwriting)
 -   [Top Scraping Tools for Large-Scale Data Extraction](https://www.privateproxyreviews.com/scraping-tools-for-large-scale-data-extraction/) (Ghostwriting)
