@@ -311,6 +311,9 @@
 -   [Inside the ReAct Design Pattern: How Modern AI Thinks and Acts](https://hackernoon.com/inside-the-react-design-pattern-how-modern-ai-thinks-and-acts) (Ghostwriting)
 -   [Playwright MCP Server Is Here: Let's Integrate It!](https://hackernoon.com/playwright-mcp-server-is-here-lets-integrate-it) (Ghostwriting)
 
+### Bright Data x Hugging Face
+-   [Building a Hugging Face AI Agent with Bright Data’s Web MCP Integration](https://huggingface.co/blog/BrightData/web-mcp-hugging-face-agent) (Ghostwriting)
+
 ### Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
 -   [What Are Your Favorite Data Sources for ML?](https://www.kaggle.com/discussions/questions-and-answers/560268) (Ghostwriting)
