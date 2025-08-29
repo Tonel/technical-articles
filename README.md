@@ -896,4 +896,5 @@
 -   [8 Essential Code Review Best Practices](https://www.wiz.io/academy/code-review-best-practices) (Ghostwriting)
 -   [What is Code-to-Cloud Security?](https://www.wiz.io/academy/code-to-cloud-security) (Ghostwriting)
 -   [REST API security: Best practices, risks, and tools](https://www.wiz.io/academy/rest-api-security-best-practices) (Ghostwriting)
+-   [API Security Checklist 2025: OWASP-Aligned, Code-to-Cloud Best Practices](https://www.wiz.io/academy/api-security-checklist) (Ghostwriting)
 
