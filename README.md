@@ -33,6 +33,7 @@
 -   [Best CMS for Agencies: Apostrophe as the Multisite CMS Leader](https://apostrophecms.com/blog/best-cms-for-agencies-apostrophe-multisite-cms-leader)
 -   [Strapi vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/strapi)
 -   [Payload vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-platforms-apostrophe-vs-payload)
+-   [WordPress vs ApostropheCMS: All You Need to Know](https://apostrophecms.com/blog/wordpress-vs-apostrophecms-all-you-need-to-know)
 
 ## AppSignal
 -   [An Introduction to Application Monitoring](https://blog.appsignal.com/2023/02/08/an-introduction-to-application-monitoring.html)
@@ -266,6 +267,12 @@
 -   [Pydantic AI with Bright Data’s Web MCP for Agents with Data Access](https://brightdata.com/blog/ai/pydantic-ai-with-web-mcp)
 -   [OpenAI Codex CLI with the Bright Data Web MCP Server](https://brightdata.com/blog/ai/codex-cli-with-web-mcp)
 -   [Content Optimization for GEO with CrewAI and Bright Data](https://brightdata.com/blog/ai/geo-and-seo-ai-agent)
+-   [Top Exa Alternatives for AI Web Search in 2025](https://brightdata.com/blog/ai/exa-alternatives)
+-   [Integrating Claude Code with Bright Data’s Web MCP](https://brightdata.com/blog/ai/claude-code-web-mcp)
+-   [Adding Bright Data’s Web MCP to Roo Code in Visual Studio Code](https://brightdata.com/blog/ai/roo-code-with-web-mcp)
+-   [Crush CLI with Bright Data’s Web MCP](https://brightdata.com/blog/ai/crush-cli-with-web-mcp)
+-   [opencode with the Bright Data Web MCP in Your CLI](https://brightdata.com/blog/ai/opencode-with-web-mcp)
+-   [Building a LinkedIn Job Hunting AI Assistant with Bright Data](https://brightdata.com/blog/ai/linkedin-job-hunting-agent)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
