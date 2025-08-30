@@ -593,6 +593,9 @@
 -   [The SELECT INTO TEMP TABLE Mechanism in SQL](https://www.dbvis.com/thetable/the-select-into-temp-table-mechanism-in-sql/)
 -   [ISNULL vs COALESCE: Comparing NULL Handling Functions](https://www.dbvis.com/thetable/isnull-vs-coalesce-comparing-null-handling-functions/)
 -   [How Does LOAD DATA Work for MySQL?](https://www.dbvis.com/thetable/how-does-load-data-work-for-mysql/)
+-   [SQL IS NOT NULL Condition: Definitive Guide](https://www.dbvis.com/thetable/sql-is-not-null-condition-definitive-guide/)
+-   [SQL Server SUBSTRING Function: A Complete Guide](https://www.dbvis.com/thetable/sql-server-substring-function-a-complete-guide/)
+-   [SQL Server Vector Data Type, Search, and Indexing](https://www.dbvis.com/thetable/sql-server-vector-data-type-search-and-indexing/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
