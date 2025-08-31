@@ -884,6 +884,7 @@
 -   [Handling Infinite Scrolling in Browser Automation Tools](https://substack.thewebscraping.club/p/handling-infinite-scrolling-python-js)
 -   [Bypassing reCAPTCHAs With Open Source and Commercial Tools — Part 2](https://substack.thewebscraping.club/p/bypassing-recaptchas-with-open-source)
 -   [Understanding the Nuances of Browser Fingerprinting](https://substack.thewebscraping.club/p/understanding-browser-fingerprint)
+-   [How to Scrape Booking.com in Python](https://substack.thewebscraping.club/p/scraping-booking-playwright)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
