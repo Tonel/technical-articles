@@ -11,6 +11,7 @@
 -   [How to scrape Nasdaq stock market data in Python (2025)](https://blog.apify.com/scrape-nasdaq-stock-market-data-python/)
 -   [How to bypass Cloudflare (updated for 2025)](https://blog.apify.com/bypass-cloudflare/)
 -   [How to scrape Expedia with Python (2025 guide)](https://blog.apify.com/how-to-scrape-expedia-python/)
+-   [Firecrawl vs. BeautifulSoup: Which is better for web scraping?](https://blog.apify.com/firecrawl-vs-beautifulsoup/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -273,6 +274,9 @@
 -   [Crush CLI with Bright Data’s Web MCP](https://brightdata.com/blog/ai/crush-cli-with-web-mcp)
 -   [opencode with the Bright Data Web MCP in Your CLI](https://brightdata.com/blog/ai/opencode-with-web-mcp)
 -   [Building a LinkedIn Job Hunting AI Assistant with Bright Data](https://brightdata.com/blog/ai/linkedin-job-hunting-agent)
+-   [Amazon Q Developer CLI with Bright Data’s Web MCP](https://brightdata.com/blog/ai/amazon-q-cli-with-web-mcp)
+-   [Build a Brand Reputation Monitoring Tool with Bright Data’s SDK](https://brightdata.com/blog/ai/brand-reputation-monitoring-workflow)
+-   [AI Workflow for SEO Analysis in Flyte with the Bright Data SDK](https://brightdata.com/blog/ai/flyte-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
