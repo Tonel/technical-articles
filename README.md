@@ -600,6 +600,8 @@
 -   [SQL IS NOT NULL Condition: Definitive Guide](https://www.dbvis.com/thetable/sql-is-not-null-condition-definitive-guide/)
 -   [SQL Server SUBSTRING Function: A Complete Guide](https://www.dbvis.com/thetable/sql-server-substring-function-a-complete-guide/)
 -   [SQL Server Vector Data Type, Search, and Indexing](https://www.dbvis.com/thetable/sql-server-vector-data-type-search-and-indexing/)
+-   [UUIDv7 in PostgreSQL 18: What You Need to Know](https://www.dbvis.com/thetable/uuidv7-in-postgresql-18-what-you-need-to-know/)
+-   [pgvectorscale: An Extension for Improved Vector Search in Postgres](https://www.dbvis.com/thetable/pgvectorscale-an-extension-for-improved-vector-search-in-postgres/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
