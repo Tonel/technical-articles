@@ -10,6 +10,8 @@
 -   [How to scrape Google reviews (Python guide)](https://blog.apify.com/how-to-scrape-google-reviews/)
 -   [How to scrape Nasdaq stock market data in Python (2025)](https://blog.apify.com/scrape-nasdaq-stock-market-data-python/)
 -   [How to bypass Cloudflare (updated for 2025)](https://blog.apify.com/bypass-cloudflare/)
+-   [How to scrape Instagram with Python and avoid getting blocked](https://blog.apify.com/scrape-instagram-python/)
+-   [How to scrape Facebook with Python (without getting blocked)](https://blog.apify.com/scrape-facebook-python/)
 -   [How to scrape Expedia with Python (2025 guide)](https://blog.apify.com/how-to-scrape-expedia-python/)
 -   [Firecrawl vs. BeautifulSoup: Which is better for web scraping?](https://blog.apify.com/firecrawl-vs-beautifulsoup/)
 
