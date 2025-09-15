@@ -324,6 +324,7 @@
 
 ### Bright Data x Hugging Face
 -   [Building a Hugging Face AI Agent with Bright Data’s Web MCP Integration](https://huggingface.co/blog/BrightData/web-mcp-hugging-face-agent) (Ghostwriting)
+-   [How to Build an AI Scraper Powered by Hugging Face and Bright Data](https://huggingface.co/blog/BrightData/hugging-face-ai-scraper) (Ghostwriting)
 
 ### Bright Data x Kaggle
 -   [Data Harvesting: Overcoming Key Challenges](https://www.kaggle.com/code/brightdataml/data-harvesting-overcoming-key-challenges) (Ghostwriting)
