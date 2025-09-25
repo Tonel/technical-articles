@@ -280,6 +280,8 @@
 -   [Amazon Q Developer CLI with Bright Data’s Web MCP](https://brightdata.com/blog/ai/amazon-q-cli-with-web-mcp)
 -   [Build a Brand Reputation Monitoring Tool with Bright Data’s SDK](https://brightdata.com/blog/ai/brand-reputation-monitoring-workflow)
 -   [AI Workflow for SEO Analysis in Flyte with the Bright Data SDK](https://brightdata.com/blog/ai/flyte-with-bright-data)
+-   [Querying Bright Data Datasets via Databricks API, SQL Connector, and CLI](https://brightdata.com/blog/web-data/datasets-via-databricks)
+-   [Google Gen AI SDK with Bright Data Web MCP](https://brightdata.com/blog/ai/google-gen-ai-sdk-with-web-mcp)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
