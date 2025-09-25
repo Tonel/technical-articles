@@ -608,6 +608,10 @@
 -   [SQL Server Vector Data Type, Search, and Indexing](https://www.dbvis.com/thetable/sql-server-vector-data-type-search-and-indexing/)
 -   [UUIDv7 in PostgreSQL 18: What You Need to Know](https://www.dbvis.com/thetable/uuidv7-in-postgresql-18-what-you-need-to-know/)
 -   [pgvectorscale: An Extension for Improved Vector Search in Postgres](https://www.dbvis.com/thetable/pgvectorscale-an-extension-for-improved-vector-search-in-postgres/)
+-   [JSON_EXTRACT MySQL Function: Complete Guide](https://www.dbvis.com/thetable/json_extract-mysql-function-complete-guide/)
+-   [Postgres List Schemas: 3 Different Approaches](https://www.dbvis.com/thetable/postgres-list-schemas-3-different-approaches/)
+-   [Best Database Tools for Developers: Ultimate List](https://www.dbvis.com/thetable/best-database-tools-for-developers-ultimate-list/)
+-   [SQL Boolean Type: How to Use It in All Major Relational Databases](https://www.dbvis.com/thetable/sql-boolean-type-how-to-use-it-in-all-major-relational-databases/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
