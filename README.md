@@ -904,6 +904,7 @@
 -   [Understanding the Nuances of Browser Fingerprinting](https://substack.thewebscraping.club/p/understanding-browser-fingerprint)
 -   [How to Scrape Booking.com in Python](https://substack.thewebscraping.club/p/scraping-booking-playwright)
 -   [Understanding the Role of the X-Forwarded-For Header in Proxies](https://substack.thewebscraping.club/p/x-forwarded-for-header-proxies)
+-   [Using Internal API Calls for Web Scraping More Efficiently](https://substack.thewebscraping.club/p/apis-in-web-scraping)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
