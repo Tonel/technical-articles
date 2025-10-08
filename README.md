@@ -390,6 +390,9 @@
 ## CanvasXpress
 -   [CanvasXpress vs. Plotly: Which Data Visualization Library Is Better?](https://dev.to/writech/canvasxpress-vs-plotly-which-data-visualization-library-is-better-2e03)
 
+## CapMonster Cloud
+-   [CapMonster Cloud Review: The All-in-One CAPTCHA Solving Service](https://dev.to/antozanini/capmonster-cloud-review-the-all-in-one-captcha-solving-service-58mb)
+
 ## Codemotion
 -   [How to Create an MDX Blog in TypeScript With Next.js](https://www.codemotion.com/magazine/frontend/how-to-create-an-mdx-blog-in-typescript-with-next-js/)
 -   [How to Create a Multilingual Site in Next.js With next-i18next](https://www.codemotion.com/magazine/frontend/multilingual-site-in-next-js-with-next-i18next/)
