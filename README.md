@@ -282,6 +282,13 @@
 -   [AI Workflow for SEO Analysis in Flyte with the Bright Data SDK](https://brightdata.com/blog/ai/flyte-with-bright-data)
 -   [Querying Bright Data Datasets via Databricks API, SQL Connector, and CLI](https://brightdata.com/blog/web-data/datasets-via-databricks)
 -   [Google Gen AI SDK with Bright Data Web MCP](https://brightdata.com/blog/ai/google-gen-ai-sdk-with-web-mcp)
+-   [How to Scrape DuckDuckGo SERP Data: 4 Effective Approaches](https://brightdata.com/blog/web-data/how-to-scrape-duckduckgo)
+-   [Data Validation vs Data Verification: What Is the Difference?](https://brightdata.com/blog/web-data/data-validation-vs-data-verification)
+-   [Bright Data’s Web MCP with AutoGen AgentChat and Studio](https://brightdata.com/blog/ai/autogen-agentchat-with-web-mcp)
+-   [Boost Your LobeChat Experience with Bright Data’s Web MCP Integration](https://brightdata.com/blog/ai/lobechat-with-web-mcp)
+-   [Making Bright Data Web Capabilities Available Through Pica MCP](https://brightdata.com/blog/ai/bright-data-with-pica-mcp)
+-   [Langchain MCP Adapters with Bright Data’s Web MCP](https://brightdata.com/blog/ai/langchain-mcp-adapters-with-web-mcp)
+-   [Build an Amazon Price Tracking App in Firebase Studio Powered by Bright Data](https://brightdata.com/blog/ai/amazon-price-tracking-app)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
