@@ -634,6 +634,10 @@
 -   [SQL Boolean Type: How to Use It in All Major Relational Databases](https://www.dbvis.com/thetable/sql-boolean-type-how-to-use-it-in-all-major-relational-databases/)
 -   [Top 5 DataGrip Alternatives of 2025: Complete Comparison](https://www.dbvis.com/thetable/top-5-datagrip-alternatives-of-2025-complete-comparison/)
 -   [Best SQL Clients for Developers: Complete List](https://www.dbvis.com/thetable/best-sql-clients-for-developers-complete-list/)
+-   [Top Database CI/CD and Schema Change Tools in 2025](https://www.dbvis.com/thetable/top-database-cicd-and-schema-change-tools-in-2025/)
+-   [Best Databases for Agentic RAG Scenarios](https://www.dbvis.com/thetable/best-databases-for-agentic-rag-scenarios/)
+-   [Best MCP Servers for Database Management of 2025](https://www.dbvis.com/thetable/best-mcp-servers-for-database-management-of-2025/)
+-   [MySQL LOCATE Function: Find Substring Position](https://www.dbvis.com/thetable/mysql-locate-function-find-substring-position/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
