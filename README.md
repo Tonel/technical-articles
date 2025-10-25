@@ -290,6 +290,12 @@
 -   [Making Bright Data Web Capabilities Available Through Pica MCP](https://brightdata.com/blog/ai/bright-data-with-pica-mcp)
 -   [Langchain MCP Adapters with Bright Data’s Web MCP](https://brightdata.com/blog/ai/langchain-mcp-adapters-with-web-mcp)
 -   [Build an Amazon Price Tracking App in Firebase Studio Powered by Bright Data](https://brightdata.com/blog/ai/amazon-price-tracking-app)
+-   [Integrating Bright Data’s Web MCP into LibreChat](https://brightdata.com/blog/ai/librechat-with-web-mcp)
+-   [Integrate Bright Data’s Web MCP into LM Studio](https://brightdata.com/blog/ai/lm-studio-with-web-mcp)
+-   [Integrate Bright Data’s Web MCP into smolagents](https://brightdata.com/blog/ai/smolagents-with-web-mcp)
+-   [Anthropic Web Fetch Tool vs Bright Data Web Data Tools](https://brightdata.com/blog/ai/anthropic-web-fetch-tool-vs-bright-data)
+-   [Extending Cursor AI Capabilities via Bright Data Web MCP](https://brightdata.com/blog/ai/cursor-ai-with-web-mcp)
+-   [Web Scraping Roadmap: Steps, Methods, Tools](https://brightdata.com/blog/web-data/web-scraping-roadmap)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
