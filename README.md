@@ -15,6 +15,7 @@
 -   [How to scrape Expedia with Python (2025 guide)](https://blog.apify.com/how-to-scrape-expedia-python/)
 -   [Firecrawl vs. BeautifulSoup: Which is better for web scraping?](https://blog.apify.com/firecrawl-vs-beautifulsoup/)
 -   [How to scrape Amazon product data using Python (+ no-code)](https://blog.apify.com/scrape-amazon-product-data/)
+-   [Google dorking/hacking: What is it and how to use it?](https://blog.apify.com/google-dorking/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
