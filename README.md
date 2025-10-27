@@ -930,6 +930,7 @@
 -   [Understanding the Role of the X-Forwarded-For Header in Proxies](https://substack.thewebscraping.club/p/x-forwarded-for-header-proxies)
 -   [Using Internal API Calls for Web Scraping More Efficiently](https://substack.thewebscraping.club/p/apis-in-web-scraping)
 -   [Scrapling: A Complete Hands-On Guide](https://substack.thewebscraping.club/p/scrapling-hands-on-guide)
+-   [Offline Web Scraping: Download HTML Now, Parse Later](https://substack.thewebscraping.club/p/offline-web-scraping)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
