@@ -651,6 +651,7 @@
 -   [Best Databases for Agentic RAG Scenarios](https://www.dbvis.com/thetable/best-databases-for-agentic-rag-scenarios/)
 -   [Best MCP Servers for Database Management of 2025](https://www.dbvis.com/thetable/best-mcp-servers-for-database-management-of-2025/)
 -   [MySQL LOCATE Function: Find Substring Position](https://www.dbvis.com/thetable/mysql-locate-function-find-substring-position/)
+-   [Best DBeaver Alternatives of 2025](https://www.dbvis.com/thetable/best-dbeaver-alternatives-of-2025/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/writech/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
