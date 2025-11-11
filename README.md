@@ -16,6 +16,7 @@
 -   [Firecrawl vs. BeautifulSoup: Which is better for web scraping?](https://blog.apify.com/firecrawl-vs-beautifulsoup/)
 -   [How to scrape Amazon product data using Python (+ no-code)](https://blog.apify.com/scrape-amazon-product-data/)
 -   [Google dorking/hacking: What is it and how to use it?](https://blog.apify.com/google-dorking/)
+-   [How to monetize your API (and get new users)](https://blog.apify.com/how-to-monetize-api/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -296,6 +297,18 @@
 -   [Anthropic Web Fetch Tool vs Bright Data Web Data Tools](https://brightdata.com/blog/ai/anthropic-web-fetch-tool-vs-bright-data)
 -   [Extending Cursor AI Capabilities via Bright Data Web MCP](https://brightdata.com/blog/ai/cursor-ai-with-web-mcp)
 -   [Web Scraping Roadmap: Steps, Methods, Tools](https://brightdata.com/blog/web-data/web-scraping-roadmap)
+-   [Top 7 Job Posting Data Provider of 2025: Complete Comparison](https://brightdata.com/blog/web-data/best-job-posting-data-providers)
+-   [Best Employee Data Providers of 2025](https://brightdata.com/blog/web-data/best-employee-data-providers)
+-   [Integrate Bright Data’s Web MCP into a Semantic Kernel AI Agent](https://brightdata.com/blog/ai/semantic-kernel-ai-agents-with-web-mcp)
+-   [How to Scrape a Website to Markdown: 2025 Guide](https://brightdata.com/blog/web-data/scrape-websites-to-markdown)
+-   [Best Enterprise Proxy Services of 2025: Complete Comparison](https://brightdata.com/blog/proxy-101/best-enterprise-proxy-providers)
+-   [Integrate Bright Data APIs into Agent.ai for Smarter AI Agents](https://brightdata.com/blog/ai/agent-ai-with-bright-data)
+-   [Bright Data’s SERP API in Azure AI Foundry for Search-Powered Prompt Flows](https://brightdata.com/blog/ai/azure-ai-foundry-with-serp-api)
+-   [Give AWS Bedrock Agents the Ability to Search the Web via Bright Data SERP API](https://brightdata.com/blog/ai/aws-bedrock-with-serp-api)
+-   [How to Connect Ollama Models to Bright Data’s Web MCP](https://brightdata.com/blog/ai/ollama-with-web-mcp)
+-   [Integrating Bright Data’s Web Search into Vertex AI Pipelines](https://brightdata.com/blog/ai/vertex-ai-with-serp-api)
+-   [How to Scrape Baidu SERP Data: 3 Approaches](https://brightdata.com/blog/web-data/how-to-scrape-baidu)
+-   [Integrate Bright Data’s SERP API into an AI Agent in Microsoft Copilot Studio](https://brightdata.com/blog/ai/microsoft-copilot-studio-with-serp-api)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
