@@ -63,6 +63,7 @@
 -   [How To Write Unit Tests in Node.js Using Mocha](https://blog.appsignal.com/2025/04/23/how-to-write-unit-tests-in-nodejs-using-mocha.html)
 -   [Performance and Stress Testing in Node.js](https://blog.appsignal.com/2025/06/04/performance-and-stress-testing-in-nodejs.html)
 -   [Unit Testing in NestJS for Node Using Suites (Formerly Automock)](https://blog.appsignal.com/2025/07/30/unit-testing-in-nestjs-for-node-using-suites-formerly-automock.html)
+-   [Diving Into Reactive Programming in Node.js](https://blog.appsignal.com/2025/11/12/diving-into-reactive-programming-in-nodejs.html)
 
 ## Arctype
 -   [Improving performance with SQL aggregate functions](https://dev.to/writech/improving-performance-with-sql-aggregate-functions-4p0h/)
