@@ -312,6 +312,9 @@
 -   [Integrating Bright Data’s Web Search into Vertex AI Pipelines](https://brightdata.com/blog/ai/vertex-ai-with-serp-api)
 -   [How to Scrape Baidu SERP Data: 3 Approaches](https://brightdata.com/blog/web-data/how-to-scrape-baidu)
 -   [Integrate Bright Data’s SERP API into an AI Agent in Microsoft Copilot Studio](https://brightdata.com/blog/ai/microsoft-copilot-studio-with-serp-api)
+-   [Bedrock Agent in Python via AWS CDK with Bright Data’s SERP API](https://brightdata.com/blog/ai/aws-bedrock-with-serp-api)
+-   [Integrate Bright Data’s SERP API into an AI Agent in IBM watsonx](https://brightdata.com/blog/ai/ibm-watsonx-with-serp-api)
+-   [Connect Bright Data’s Web MCP to Copilot Studio for Enterprise AI Applications](https://brightdata.com/blog/ai/copilot-studio-with-web-mcp)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
