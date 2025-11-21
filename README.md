@@ -17,6 +17,8 @@
 -   [How to scrape Amazon product data using Python (+ no-code)](https://blog.apify.com/scrape-amazon-product-data/)
 -   [Google dorking/hacking: What is it and how to use it?](https://blog.apify.com/google-dorking/)
 -   [How to monetize your API (and get new users)](https://blog.apify.com/how-to-monetize-api/)
+-   [How to scrape Amazon prices with Python](https://blog.apify.com/scrape-amazon-prices-python/)
+-   [How to scrape Walmart data with Python](https://blog.apify.com/scrape-walmart-data-python/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
