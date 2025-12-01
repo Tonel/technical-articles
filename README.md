@@ -952,6 +952,7 @@
 -   [Scrapling: A Complete Hands-On Guide](https://substack.thewebscraping.club/p/scrapling-hands-on-guide)
 -   [Offline Web Scraping: Download HTML Now, Parse Later](https://substack.thewebscraping.club/p/offline-web-scraping)
 -   [Pydoll: WebDriver-Free Browser Automation in Python](https://substack.thewebscraping.club/p/pydoll-webdriver-scraping)
+-   [Faster Web Scraping with HTTP/3 Web Requests](https://substack.thewebscraping.club/p/faster-web-scraping-with-http3)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
