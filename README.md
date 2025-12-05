@@ -315,6 +315,9 @@
 -   [Bedrock Agent in Python via AWS CDK with Bright Data’s SERP API](https://brightdata.com/blog/ai/aws-bedrock-with-serp-api)
 -   [Integrate Bright Data’s SERP API into an AI Agent in IBM watsonx](https://brightdata.com/blog/ai/ibm-watsonx-with-serp-api)
 -   [Connect Bright Data’s Web MCP to Copilot Studio for Enterprise AI Applications](https://brightdata.com/blog/ai/copilot-studio-with-web-mcp)
+-   [Web Unblocker vs Scraping Browser: How to Pick the Right Tool](https://brightdata.com/blog/authors/antonello-zanini)
+-   [Using TensorFlow to Analyze Data Collected via Bright Data](https://brightdata.com/blog/web-data/using-tensorflow-analyze-bright-data)
+-   [Multi-Modal ML Pipelines Using PyTorch With Bright Data](https://brightdata.com/blog/ai/multi-modal-ml-pipelines-pytorch-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -658,6 +661,9 @@
 -   [Best MCP Servers for Database Management of 2025](https://www.dbvis.com/thetable/best-mcp-servers-for-database-management-of-2025/)
 -   [MySQL LOCATE Function: Find Substring Position](https://www.dbvis.com/thetable/mysql-locate-function-find-substring-position/)
 -   [Best DBeaver Alternatives of 2025](https://www.dbvis.com/thetable/best-dbeaver-alternatives-of-2025/)
+-   [SQL Server Agent: Everything You Need to Know](https://www.dbvis.com/thetable/sql-server-agent-everything-you-need-to-know/)
+-   [SQL String Functions: Everything You Need to Know](https://www.dbvis.com/thetable/sql-string-functions-everything-you-need-to-know/)
+-   [Top TablePlus Alternatives of 2025: Complete Comparison](https://www.dbvis.com/thetable/top-tableplus-alternatives-of-2025-complete-comparison/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
