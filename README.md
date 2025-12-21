@@ -673,6 +673,7 @@
 -   [SQL Server Agent: Everything You Need to Know](https://www.dbvis.com/thetable/sql-server-agent-everything-you-need-to-know/)
 -   [SQL String Functions: Everything You Need to Know](https://www.dbvis.com/thetable/sql-string-functions-everything-you-need-to-know/)
 -   [Top TablePlus Alternatives of 2025: Complete Comparison](https://www.dbvis.com/thetable/top-tableplus-alternatives-of-2025-complete-comparison/)
+-   [Top Navicat Alternatives of 2025 for Database Management](https://www.dbvis.com/thetable/top-navicat-alternatives-of-2025-for-database-management/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
