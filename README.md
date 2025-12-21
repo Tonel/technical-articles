@@ -319,6 +319,14 @@
 -   [Web Unblocker vs Scraping Browser: How to Pick the Right Tool](https://brightdata.com/blog/authors/antonello-zanini)
 -   [Using TensorFlow to Analyze Data Collected via Bright Data](https://brightdata.com/blog/web-data/using-tensorflow-analyze-bright-data)
 -   [Multi-Modal ML Pipelines Using PyTorch With Bright Data](https://brightdata.com/blog/ai/multi-modal-ml-pipelines-pytorch-bright-data)
+-   [Integrate Langfuse into a Bright Data–Powered AI Agent for Observability](https://brightdata.com/blog/ai/langfuse-with-bright-data)
+-   [Build Accessible Enterprise AI Voice Agents with LiveKit and Bright Data](https://brightdata.com/blog/ai/voice-agents-with-livekit-and-bright-data)
+-   [MCP for Enterprises: Challenges, Solutions, and Alternatives](https://brightdata.com/blog/ai/enterprise-mcp-server)
+-   [Connecting AnythingLLM to the Bright Data Web MCP Server](https://brightdata.com/blog/ai/anythingllm-with-web-mcp)
+-   [Integrating Bright Data into Haystack: Custom Tools and MCP](https://brightdata.com/blog/ai/haystack-with-bright-data)
+-   [Bright Data OpenAPI Specifications for Integration in AI as Tools](https://brightdata.com/blog/ai/bright-data-openapi-specs)
+-   [Integrate Bright Data with NVIDIA NeMo for Enterprise-Ready AI Applications](https://brightdata.com/blog/ai/nvidia-nemo-with-bright-data)
+-   [Integrating Bright Data with Zapier Agents to Power AI Teammates](https://brightdata.com/blog/ai/zapier-agents-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
