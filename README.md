@@ -969,6 +969,7 @@
 -   [Pydoll: WebDriver-Free Browser Automation in Python](https://substack.thewebscraping.club/p/pydoll-webdriver-scraping)
 -   [Faster Web Scraping with HTTP/3 Web Requests](https://substack.thewebscraping.club/p/faster-web-scraping-with-http3)
 -   [Build an AI Agent for Scraping and Analyzing Research Papers](https://substack.thewebscraping.club/p/build-an-ai-agent-for-scraping-papers)
+-   [Top 5 Approaches to Let Scrapers Adapt to Website Changes](https://substack.thewebscraping.club/p/5-approaches-make-scrapers-more-reliable)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
