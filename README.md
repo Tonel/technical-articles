@@ -327,6 +327,12 @@
 -   [Bright Data OpenAPI Specifications for Integration in AI as Tools](https://brightdata.com/blog/ai/bright-data-openapi-specs)
 -   [Integrate Bright Data with NVIDIA NeMo for Enterprise-Ready AI Applications](https://brightdata.com/blog/ai/nvidia-nemo-with-bright-data)
 -   [Integrating Bright Data with Zapier Agents to Power AI Teammates](https://brightdata.com/blog/ai/zapier-agents-with-bright-data)
+-   [Extend Microsoft TaskWeaver with Bright Data Plugins for Web Data Retrieval](https://brightdata.com/blog/ai/microsoft-taskweaver-with-bright-data)
+-   [Integrating Bright Data into an AG2 (AutoGen) Multi-Agent AI Architecture](https://brightdata.com/blog/ai/ag2-with-bright-data)
+-   [Integrating Bright Data into BabyAGI via Custom Functions](https://brightdata.com/blog/ai/babyagi-with-bright-data)
+-   [Best Firmographic Data Providers of 2026: Top 8 Solutions](https://brightdata.com/blog/web-data/best-firmographic-data-providers)
+-   [Best Alternative Data Providers of 2026: Complete Comparison](https://brightdata.com/blog/web-data/best-alternative-data-providers)
+-   [Best Amazon Data Providers of 2026: Complete Comparison](https://brightdata.com/blog/web-data/best-amazon-data-providers)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
