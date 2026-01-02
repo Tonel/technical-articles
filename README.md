@@ -20,6 +20,7 @@
 -   [How to scrape Amazon prices with Python](https://blog.apify.com/scrape-amazon-prices-python/)
 -   [How to scrape Walmart data with Python](https://blog.apify.com/scrape-walmart-data-python/)
 -   [SerpApi vs. Apify: Choose the best web scraping platform](https://blog.apify.com/serpapi-vs-apify/)
+-   [How to scrape idealista with Python](https://blog.apify.com/how-to-scrape-idealista-with-python/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
