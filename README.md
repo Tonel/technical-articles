@@ -995,4 +995,5 @@
 -   [What is Code-to-Cloud Security?](https://www.wiz.io/academy/code-to-cloud-security) (Ghostwriting)
 -   [REST API security: Best practices, risks, and tools](https://www.wiz.io/academy/rest-api-security-best-practices) (Ghostwriting)
 -   [API Security Checklist 2025: OWASP-Aligned, Code-to-Cloud Best Practices](https://www.wiz.io/academy/api-security-checklist) (Ghostwriting)
+-   [GraphQL API security risks every developer should know about](https://www.wiz.io/academy/api-security/graphql-api-security-risks) (Ghostwriting)
 
