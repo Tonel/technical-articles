@@ -22,7 +22,7 @@
 -   [SerpApi vs. Apify: Choose the best web scraping platform](https://blog.apify.com/serpapi-vs-apify/)
 -   [How to scrape idealista with Python](https://blog.apify.com/how-to-scrape-idealista-with-python/)
 -   [How to build an automated Facebook sentiment analysis workflow](https://blog.apify.com/facebook-sentiment-analysis/)
--   [State of web scraping report 2026](https://get.apify.com/hubfs/apify-state-of-web-scraping-report-2026.pdf) (only [Bot detection] and [AI scraping]) (Ghostwriting)
+-   [State of web scraping report 2026](https://get.apify.com/hubfs/apify-state-of-web-scraping-report-2026.pdf) (only "Bot detection" and "AI scraping" chapters) (Ghostwriting)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
