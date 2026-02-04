@@ -22,7 +22,7 @@
 -   [SerpApi vs. Apify: Choose the best web scraping platform](https://blog.apify.com/serpapi-vs-apify/)
 -   [How to scrape idealista with Python](https://blog.apify.com/how-to-scrape-idealista-with-python/)
 -   [How to build an automated Facebook sentiment analysis workflow](https://blog.apify.com/facebook-sentiment-analysis/)
--   [State of web scraping report 2026](https://get.apify.com/hubfs/apify-state-of-web-scraping-report-2026.pdf) (only "Bot detection" and "AI scraping" chapters) (Ghostwriting)
+-   [State of web scraping report 2026](https://get.apify.com/hubfs/apify-state-of-web-scraping-report-2026.pdf) (only the "Bot detection" and "AI scraping" chapters) (Ghostwriting)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -344,6 +344,13 @@
 -   [Bright Data Web MCP + Claude Skills for Complex AI Workflows](https://brightdata.com/blog/ai/claude-skills-with-web-mcp)
 -   [How to Build AI Agents: The Complete Roadmap](https://brightdata.com/blog/ai/ai-agents-roadmap)
 -   [Best Web Scraping Services of 2026: Head-to-Head Comparison](https://brightdata.com/blog/web-data/best-web-scraping-services)
+-   [Best Travel Data Providers of 2026: Head-to-Head Comparison](https://brightdata.com/blog/web-data/best-travel-data-providers)
+-   [Best Hotel Data Providers of 2026: Comparing the Top Solutions](https://brightdata.com/blog/web-data/best-hotel-data-providers)
+-   [Best Flight Data Providers of 2026: The Definitive Comparison](https://brightdata.com/blog/web-data/best-flight-data-providers)
+-   [Top Retail Data Providers of 2026: Evaluating the Best Options](https://brightdata.com/blog/web-data/best-retail-data-providers)
+-   [Bright Data vs Apify: Which Web Scraping Solution Is Better for You?](https://brightdata.com/blog/web-data/bright-data-vs-apify)
+-   [Using Bright Data’s Composio Connection for More Powerful AI Agents](https://brightdata.com/blog/ai/composio-with-bright-data)
+-   [Best Data-as-a-Service Companies of 2026: A Detailed Comparison](https://brightdata.com/blog/web-data/best-data-as-a-service-companies)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
