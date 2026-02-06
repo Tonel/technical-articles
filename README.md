@@ -361,7 +361,7 @@
 -   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs) (Ghostwriting)
 -   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping) (Ghostwriting)
 
-### Bright Data x Hackernoon
+### Bright Data x Hackernoon (Company)
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
 -   [Cracking the Code of Cloudflare Bypass](https://hackernoon.com/cracking-the-code-of-cloudflare-bypass) (Ghostwriting)
 -   [An Introduction to cURL: The Most Popular HTTP Client](https://hackernoon.com/an-introduction-to-curl-the-most-popular-http-client) (Ghostwriting)
@@ -397,6 +397,9 @@
 -   [Playwright MCP Server Is Here: Let's Integrate It!](https://hackernoon.com/playwright-mcp-server-is-here-lets-integrate-it) (Ghostwriting)
 -   [Need Web Data? Here Are the 3 Methods Everyone’s Using](https://hackernoon.com/need-web-data-here-are-the-3-methods-everyones-using) (Ghostwriting)
 -   [How to Build an AI Agent That Actually Handles Boring Tasks for You](https://hackernoon.com/how-to-build-an-ai-agent-that-actually-handles-boring-tasks-for-you) (Ghostwriting)
+
+### Bright Data x Hackernoon (Personal)
+-   [Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
 
 ### Bright Data x Hugging Face
 -   [Building a Hugging Face AI Agent with Bright Data’s Web MCP Integration](https://huggingface.co/blog/BrightData/web-mcp-hugging-face-agent) (Ghostwriting)
