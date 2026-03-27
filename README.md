@@ -369,6 +369,7 @@
 -   [Integrating Bright Data into AWS Glue ETL Jobs: A Step-by-Step Guide](https://brightdata.com/blog/web-data/aws-glue-etl-with-bright-data)
 -   [Agentic Workflows for Social Listening: A Complete Roadmap](https://brightdata.com/blog/ai/social-listening-agentic-workflows)
 -   [Building Reactive Applications with Convex and Real-Time Data from Bright Data](https://brightdata.com/blog/web-data/convex-with-bright-data)
+-   [Building an AI Agent in AutoGPT with Bright Data Integration](https://brightdata.com/blog/ai/autogpt-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
