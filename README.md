@@ -1028,6 +1028,7 @@
 -   [WebDriver vs Chrome DevTools Protocol (CDP) vs WebDriver BiDi: How We Control Browsers](https://substack.thewebscraping.club/p/webdriver-vs-cdp-vs-bidi)
 -   [Why LLM-Ready Scrapers Return Content in Markdown: A Deep Dive](https://substack.thewebscraping.club/p/why-scraping-return-markdown-llm-ai)
 -   [WebSocket Bot Detection Techniques and How to Bypass Them](https://substack.thewebscraping.club/p/websocket-bot-detection-scraping)
+-   [rayobrowse: A Hands-On Look at the Stealth Browser From Rayobyte](https://substack.thewebscraping.club/p/rayobrowse-browser-scraping)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
