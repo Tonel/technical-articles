@@ -371,6 +371,9 @@
 -   [Agentic Workflows for Social Listening: A Complete Roadmap](https://brightdata.com/blog/ai/social-listening-agentic-workflows)
 -   [Building Reactive Applications with Convex and Real-Time Data from Bright Data](https://brightdata.com/blog/web-data/convex-with-bright-data)
 -   [Building an AI Agent in AutoGPT with Bright Data Integration](https://brightdata.com/blog/ai/autogpt-with-bright-data)
+-   [Building an AI Voice Agent That Can Search the Web With Cartesia and Bright Data](https://brightdata.com/blog/ai/cartesia-with-bright-data)
+-   [Combine Ruflo and Bright Data for an Enterprise-Grade Agentic Coding Experience](https://brightdata.com/blog/ai/ruflo-with-bright-data)
+-   [Extend the OpenClaw AI Assistant with Web Access via the Bright Data Plugin](https://brightdata.com/blog/ai/openclaw-with-bright-data-plugin)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
