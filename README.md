@@ -445,6 +445,7 @@
 -   [Benchmarking RAG Workflows on Various Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-rag-workflows-on-various-data-formats) (Ghostwriting)
 -   [Benchmarking AI Agents on Different Data Formats](https://www.kaggle.com/code/brightdataml/benchmarking-ai-agents-on-different-data-formats) (Ghostwriting)
 -   [Benchmarking GPT-5 Models on Large Inputs](https://www.kaggle.com/code/brightdataml/benchmarking-gpt-5-models-on-large-inputs) (Ghostwriting)
+-   [Crunchbase Data Analysis for Client Prospecting](https://www.kaggle.com/code/brightdataml/crunchbase-data-analysis-for-client-prospecting/)
 
 ### Bright Data x LlamaIndex
 -   [Give AI Agents Web Access with Bright Data and LlamaIndex](https://www.llamaindex.ai/blog/give-ai-agents-web-access-with-bright-data-and-llamaindex) (Ghostwriting)
