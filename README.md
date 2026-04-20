@@ -1036,6 +1036,7 @@
 -   [Why LLM-Ready Scrapers Return Content in Markdown: A Deep Dive](https://substack.thewebscraping.club/p/why-scraping-return-markdown-llm-ai)
 -   [WebSocket Bot Detection Techniques and How to Bypass Them](https://substack.thewebscraping.club/p/websocket-bot-detection-scraping)
 -   [rayobrowse: A Hands-On Look at the Stealth Browser From Rayobyte](https://substack.thewebscraping.club/p/rayobrowse-browser-scraping)
+-   [The Trick to Scrape Next.js Websites in Seconds](https://substack.thewebscraping.club/p/scrape-nextjs-websites)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
