@@ -375,6 +375,9 @@
 -   [Building an AI Voice Agent That Can Search the Web With Cartesia and Bright Data](https://brightdata.com/blog/ai/cartesia-with-bright-data)
 -   [Combine Ruflo and Bright Data for an Enterprise-Grade Agentic Coding Experience](https://brightdata.com/blog/ai/ruflo-with-bright-data)
 -   [Extend the OpenClaw AI Assistant with Web Access via the Bright Data Plugin](https://brightdata.com/blog/ai/openclaw-with-bright-data-plugin)
+-   [Meet the Bright Data CLI: Extract Data and Interact with the Web from Your Terminal](https://brightdata.com/blog/ai/bright-data-cli) (Ghostwriting)
+-   [How to Give Mistral Vibe Access to the Web via Bright Data](https://brightdata.com/blog/ai/mistral-vibe-with-bright-data)
+-   [Filter a Crunchbase Dataset and Process It with AI for Prospecting New Clients](https://brightdata.com/blog/web-data/prospecting-new-clients-with-crunchbase-dataset)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
