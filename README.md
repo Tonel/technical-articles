@@ -25,6 +25,7 @@
 -   [State of web scraping report 2026](https://get.apify.com/hubfs/apify-state-of-web-scraping-report-2026.pdf) (only the "Bot detection" and "AI scraping" chapters) (Ghostwriting)
 -   [Instagram location scraping: complete guide](https://blog.apify.com/instagram-location-scraping/)
 -   [How to get Twitter data for sentiment analysis](https://blog.apify.com/twitter-sentiment-analysis/)
+-   [AI brand monitoring: How to track mentions in LLMs](https://blog.apify.com/ai-brand-monitoring/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
