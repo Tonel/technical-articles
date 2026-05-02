@@ -378,6 +378,7 @@
 -   [Meet the Bright Data CLI: Extract Data and Interact with the Web from Your Terminal](https://brightdata.com/blog/ai/bright-data-cli) (Ghostwriting)
 -   [How to Give Mistral Vibe Access to the Web via Bright Data](https://brightdata.com/blog/ai/mistral-vibe-with-bright-data)
 -   [Filter a Crunchbase Dataset and Process It with AI for Prospecting New Clients](https://brightdata.com/blog/web-data/prospecting-new-clients-with-crunchbase-dataset)
+-   [OpenFang Agent OS AI with Live Web via Bright Data Web MCP](https://brightdata.com/blog/ai/openfang-agent-os-with-web-mcp)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
