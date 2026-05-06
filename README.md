@@ -390,13 +390,7 @@
 -   [How to Use Proxy Servers in Node.js](https://github.com/luminati-io/proxy-scrape-nodejs) (Ghostwriting)
 -   [Awesome Web Scraping by Bright Data](https://github.com/luminati-io/awesome-web-scraping) (Ghostwriting)
 
-### Bright Data x Hackernoon (Bright Data Insights Account)  
--   [SERP Benchmarks: Success Rates and Latency at Scale](https://hackernoon.com/serp-benchmarks-success-rates-and-latency-at-scale) (Ghostwriting)
--   [Why AI Agents Must Discover New Sources, Not Just Rely on Cached Search](https://hackernoon.com/why-ai-agents-must-discover-new-sources-not-just-rely-on-cached-search) (Ghostwriting)
--   [Bright Data vs Oxylabs: Which Is Better According to Customers?](https://hackernoon.com/bright-data-vs-oxylabs-which-is-better-according-to-customers) (Ghostwriting)
--   [The Hidden Cost of Scraping Everything (and Why Datasets Win)](https://hackernoon.com/the-hidden-cost-of-scraping-everything-and-why-datasets-win) (Ghostwriting)
-
-### Bright Data x Hackernoon (Company Account)
+### Bright Data x Hackernoon (*Bright Data* Account)
 -   [How to Make the Most of Playwright After the Latest Updates](https://hackernoon.com/how-to-make-the-most-of-playwright-after-the-latest-updates) (Ghostwriting)
 -   [Cracking the Code of Cloudflare Bypass](https://hackernoon.com/cracking-the-code-of-cloudflare-bypass) (Ghostwriting)
 -   [An Introduction to cURL: The Most Popular HTTP Client](https://hackernoon.com/an-introduction-to-curl-the-most-popular-http-client) (Ghostwriting)
@@ -432,8 +426,15 @@
 -   [Playwright MCP Server Is Here: Let's Integrate It!](https://hackernoon.com/playwright-mcp-server-is-here-lets-integrate-it) (Ghostwriting)
 -   [Need Web Data? Here Are the 3 Methods Everyone’s Using](https://hackernoon.com/need-web-data-here-are-the-3-methods-everyones-using) (Ghostwriting)
 -   [How to Build an AI Agent That Actually Handles Boring Tasks for You](https://hackernoon.com/how-to-build-an-ai-agent-that-actually-handles-boring-tasks-for-you) (Ghostwriting)
+-   [I Taught My OpenClaw Assistant to Search and Browse the Web](https://hackernoon.com/i-taught-my-openclaw-assistant-to-search-and-browse-the-web) (Ghostwriting)
 
-### Bright Data x Hackernoon (Personal)
+### Bright Data x Hackernoon (*Bright Data Insights* Account)  
+-   [SERP Benchmarks: Success Rates and Latency at Scale](https://hackernoon.com/serp-benchmarks-success-rates-and-latency-at-scale) (Ghostwriting)
+-   [Why AI Agents Must Discover New Sources, Not Just Rely on Cached Search](https://hackernoon.com/why-ai-agents-must-discover-new-sources-not-just-rely-on-cached-search) (Ghostwriting)
+-   [Bright Data vs Oxylabs: Which Is Better According to Customers?](https://hackernoon.com/bright-data-vs-oxylabs-which-is-better-according-to-customers) (Ghostwriting)
+-   [The Hidden Cost of Scraping Everything (and Why Datasets Win)](https://hackernoon.com/the-hidden-cost-of-scraping-everything-and-why-datasets-win) (Ghostwriting)
+
+### Bright Data x Hackernoon (Personal Account)
 -   [Search and Extract: Why This AI Pattern Matters, Tutorial, and Example](https://hackernoon.com/search-and-extract-why-this-ai-pattern-matters-tutorial-and-example)
 -   [Why Agents Stall in Production: When Real-Time Retrieval Meets Reality](https://hackernoon.com/why-agents-stall-in-production-when-real-time-retrieval-meets-reality)
 
