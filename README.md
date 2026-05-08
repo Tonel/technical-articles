@@ -985,6 +985,9 @@
 -   [Fixing Cypress cross-origin errors](https://reflect.run/articles/fixing-cypress-cross-origin-errors/) (only [Cross-domain testing made easy with Reflect](https://reflect.run/articles/fixing-cypress-cross-origin-errors/#cross-domain-testing-made-easy-with-reflect))
 -   [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) (only [Test Shadow DOM elements with no code in Reflect](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/#test-shadow-dom-elements-with-no-code-in-reflect))
 
+## Scrape.do
+-   [Complete X/Twitter Scraping Guide for 2026: Tweets, Profile Info, Trending Topics](https://scrape.do/blog/twitter-x-scraping/)
+
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
 -   [Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
