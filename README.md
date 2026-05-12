@@ -465,7 +465,11 @@
 ### Bright Data x Private Proxy Reviews
 -   [How To Generate Random IPs for Web Scraping](https://www.privateproxyreviews.com/how-to-generate-random-ips-for-web-scraping/) (Ghostwriting)
 -   [Top Scraping Tools for Large-Scale Data Extraction](https://www.privateproxyreviews.com/scraping-tools-for-large-scale-data-extraction/) (Ghostwriting)
-   
+
+### Bright Data x Sourceforge
+- [Job Data Providers & APIs 2026 Breakdown: Which Is the Best?](https://sourceforge.net/articles/job-data-providers-apis-2026-breakdown-which-is-the-best/) (Ghostwriting)
+- [Datasets + MCP: How to Power AI Agents with Real-Time Web Data](https://sourceforge.net/articles/datasets-mcp-how-to-power-ai-agents-with-real-time-web-data/) (Ghostwriting)
+
 ### Bright Data x Techjury
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
 -   [How to Crawl a Site Without Getting Blocked?](https://techjury.net/blog/how-to-crawl-a-site-without-getting-blocked/)
