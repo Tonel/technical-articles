@@ -957,6 +957,9 @@
 -   [You Do Not Need to Code for Data Collection](https://dev.to/antozanini/you-do-not-need-to-code-for-data-collection-3n9k)
 -   [How To Scrape Amazon Product Data Without Coding](https://dev.to/antozanini/how-to-scrape-amazon-product-data-without-coding-4ph1)   
 
+## Oligo Security
+-   [Runtime Security for Java: From Visibility to Active Defense](https://www.oligo.security/blog/runtime-security-for-java-from-visibility-to-active-defense) (Ghostwriting)
+
 ## OpenReplay
 -   [How To Read And Write JSON In JavaScript](https://blog.openreplay.com/how-to-read-and-write-json-in-javascript/)
 -   [How To Cancel Requests In Axios](https://blog.openreplay.com/how-to-cancel-requests-in-axios/)
