@@ -1061,6 +1061,7 @@
 -   [rayobrowse: A Hands-On Look at the Stealth Browser From Rayobyte](https://substack.thewebscraping.club/p/rayobrowse-browser-scraping)
 -   [The Trick to Scrape Next.js Websites in Seconds](https://substack.thewebscraping.club/p/scrape-nextjs-websites)
 -   [Cloudflare Crawl Endpoint: Everything You Need to Know](https://substack.thewebscraping.club/p/cloudflare-crawl-endpoint-for-scraping)
+-   [Using Web Scraping in Finance to Discover Investment Insights](https://substack.thewebscraping.club/p/web-scraping-in-finance)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
