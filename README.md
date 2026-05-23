@@ -1090,4 +1090,5 @@
 -   [REST API security: Best practices, risks, and tools](https://www.wiz.io/academy/rest-api-security-best-practices) (Ghostwriting)
 -   [API Security Checklist 2025: OWASP-Aligned, Code-to-Cloud Best Practices](https://www.wiz.io/academy/api-security-checklist) (Ghostwriting)
 -   [GraphQL API security risks every developer should know about](https://www.wiz.io/academy/api-security/graphql-api-security-risks) (Ghostwriting)
+-   [Exposure Management Best Practices Cheat Sheet](https://www.wiz.io/lp/exposure-management-best-practices-cheat-sheet) (Ghostwriting)
 
