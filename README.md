@@ -381,6 +381,16 @@
 -   [How to Give Mistral Vibe Access to the Web via Bright Data](https://brightdata.com/blog/ai/mistral-vibe-with-bright-data)
 -   [Filter a Crunchbase Dataset and Process It with AI for Prospecting New Clients](https://brightdata.com/blog/web-data/prospecting-new-clients-with-crunchbase-dataset)
 -   [OpenFang Agent OS AI with Live Web via Bright Data Web MCP](https://brightdata.com/blog/ai/openfang-agent-os-with-web-mcp)
+-   [Integrate ZeroClaw With Bright Data for a Web-Aware AI Assistant](https://brightdata.com/blog/ai/zeroclaw-with-web-mcp)
+-   [Giving the Google Antigravity Agent Access to the Web via Bright Data Web MCP](https://brightdata.com/blog/ai/google-antigravity-with-web-mcp)
+-   [Give Zencoder Access to the Web with Bright Data (MCP + Skills)](https://brightdata.com/blog/ai/zencoder-with-web-mcp)
+-   [The Definitive Guide to Akamai Bot Detection Bypass](https://brightdata.com/blog/web-data/bypass-akamai-bot-detection)
+-   [Giving Your Onyx AI Assistant Web Access with Bright Data](https://brightdata.com/blog/ai/onyx-with-web-mcp)
+-   [Use Forge Code with Bright Data’s MCP for Enhanced AI Terminal Development](https://brightdata.com/blog/ai/forge-code-with-web-mcp)
+-   [Best Search Tools for AI Agents: Top Approaches and Providers](https://brightdata.com/blog/ai/best-search-tools-for-ai-agents)
+-   [Boost GitHub Copilot CLI with Real-Time Web Access Through Bright Data](https://brightdata.com/blog/ai/github-copilot-cli-with-bright-data)
+-   [Giving Qwen Code Access to the Web Through Bright Data](https://brightdata.com/blog/ai/qwen-code-with-bright-data)
+-   [Integrate Mastra with Bright Data for Web-Aware AI Agents](https://brightdata.com/blog/ai/mastra-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
