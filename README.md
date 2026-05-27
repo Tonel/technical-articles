@@ -28,6 +28,7 @@
 -   [AI brand monitoring: How to track mentions in LLMs](https://blog.apify.com/ai-brand-monitoring/)
 -   [The top 10 competitive intelligence tools for 2026](https://blog.apify.com/best-competitive-intelligence-tools/)
 -   [Browserbase vs. Nextbrowser for cloud-based browser automation](https://blog.apify.com/browserbase-vs-nextbrowser/)
+-   [Top 9 Nextbrowser alternatives after its shutdown](https://blog.apify.com/best-nextbrowser-alternatives/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
