@@ -392,6 +392,14 @@
 -   [Boost GitHub Copilot CLI with Real-Time Web Access Through Bright Data](https://brightdata.com/blog/ai/github-copilot-cli-with-bright-data)
 -   [Giving Qwen Code Access to the Web Through Bright Data](https://brightdata.com/blog/ai/qwen-code-with-bright-data)
 -   [Integrate Mastra with Bright Data for Web-Aware AI Agents](https://brightdata.com/blog/ai/mastra-with-bright-data)
+-   [Connecting Salesforce Agentforce Vibes with Bright Data Web MCP](https://brightdata.com/blog/ai/salesforce-agentforce-vibes-with-bright-data)
+-   [Using Arcade to Access Bright Data Web Tools via MCP in Production AI Agents](https://brightdata.com/blog/ai/arcade-with-bright-data)
+-   [Use Alteryx One to Build an Automated Web Data Analysis Workflow via Bright Data](https://brightdata.com/blog/web-data/alteryx-one-web-data-workflow)
+-   [Connect Dataiku AI Agents to the Web via Bright Data](https://brightdata.com/blog/ai/dataiku-ai-agents-with-bright-data)
+-   [Give Boomi AI Agents Web Data Exploration Capabilities with Bright Data](https://brightdata.com/blog/ai/boomi-ai-agents-with-bright-data)
+-   [CloakBrowser vs. Bright Data Browser API: A Full Comparison for Stealth Browser Automation](https://brightdata.com/blog/web-data/cloakbrowser-vs-bright-data)
+-   [Enhance Databricks Agent Bricks with Bright Data’s Web MCP](https://brightdata.com/blog/ai/databricks-agent-bricks-with-bright-data)
+-   [Give Snowflake Cortex Code CLI Access to the Web via Bright Data (MCP + Skills)](https://brightdata.com/blog/ai/snowflake-cortex-code-cli-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -762,6 +770,7 @@
 -   [dbForge Alternatives for SQL Management](https://www.dbvis.com/thetable/dbforge-alternatives-for-sql-management/)
 -   [Best DbGate Alternatives for SQL and NoSQL Management](https://www.dbvis.com/thetable/best-dbgate-alternatives-for-sql-and-nosql-management/)
 -   [Best SQL Clients for Startups in 2026: Complete Comparison](https://www.dbvis.com/thetable/best-sql-clients-for-startups-in-2026-complete-comparison/)
+-   [SQL DROP TABLE Statement: Everything You Need To Know](https://www.dbvis.com/thetable/sql-drop-table-statement-everything-you-need-to-know/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
@@ -1093,4 +1102,5 @@
 -   [API Security Checklist 2025: OWASP-Aligned, Code-to-Cloud Best Practices](https://www.wiz.io/academy/api-security-checklist) (Ghostwriting)
 -   [GraphQL API security risks every developer should know about](https://www.wiz.io/academy/api-security/graphql-api-security-risks) (Ghostwriting)
 -   [Exposure Management Best Practices Cheat Sheet](https://www.wiz.io/lp/exposure-management-best-practices-cheat-sheet) (Ghostwriting)
+-   [AI Supply Chain Security Best Practices Cheat Sheet](https://www.wiz.io/lp/ai-supply-chain-security-best-practices-cheat-sheet) (Ghostwriting)
 
