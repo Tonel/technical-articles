@@ -1083,6 +1083,7 @@
 -   [Cloudflare Crawl Endpoint: Everything You Need to Know](https://substack.thewebscraping.club/p/cloudflare-crawl-endpoint-for-scraping)
 -   [Using Web Scraping in Finance to Discover Investment Insights](https://substack.thewebscraping.club/p/web-scraping-in-finance)
 -   [Why and How to Build a Web Scraper with Rust in 2026](https://substack.thewebscraping.club/p/how-to-build-a-web-scraper-rust)
+-   [Kameleo Docker: Exploring the Docker-Based Anti-Detect Browser](https://substack.thewebscraping.club/p/kameleo-docker-exploring-the-docker)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
