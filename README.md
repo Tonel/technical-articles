@@ -29,6 +29,7 @@
 -   [The top 10 competitive intelligence tools for 2026](https://blog.apify.com/best-competitive-intelligence-tools/)
 -   [Browserbase vs. Nextbrowser for cloud-based browser automation](https://blog.apify.com/browserbase-vs-nextbrowser/)
 -   [Top 9 Nextbrowser alternatives after its shutdown](https://blog.apify.com/best-nextbrowser-alternatives/)
+-   [How to rank in ChatGPT by tracking citations: A practical guide to AI visibility](https://blog.apify.com/how-to-rank-in-chatgpt/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -400,6 +401,8 @@
 -   [CloakBrowser vs. Bright Data Browser API: A Full Comparison for Stealth Browser Automation](https://brightdata.com/blog/web-data/cloakbrowser-vs-bright-data)
 -   [Enhance Databricks Agent Bricks with Bright Data’s Web MCP](https://brightdata.com/blog/ai/databricks-agent-bricks-with-bright-data)
 -   [Give Snowflake Cortex Code CLI Access to the Web via Bright Data (MCP + Skills)](https://brightdata.com/blog/ai/snowflake-cortex-code-cli-with-bright-data)
+-   [Embodied AI in 2026: Everything You Need to Know](https://brightdata.com/blog/ai/embodied-ai)
+-   [Datasets or Web Scraping APIs: A Comparison with Examples and Use Cases](https://brightdata.com/blog/web-data/datasets-or-web-scraping-apis)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -771,6 +774,7 @@
 -   [Best DbGate Alternatives for SQL and NoSQL Management](https://www.dbvis.com/thetable/best-dbgate-alternatives-for-sql-and-nosql-management/)
 -   [Best SQL Clients for Startups in 2026: Complete Comparison](https://www.dbvis.com/thetable/best-sql-clients-for-startups-in-2026-complete-comparison/)
 -   [SQL DROP TABLE Statement: Everything You Need To Know](https://www.dbvis.com/thetable/sql-drop-table-statement-everything-you-need-to-know/)
+-   [INSERT INTO … SELECT Statement: What You Need to Know](https://www.dbvis.com/thetable/insert-into-%e2%80%a6-select-statement-what-you-need-to-know/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
