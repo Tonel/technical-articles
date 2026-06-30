@@ -404,6 +404,9 @@
 -   [Give Snowflake Cortex Code CLI Access to the Web via Bright Data (MCP + Skills)](https://brightdata.com/blog/ai/snowflake-cortex-code-cli-with-bright-data)
 -   [Embodied AI in 2026: Everything You Need to Know](https://brightdata.com/blog/ai/embodied-ai)
 -   [Datasets or Web Scraping APIs: A Comparison with Examples and Use Cases](https://brightdata.com/blog/web-data/datasets-or-web-scraping-apis)
+-   [Give Pi Agent the Tools to Explore and Interact with the Web via Bright Data Web MCP](https://brightdata.com/blog/ai/pi-agent-with-bright-data)
+-   [Build Enterprise-Ready Web AI Agents in Airia with Bright Data’s Web MCP](https://brightdata.com/blog/ai/airia-with-bright-data)
+-   [Build Automated Web Data Pipelines in Nexla Express with Bright Data’s Web MCP](https://brightdata.com/blog/ai/nexla-express-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
