@@ -30,6 +30,7 @@
 -   [Browserbase vs. Nextbrowser for cloud-based browser automation](https://blog.apify.com/browserbase-vs-nextbrowser/)
 -   [Top 9 Nextbrowser alternatives after its shutdown](https://blog.apify.com/best-nextbrowser-alternatives/)
 -   [How to rank in ChatGPT by tracking citations: A practical guide to AI visibility](https://blog.apify.com/how-to-rank-in-chatgpt/)
+-   [Automated market research: Build end-to-end workflows from one platform](https://blog.apify.com/market-research-automation/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
