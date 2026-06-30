@@ -1021,6 +1021,7 @@
 
 ## Scrape.do
 -   [Complete X/Twitter Scraping Guide for 2026: Tweets, Profile Info, Trending Topics](https://scrape.do/blog/twitter-x-scraping/)
+-   [Playwright MCP Deep Dive: The Ultimate Guide with Examples](https://scrape.do/blog/playwright-mcp/)
 
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
