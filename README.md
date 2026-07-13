@@ -1095,6 +1095,7 @@
 -   [Why and How to Build a Web Scraper with Rust in 2026](https://substack.thewebscraping.club/p/how-to-build-a-web-scraper-rust)
 -   [Kameleo Docker: Exploring the Docker-Based Anti-Detect Browser](https://substack.thewebscraping.club/p/kameleo-docker-exploring-the-docker)
 -   [Public Sector Meets Web Scraping: From Scraped Data to Public Value](https://substack.thewebscraping.club/p/public-sector-web-scraping-real-estate)
+-   [How CAPTCHAs Are Evolving to Fight AI-Powered Bots](https://substack.thewebscraping.club/p/how-captchas-are-evolving)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
