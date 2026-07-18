@@ -408,6 +408,14 @@
 -   [Give Pi Agent the Tools to Explore and Interact with the Web via Bright Data Web MCP](https://brightdata.com/blog/ai/pi-agent-with-bright-data)
 -   [Build Enterprise-Ready Web AI Agents in Airia with Bright Data’s Web MCP](https://brightdata.com/blog/ai/airia-with-bright-data)
 -   [Build Automated Web Data Pipelines in Nexla Express with Bright Data’s Web MCP](https://brightdata.com/blog/ai/nexla-express-with-bright-data)
+-   [How to Give Oracle Generative AI Agents Access to the Web with Bright Data](https://brightdata.com/blog/ai/oracle-ai-agents-with-bright-data)
+-   [How to Connect goose to Bright Data’s Web MCP](https://brightdata.com/blog/ai/goose-with-bright-data)
+-   [Using Bright Data Skills to Enhance AI Coding Agents with Web Data Access](https://brightdata.com/blog/ai/bright-data-skills-coding-agents)
+-   [Feature Engineering in Amazon SageMaker Using Web Data: Step-by-Step Tutorial](https://brightdata.com/blog/ai/sagemaker-feature-engineering-with-bright-data)
+-   [Integrate Stagehand with Bright Data’s Browser API for Scalable Cloud Browser Automation](https://brightdata.com/blog/web-data/stagehand-browser-api)
+-   [Synthetic Data vs Real Web Data for AI and ML Model Training](https://brightdata.com/blog/ai/synthetic-data-vs-real-web-data)
+-   [Integrating Bright Data into ToolJet for Live Monitoring Web Apps for Enterprises](https://brightdata.com/blog/ai/tooljet-with-bright-data)
+-   [Giving Aider Access to the Web with the Bright Data CLI](https://brightdata.com/blog/ai/aider-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
