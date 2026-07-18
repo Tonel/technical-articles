@@ -31,6 +31,7 @@
 -   [Top 9 Nextbrowser alternatives after its shutdown](https://blog.apify.com/best-nextbrowser-alternatives/)
 -   [How to rank in ChatGPT by tracking citations: A practical guide to AI visibility](https://blog.apify.com/how-to-rank-in-chatgpt/)
 -   [Automated market research: Build end-to-end workflows from one platform](https://blog.apify.com/market-research-automation/)
+-   [Alternative data for hedge funds: From raw web data to trading signals](https://blog.apify.com/alternative-data-for-hedge-funds/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
