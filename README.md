@@ -416,6 +416,12 @@
 -   [Synthetic Data vs Real Web Data for AI and ML Model Training](https://brightdata.com/blog/ai/synthetic-data-vs-real-web-data)
 -   [Integrating Bright Data into ToolJet for Live Monitoring Web Apps for Enterprises](https://brightdata.com/blog/ai/tooljet-with-bright-data)
 -   [Giving Aider Access to the Web with the Bright Data CLI](https://brightdata.com/blog/ai/aider-with-bright-data)
+-   [Give AstrBot the Ability to Interact With the Web Using Bright Data (MCP + Skills)](https://brightdata.com/blog/ai/astrbot-with-bright-data)
+-   [Giving Grok Build the Ability to Explore the Web Through Bright Data](https://brightdata.com/blog/ai/grok-build-with-bright-data)
+-   [Why Quantum AI Still Needs Scraped Web Data](https://brightdata.com/blog/ai/quantum-ai-still-needs-web-data)
+-   [Integrate MuleSoft Anypoint Platform with Bright Data MCP for Enterprise Web Access](https://brightdata.com/blog/ai/mulesoft-with-bright-data)
+-   [Enable Web Access in PromptQL via Bright Data’s MCP Integration](https://brightdata.com/blog/ai/promptql-with-bright-data)
+-   [Using Bright Data CLI with Claude Code, Codex CLI, and Other Local AI Agents](https://brightdata.com/blog/ai/bright-data-cli-with-top-coding-agents)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
