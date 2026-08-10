@@ -1114,6 +1114,7 @@
 -   [Public Sector Meets Web Scraping: From Scraped Data to Public Value](https://substack.thewebscraping.club/p/public-sector-web-scraping-real-estate)
 -   [How CAPTCHAs Are Evolving to Fight AI-Powered Bots](https://substack.thewebscraping.club/p/how-captchas-are-evolving)
 -   [Hands-On Guide to SearchApi's Web Search MCP Server](https://substack.thewebscraping.club/p/hands-on-guide-search-api)
+-   [Prepare Web Content and Documents for LLM Ingestion Using MarkItDown](https://substack.thewebscraping.club/p/markitdown-ai-markdown)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
