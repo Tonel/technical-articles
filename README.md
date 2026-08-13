@@ -425,6 +425,10 @@
 -   [Integrate MuleSoft Anypoint Platform with Bright Data MCP for Enterprise Web Access](https://brightdata.com/blog/ai/mulesoft-with-bright-data)
 -   [Enable Web Access in PromptQL via Bright Data’s MCP Integration](https://brightdata.com/blog/ai/promptql-with-bright-data)
 -   [Using Bright Data CLI with Claude Code, Codex CLI, and Other Local AI Agents](https://brightdata.com/blog/ai/bright-data-cli-with-top-coding-agents)
+-   [Add Enterprise-Ready Observability to Bright Data MCP via TrueFoundry](https://brightdata.com/blog/ai/truefoundry-with-bright-data)
+-   [Feeding Fresh Web Data to Workato Recipes with Bright Data APIs](https://brightdata.com/blog/ai/workato-recipes-with-bright-data)
+-   [Giving AionUi Access to the Web with Bright Data (Web MCP + Skills)](https://brightdata.com/blog/ai/aionui-with-bright-data)
+-   [Hermes Agent + Bright Data: Building the Definitive Web-Aware AI Assistant](https://brightdata.com/blog/ai/hermes-agent-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
