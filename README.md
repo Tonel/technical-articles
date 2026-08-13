@@ -33,6 +33,8 @@
 -   [Automated market research: Build end-to-end workflows from one platform](https://blog.apify.com/market-research-automation/)
 -   [Alternative data for hedge funds: From raw web data to trading signals](https://blog.apify.com/alternative-data-for-hedge-funds/)
 -   [How to build an automated Wayfair price tracker with Apify and n8n](https://blog.apify.com/wayfair-price-tracker-n8n/)
+-   [Best AI tools for content gap analysis: top 9 by category](https://blog.apify.com/ai-tools-for-content-gap-analysis/)
+-   [AI prospecting tools: beyond traditional sales intelligence](https://blog.apify.com/ai-prospecting-tools-for-sales/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
