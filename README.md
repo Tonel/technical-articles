@@ -1053,6 +1053,9 @@
 -   [Complete X/Twitter Scraping Guide for 2026: Tweets, Profile Info, Trending Topics](https://scrape.do/blog/twitter-x-scraping/)
 -   [Playwright MCP Deep Dive: The Ultimate Guide with Examples](https://scrape.do/blog/playwright-mcp/)
 
+## ScrapingBee
+-   [How to Scrape Algolia Search: The Hidden API Method](https://www.scrapingbee.com/blog/how-to-scrape-algolia-search/)
+
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
 -   [Why Your Backend in Node.JS Needs an API Layer and How to Build It](https://semaphoreci.com/blog/node-js-api-layer)
