@@ -429,6 +429,8 @@
 -   [Feeding Fresh Web Data to Workato Recipes with Bright Data APIs](https://brightdata.com/blog/ai/workato-recipes-with-bright-data)
 -   [Giving AionUi Access to the Web with Bright Data (Web MCP + Skills)](https://brightdata.com/blog/ai/aionui-with-bright-data)
 -   [Hermes Agent + Bright Data: Building the Definitive Web-Aware AI Assistant](https://brightdata.com/blog/ai/hermes-agent-with-bright-data)
+-   [Enterprise-Grade Web Data Access in DeerFlow with Bright Data](https://brightdata.com/blog/ai/deerflow-with-bright-data)
+-   [What Is an AI Harness, and How Does Bright Data Support It?](https://brightdata.com/blog/ai/what-is-an-ai-harness)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
