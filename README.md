@@ -1004,6 +1004,9 @@
 -   [Playwright Extra: extending Playwright with plugins](https://blog.logrocket.com/playwright-extra-extending-playwright-plugins/)
 -   [Using curl-impersonate in Node.js to avoid blocks](https://blog.logrocket.com/using-curl-impersonate-node-js-avoid-blocks/)
 
+## Medium
+-   [Playwright at Scale in 2026: Why “Stealth Plugins” Are No Longer the Solution](https://medium.com/codex/playwright-at-scale-in-2026-why-stealth-plugins-are-no-longer-the-solution-85b408d3ab5d)
+
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
 
