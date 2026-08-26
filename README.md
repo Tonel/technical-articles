@@ -431,6 +431,9 @@
 -   [Hermes Agent + Bright Data: Building the Definitive Web-Aware AI Assistant](https://brightdata.com/blog/ai/hermes-agent-with-bright-data)
 -   [Enterprise-Grade Web Data Access in DeerFlow with Bright Data](https://brightdata.com/blog/ai/deerflow-with-bright-data)
 -   [What Is an AI Harness, and How Does Bright Data Support It?](https://brightdata.com/blog/ai/what-is-an-ai-harness)
+-   [Gumloop AI Agents with Unstoppable Web Access via Bright Data’s Web MCP](https://brightdata.com/blog/ai/gumloop-ai-agents-with-bright-data)
+-   [Connect Your Paperclip Teams of AI Agents to the Web with Bright Data](https://brightdata.com/blog/ai/paperclip-with-bright-data)
+-   [Web Scraping with Kimi: Step-by-Step Guide](https://brightdata.com/blog/ai/web-scraping-with-kimi)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -1130,6 +1133,7 @@
 -   [How CAPTCHAs Are Evolving to Fight AI-Powered Bots](https://substack.thewebscraping.club/p/how-captchas-are-evolving)
 -   [Hands-On Guide to SearchApi's Web Search MCP Server](https://substack.thewebscraping.club/p/hands-on-guide-search-api)
 -   [Prepare Web Content and Documents for LLM Ingestion Using MarkItDown](https://substack.thewebscraping.club/p/markitdown-ai-markdown)
+-   [Exploring GoScrapy: A Go Alternative to Python's Scrapy](https://www.scraping.club/p/goscrapy-go-alternative-scrapy)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
