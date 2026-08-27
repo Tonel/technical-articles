@@ -811,6 +811,7 @@
 -   [SQL DROP TABLE Statement: Everything You Need To Know](https://www.dbvis.com/thetable/sql-drop-table-statement-everything-you-need-to-know/)
 -   [INSERT INTO … SELECT Statement: What You Need to Know](https://www.dbvis.com/thetable/insert-into-%e2%80%a6-select-statement-what-you-need-to-know/)
 -   [SQL Server Full-Text Search: A Practical Guide](https://www.dbvis.com/thetable/sql-server-full-text-search-a-practical-guide/)
+-   [What Is a Composite Key in SQL and When to Use It](https://www.dbvis.com/thetable/what-is-a-composite-key-in-sql-and-when-to-use-it/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
