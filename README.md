@@ -35,6 +35,8 @@
 -   [How to build an automated Wayfair price tracker with Apify and n8n](https://blog.apify.com/wayfair-price-tracker-n8n/)
 -   [Best AI tools for content gap analysis: top 9 by category](https://blog.apify.com/ai-tools-for-content-gap-analysis/)
 -   [AI prospecting tools: beyond traditional sales intelligence](https://blog.apify.com/ai-prospecting-tools-for-sales/)
+-   [15 best AI tools for e-commerce to automate and scale your business](https://blog.apify.com/ai-tools-for-e-commerce/)
+-   [Company data API: How to get Dun & Bradstreet data without the enterprise contract](https://blog.apify.com/dun-bradstreet-scraper-dnb-api/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
