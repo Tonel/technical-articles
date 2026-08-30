@@ -1013,6 +1013,7 @@
 ## Medium
 -   [Playwright at Scale in 2026: Why “Stealth Plugins” Are No Longer the Solution](https://medium.com/codex/playwright-at-scale-in-2026-why-stealth-plugins-are-no-longer-the-solution-85b408d3ab5d)
 -   [Google Goes AI-First: Tracking Mentions and Visibility in This New AI Search Era](https://medium.com/gitconnected/google-goes-ai-first-tracking-mentions-and-visibility-in-this-new-ai-search-era-5e3f084c324c)
+-   [Build a Production Web Scraper in 10 Minutes Without Infrastructure Hassle](https://medium.com/codex/build-a-production-web-scraper-in-10-minutes-without-infrastructure-hassle-2194b9e81c44)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
