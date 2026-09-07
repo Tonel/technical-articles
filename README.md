@@ -1139,6 +1139,7 @@
 -   [Hands-On Guide to SearchApi's Web Search MCP Server](https://www.scraping.club/p/hands-on-guide-search-api)
 -   [Prepare Web Content and Documents for LLM Ingestion Using MarkItDown](https://www.scraping.club/p/markitdown-ai-markdown)
 -   [Exploring GoScrapy: A Go Alternative to Python's Scrapy](https://www.scraping.club/p/goscrapy-go-alternative-scrapy)
+-   [The Impact of Chrome's New CPU Performance API on Web Scraping Detection](https://www.scraping.club/p/the-impact-of-chromes-new-cpu-performance-api)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
