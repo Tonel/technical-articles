@@ -1015,6 +1015,7 @@
 -   [Google Goes AI-First: Tracking Mentions and Visibility in This New AI Search Era](https://medium.com/gitconnected/google-goes-ai-first-tracking-mentions-and-visibility-in-this-new-ai-search-era-5e3f084c324c)
 -   [Build a Production Web Scraper in 10 Minutes Without Infrastructure Hassle](https://medium.com/codex/build-a-production-web-scraper-in-10-minutes-without-infrastructure-hassle-2194b9e81c44)
 -   [Managed Data Collection for AI Training: Why Teams Are Moving Beyond In-House Scraping](https://medium.com/gitconnected/managed-data-collection-for-ai-training-why-teams-are-moving-beyond-in-house-scraping-8499e7c0abb4)
+-   [Why a VLA Model for Autonomous Driving Works in China but Fails in Europe](https://levelup.gitconnected.com/why-a-vla-model-for-autonomous-driving-works-in-china-but-fails-in-europe-ec850cee4294)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
