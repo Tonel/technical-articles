@@ -1016,6 +1016,7 @@
 -   [Build a Production Web Scraper in 10 Minutes Without Infrastructure Hassle](https://medium.com/codex/build-a-production-web-scraper-in-10-minutes-without-infrastructure-hassle-2194b9e81c44)
 -   [Managed Data Collection for AI Training: Why Teams Are Moving Beyond In-House Scraping](https://medium.com/gitconnected/managed-data-collection-for-ai-training-why-teams-are-moving-beyond-in-house-scraping-8499e7c0abb4)
 -   [Why a VLA Model for Autonomous Driving Works in China but Fails in Europe](https://levelup.gitconnected.com/why-a-vla-model-for-autonomous-driving-works-in-china-but-fails-in-europe-ec850cee4294)
+-   [Model Tiering for VLA 2.0 Is a Data Problem, Not Just a Matter of TOPS](https://levelup.gitconnected.com/model-tiering-for-vla-2-0-is-a-data-problem-not-just-a-matter-of-tops-8720ef6a27f0)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
