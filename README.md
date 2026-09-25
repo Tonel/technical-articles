@@ -436,6 +436,12 @@
 -   [Gumloop AI Agents with Unstoppable Web Access via Bright Data’s Web MCP](https://brightdata.com/blog/ai/gumloop-ai-agents-with-bright-data)
 -   [Connect Your Paperclip Teams of AI Agents to the Web with Bright Data](https://brightdata.com/blog/ai/paperclip-with-bright-data)
 -   [Web Scraping with Kimi: Step-by-Step Guide](https://brightdata.com/blog/ai/web-scraping-with-kimi)
+-   [Multimodal Web Scraping with MiniMax](https://brightdata.com/blog/web-data/multimodal-web-scraping-with-minimax)
+-   [Production-Ready Web Access in OpenHuman Through the Bright Data CLI](https://brightdata.com/blog/ai/openhuman-with-bright-data)
+-   [Containers as a Service (CaaS): How to Use It for Web Data Pipelines and AI Agents](https://brightdata.com/blog/web-data/containers-as-a-service)
+-   [Web Scraping with GLM: Text and Visual Data Extraction](https://brightdata.com/blog/ai/web-scraping-with-glm)
+-   [Let chrome-devtools-mcp Control Cloud Anti-Detect Browsers](https://brightdata.com/blog/ai/chrome-devtools-mcp-with-bright-data)
+-   [Audio Web Scraping for AI Processing: A Complete Tutorial](https://brightdata.com/blog/web-data/audio-web-scraping)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
