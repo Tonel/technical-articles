@@ -818,6 +818,7 @@
 -   [INSERT INTO … SELECT Statement: What You Need to Know](https://www.dbvis.com/thetable/insert-into-%e2%80%a6-select-statement-what-you-need-to-know/)
 -   [SQL Server Full-Text Search: A Practical Guide](https://www.dbvis.com/thetable/sql-server-full-text-search-a-practical-guide/)
 -   [What Is a Composite Key in SQL and When to Use It](https://www.dbvis.com/thetable/what-is-a-composite-key-in-sql-and-when-to-use-it/)
+-   [Understanding and Using the MOD Function in SQL](https://www.dbvis.com/thetable/understanding-and-using-the-mod-function-in-sql/)
 
 ## Dev.to
 -   [Designing a Multi-Layered Architecture for Building RESTful Web Services With Spring Boot and Kotlin](https://dev.to/antozanini/designing-a-multi-layered-architecture-for-building-restful-web-services-with-spring-boot-and-kotlin-51l5)
@@ -1073,6 +1074,7 @@
 -   [Complete X/Twitter Scraping Guide for 2026: Tweets, Profile Info, Trending Topics](https://scrape.do/blog/twitter-x-scraping/)
 -   [Playwright MCP Deep Dive: The Ultimate Guide with Examples](https://scrape.do/blog/playwright-mcp/)
 -   [Best Web Scraping Proxy Providers and Why You Need One](https://scrape.do/blog/web-scraping-proxy/)
+-   [CAPTCHA Bypass in 2026: Top 5 Approaches Explained](https://scrape.do/blog/bypass-captcha/)
 
 ## ScrapingBee
 -   [How to Scrape Algolia Search: The Hidden API Method](https://www.scrapingbee.com/blog/how-to-scrape-algolia-search/)
