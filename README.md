@@ -1154,6 +1154,7 @@
 -   [Exploring GoScrapy: A Go Alternative to Python's Scrapy](https://www.scraping.club/p/goscrapy-go-alternative-scrapy)
 -   [The Impact of Chrome's New CPU Performance API on Web Scraping Detection](https://www.scraping.club/p/the-impact-of-chromes-new-cpu-performance-api)
 -   [Testing webclaw: A Firecrawl Alternative for Web Extraction in AI Agents](https://www.scraping.club/p/webclaw-a-firecrawl-alternative-api)
+-   [Can invisible_playwright Beat Bot Detection? A Hands-On Test and Review](https://www.scraping.club/p/invisible-playwright-beat-bot-detection-scraping)
 
 ## Tina
 -   [How To Create a Markdown Blog With Next.js](https://tina.io/blog/simple-markdown-blog-nextjs/)
