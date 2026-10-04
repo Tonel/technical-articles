@@ -37,6 +37,7 @@
 -   [AI prospecting tools: beyond traditional sales intelligence](https://blog.apify.com/ai-prospecting-tools-for-sales/)
 -   [15 best AI tools for e-commerce to automate and scale your business](https://blog.apify.com/ai-tools-for-e-commerce/)
 -   [Company data API: How to get Dun & Bradstreet data without the enterprise contract](https://blog.apify.com/dun-bradstreet-scraper-dnb-api/)
+-   [Give your LangGraph agent real-time web data with Apify](https://blog.apify.com/langgraph-agent-web-data/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
