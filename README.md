@@ -38,6 +38,7 @@
 -   [15 best AI tools for e-commerce to automate and scale your business](https://blog.apify.com/ai-tools-for-e-commerce/)
 -   [Company data API: How to get Dun & Bradstreet data without the enterprise contract](https://blog.apify.com/dun-bradstreet-scraper-dnb-api/)
 -   [Give your LangGraph agent real-time web data with Apify](https://blog.apify.com/langgraph-agent-web-data/)
+-   [10 best AI tools for real estate investors: Complete 2026 guide](https://blog.apify.com/ai-tools-for-real-estate-investors/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
@@ -443,6 +444,8 @@
 -   [Web Scraping with GLM: Text and Visual Data Extraction](https://brightdata.com/blog/ai/web-scraping-with-glm)
 -   [Let chrome-devtools-mcp Control Cloud Anti-Detect Browsers](https://brightdata.com/blog/ai/chrome-devtools-mcp-with-bright-data)
 -   [Audio Web Scraping for AI Processing: A Complete Tutorial](https://brightdata.com/blog/web-data/audio-web-scraping)
+-   [Give Kimi Code CLI Web Access with Bright Data CLI (+ MCP)](https://brightdata.com/blog/ai/kimi-code-cli-with-bright-data)
+-   [Let Your Octop Agents Explore the Web with Bright Data CLI and MCP](https://brightdata.com/blog/ai/octop-with-bright-data)
 
 ### Bright Data x Geekflare
 -   [How to Scrape Google Search Results: SERP Scraping in Python](https://geekflare.com/how-to-perform-serp-scraping-in-python/)
@@ -1077,9 +1080,12 @@
 -   [Best Web Scraping Proxy Providers and Why You Need One](https://scrape.do/blog/web-scraping-proxy/)
 -   [CAPTCHA Bypass in 2026: Top 5 Approaches Explained](https://scrape.do/blog/bypass-captcha/)
 -   [LLM-Ready Data: Comparing the Best Formats for Web-Scraped Data](https://scrape.do/blog/llm-ready-data/)
+-   [How to Block Web Scraping: Insights from a Pro Web Scraper](https://scrape.do/blog/block-web-scraping/)
+-   [How to Bypass Amazon CAPTCHA in 2026: Main Approaches](https://scrape.do/blog/bypass-amazon-captcha/)
 
 ## ScrapingBee
 -   [How to Scrape Algolia Search: The Hidden API Method](https://www.scrapingbee.com/blog/how-to-scrape-algolia-search/)
+-   [Best Language for Web Scraping in 2026: Top 5 Compared](https://www.scrapingbee.com/blog/best-language-for-web-scraping/)
 
 ## Semaphore
 -   [Why You Need an API Layer and How To Build It in React](https://semaphoreci.com/blog/api-layer-react)
