@@ -1183,4 +1183,5 @@
 -   [GraphQL API security risks every developer should know about](https://www.wiz.io/academy/api-security/graphql-api-security-risks) (Ghostwriting)
 -   [Exposure Management Best Practices Cheat Sheet](https://www.wiz.io/lp/exposure-management-best-practices-cheat-sheet) (Ghostwriting)
 -   [AI Supply Chain Security Best Practices Cheat Sheet](https://www.wiz.io/lp/ai-supply-chain-security-best-practices-cheat-sheet) (Ghostwriting)
+-   [Prompt Injection Attacks on Cloud AI Agents in Six Steps](https://www.wiz.io/lp/prompt-injection-incident-response-playbook) (Ghostwriting)
 
