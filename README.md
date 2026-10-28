@@ -1091,6 +1091,7 @@
 
 ## ScrapingBee
 -   [How to Scrape Algolia Search: The Hidden API Method](https://www.scrapingbee.com/blog/how-to-scrape-algolia-search/)
+-   [How to Use Playwright in Ruby for Scraping and Testing](https://www.scrapingbee.com/blog/how-to-use-playwright-in-ruby/)
 -   [Best Language for Web Scraping in 2026: Top 5 Compared](https://www.scrapingbee.com/blog/best-language-for-web-scraping/)
 
 ## Semaphore
