@@ -1034,6 +1034,7 @@
 -   [Model Tiering for VLA 2.0 Is a Data Problem, Not Just a Matter of TOPS](https://levelup.gitconnected.com/model-tiering-for-vla-2-0-is-a-data-problem-not-just-a-matter-of-tops-8720ef6a27f0)
 -   [Residential Proxy SDKs Explained: What Separates Legitimate Networks From Botnets](https://levelup.gitconnected.com/residential-proxy-sdks-explained-what-separates-legitimate-networks-from-botnets-7cdc3f39a198)
 -   [How to Build Instagram and TikTok Data Pipelines](https://levelup.gitconnected.com/how-to-build-instagram-and-tiktok-data-pipelines-5692494e9f01)
+-   [Cloudflare Built a Browser for AI Agents. It Cannot Pass Cloudflare’s Bot Checks](https://medium.com/gitconnected/cloudflare-built-a-browser-for-ai-agents-it-cannot-pass-cloudflares-bot-checks-e644da54c5ce)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
