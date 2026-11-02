@@ -1035,6 +1035,7 @@
 -   [Residential Proxy SDKs Explained: What Separates Legitimate Networks From Botnets](https://levelup.gitconnected.com/residential-proxy-sdks-explained-what-separates-legitimate-networks-from-botnets-7cdc3f39a198)
 -   [How to Build Instagram and TikTok Data Pipelines](https://levelup.gitconnected.com/how-to-build-instagram-and-tiktok-data-pipelines-5692494e9f01)
 -   [Cloudflare Built a Browser for AI Agents. It Cannot Pass Cloudflare’s Bot Checks](https://medium.com/gitconnected/cloudflare-built-a-browser-for-ai-agents-it-cannot-pass-cloudflares-bot-checks-e644da54c5ce)
+-   [Keeping SEO Rank Tracking Working After Google’s New Redirect URLs](https://medium.com/codex/keeping-seo-rank-tracking-working-after-googles-new-redirect-urls-7d79a3f3965b)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
@@ -1192,4 +1193,5 @@
 -   [Exposure Management Best Practices Cheat Sheet](https://www.wiz.io/lp/exposure-management-best-practices-cheat-sheet) (Ghostwriting)
 -   [AI Supply Chain Security Best Practices Cheat Sheet](https://www.wiz.io/lp/ai-supply-chain-security-best-practices-cheat-sheet) (Ghostwriting)
 -   [Prompt Injection Attacks on Cloud AI Agents in Six Steps](https://www.wiz.io/lp/prompt-injection-incident-response-playbook) (Ghostwriting)
+-   [How Humanization Works in Anti-Detect Browser Automation Tools](https://www.scraping.club/p/how-humanization-works-web-scraping) (Ghostwriting)
 
