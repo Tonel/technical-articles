@@ -39,6 +39,8 @@
 -   [Company data API: How to get Dun & Bradstreet data without the enterprise contract](https://blog.apify.com/dun-bradstreet-scraper-dnb-api/)
 -   [Give your LangGraph agent real-time web data with Apify](https://blog.apify.com/langgraph-agent-web-data/)
 -   [10 best AI tools for real estate investors: Complete 2026 guide](https://blog.apify.com/ai-tools-for-real-estate-investors/)
+-   [Where does AI get its information? The data sources behind every answer](https://blog.apify.com/ai-information/)
+-   [AI agent examples in 2026: how companies actually use agentic AI](https://blog.apify.com/ai-agent-examples/)
 
 ## Apostrophe
 -   [Contentful vs. Apostrophe: An In-Depth Comparison](https://apostrophecms.com/compare-cms-solutions/contentful)
