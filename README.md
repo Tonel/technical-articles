@@ -549,6 +549,9 @@
 -   [Most Common Anti-Bot Measures and How to Bypass Them](https://techjury.net/blog/common-anti-bot-measures-and-how-to-bypass-them/)
 -   [How to Crawl a Site Without Getting Blocked?](https://techjury.net/blog/how-to-crawl-a-site-without-getting-blocked/)
 
+## Browser Use
+-   [Top 7 Providers of Browser Infrastructure](https://levelup.gitconnected.com/top-7-providers-of-browser-infrastructure-477a560b33cd)
+
 ## Built In
 -  [How To Fix the ‘ERR_OSSL_EVP_UNSUPPORTED’ Error in Node.js](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
 -  [How to Fix the GitHub Error ‘Remote Host Identification Has Changed’](https://builtin.com/software-engineering-perspectives/git-remote-host-identification-has-changed)
