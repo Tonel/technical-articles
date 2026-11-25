@@ -1047,6 +1047,7 @@
 -   [Collect Data From Hard-to-Scrape Sites With #1 Success Rates](https://medium.com/codex/collect-data-from-hard-to-scrape-sites-with-1-success-rates-4c226191d59b)
 -   [What Does Getty Images’ Bankruptcy Mean for Image Data Collection?](https://medium.com/@antozanini/what-does-getty-images-bankruptcy-mean-for-image-data-collection-363ff6928ff5)
 -   [Is AI Crawling Really Bad? AI vs. Traditional Web Crawling Explained](https://pub.towardsai.net/is-ai-crawling-really-bad-ai-vs-traditional-web-crawling-explained-8ce48367405d)
+-   [What Reddit’s Login Shift Means for Discussion Data Collection](https://medium.com/@antozanini/what-reddits-login-shift-means-for-discussion-data-collection-ca653ee06478)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
