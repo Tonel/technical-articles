@@ -1046,6 +1046,7 @@
 -   [Keeping SEO Rank Tracking Working After Google’s New Redirect URLs](https://medium.com/codex/keeping-seo-rank-tracking-working-after-googles-new-redirect-urls-7d79a3f3965b)
 -   [Collect Data From Hard-to-Scrape Sites With #1 Success Rates](https://medium.com/codex/collect-data-from-hard-to-scrape-sites-with-1-success-rates-4c226191d59b)
 -   [What Does Getty Images’ Bankruptcy Mean for Image Data Collection?](https://medium.com/@antozanini/what-does-getty-images-bankruptcy-mean-for-image-data-collection-363ff6928ff5)
+-   [Is AI Crawling Really Bad? AI vs. Traditional Web Crawling Explained](https://pub.towardsai.net/is-ai-crawling-really-bad-ai-vs-traditional-web-crawling-explained-8ce48367405d)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
