@@ -1048,6 +1048,10 @@
 -   [What Does Getty Images’ Bankruptcy Mean for Image Data Collection?](https://medium.com/@antozanini/what-does-getty-images-bankruptcy-mean-for-image-data-collection-363ff6928ff5)
 -   [Is AI Crawling Really Bad? AI vs. Traditional Web Crawling Explained](https://pub.towardsai.net/is-ai-crawling-really-bad-ai-vs-traditional-web-crawling-explained-8ce48367405d)
 -   [What Reddit’s Login Shift Means for Discussion Data Collection](https://medium.com/@antozanini/what-reddits-login-shift-means-for-discussion-data-collection-ca653ee06478)
+-   [What Is Screen Scraping? How It Works and Best Tools](https://brightdata.com/blog/brightdata-in-practice/what-is-screen-scraping)
+-   [How Beauty Brands Use Data to Understand Consumers and Stay Ahead of Trends](https://brightdata.com/blog/brightdata-in-practice/cosmetic-brands-using-data-sets)
+-   [How to Set Up a Proxy in Windows 10 (Version 22H2): HTTP, HTTPS, and SOCKS Proxy Setup](https://brightdata.com/blog/how-tos/set-up-a-proxy-in-windows-10)
+-   [What Is Data Extraction? Tools, Techniques, Examples, and Services](https://brightdata.com/blog/brightdata-in-practice/what-is-data-extraction)
 
 ## Mito      
 -   [Automatically Generating Data Exploration Code in Python With Mito](https://dev.to/antozanini/automatically-generating-data-exploration-code-in-python-with-mito-3j7l)
